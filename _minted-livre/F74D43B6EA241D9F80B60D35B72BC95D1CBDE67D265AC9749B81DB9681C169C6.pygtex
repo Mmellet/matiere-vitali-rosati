@@ -1,0 +1,41 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{n+nt}{\PYGZlt{}div}\PYG{+w}{ }\PYG{n+na}{xml:id=}\PYG{l+s}{\PYGZdq{}div\PYGZhy{}edition\PYGZus{}6\PYGZdq{}}\PYG{+w}{ }\PYG{n+na}{xml:lang=}\PYG{l+s}{\PYGZdq{}gr\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}
+\PYG{n+nt}{\PYGZlt{}div}\PYG{+w}{ }\PYG{n+na}{type=}\PYG{l+s}{\PYGZdq{}epigram\PYGZdq{}}\PYG{+w}{ }\PYG{n+na}{n=}\PYG{l+s}{\PYGZdq{}6\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}
+\PYG{+w}{  }\PYG{n+nt}{\PYGZlt{}head\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}Ss1 \PYGZsh{}s2 \PYGZsh{}s3 \PYGZsh{}s4 \PYGZsh{}B \PYGZsh{}B1\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}S\PYG{n+nt}{\PYGZlt{}/ref\PYGZgt{}}
+\PYG{+w}{    }55\PYG{+w}{ }(f.\PYG{+w}{ }180\PYG{n+nt}{\PYGZlt{}hi}\PYG{+w}{ }\PYG{n+na}{rend=}\PYG{l+s}{\PYGZdq{}sup\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}v\PYG{n+nt}{\PYGZlt{}/hi\PYGZgt{}})\PYG{+w}{ }=\PYG{+w}{ }\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}B\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}B\PYG{n+nt}{\PYGZlt{}/ref\PYGZgt{}}
+\PYG{+w}{    }9\PYG{+w}{ }(f.\PYG{+w}{ }135\PYG{n+nt}{\PYGZlt{}hi}\PYG{+w}{ }\PYG{n+na}{rend=}\PYG{l+s}{\PYGZdq{}sup\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}r\PYG{n+nt}{\PYGZlt{}/hi\PYGZgt{}})
+\PYG{+w}{  }\PYG{n+nt}{\PYGZlt{}/head\PYGZgt{}}
+\PYG{+w}{  }\PYG{n+nt}{\PYGZlt{}p\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}note}\PYG{+w}{ }\PYG{n+na}{type=}\PYG{l+s}{\PYGZdq{}testium\PYGZdq{}}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}range(right(S55\PYGZus{}1a),left(S55\PYGZus{}2e))\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}P\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}P\PYG{n+nt}{\PYGZlt{}/ref\PYGZgt{}}\PYG{+w}{ }10.76\PYG{+w}{ }(p.\PYG{+w}{ }501)\PYG{n+nt}{\PYGZlt{}/note\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}note}\PYG{+w}{ }\PYG{n+na}{type=}\PYG{l+s}{\PYGZdq{}testium\PYGZdq{}}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}range(right(S55\PYGZus{}1a),left(S55\PYGZus{}2e))\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}Pl\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}Pl\PYG{n+nt}{\PYGZlt{}/ref\PYGZgt{}}\PYG{+w}{ }1a.74.4\PYG{+w}{ }(f.\PYG{+w}{ }18\PYG{n+nt}{\PYGZlt{}hi}\PYG{+w}{ }\PYG{n+na}{rend=}\PYG{l+s}{\PYGZdq{}sup\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}v\PYG{n+nt}{\PYGZlt{}/hi\PYGZgt{}})
+\PYG{+w}{   }[\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}Q\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}Q\PYG{n+nt}{\PYGZlt{}/ref\PYGZgt{}},\PYG{+w}{ }f.\PYG{+w}{ }18\PYG{n+nt}{\PYGZlt{}hi}\PYG{+w}{ }\PYG{n+na}{rend=}\PYG{l+s}{\PYGZdq{}sup\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}v\PYG{n+nt}{\PYGZlt{}/hi\PYGZgt{}}]\PYG{n+nt}{\PYGZlt{}/note\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}note}\PYG{+w}{ }\PYG{n+na}{type=}\PYG{l+s}{\PYGZdq{}testium\PYGZdq{}}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}range(right(S55\PYGZus{}1a),left(S55\PYGZus{}2e))\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}l\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}L\PYG{n+nt}{\PYGZlt{}/ref\PYGZgt{}}98\PYG{+w}{ }(f.\PYG{+w}{ }6\PYG{n+nt}{\PYGZlt{}hi}\PYG{+w}{ }\PYG{n+na}{rend=}\PYG{l+s}{\PYGZdq{}sup\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}r\PYG{n+nt}{\PYGZlt{}/hi\PYGZgt{}}),
+\PYG{+w}{    }qui\PYG{+w}{ }duo\PYG{+w}{ }epigr.\PYG{+w}{ }distinxit,\PYG{+w}{ }1\PYGZhy{}2\PYG{+w}{ }et\PYG{+w}{ }3\PYGZhy{}8\PYG{n+nt}{\PYGZlt{}/note\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}note}\PYG{+w}{ }\PYG{n+na}{type=}\PYG{l+s}{\PYGZdq{}lemmata\PYGZdq{}}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}range(right(S55\PYGZus{}1a),left(S55\PYGZus{}2e))\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}εἰς\PYG{+w}{ }τὸ\PYG{+w}{ }αὐτό
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}B\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}B\PYG{n+nt}{\PYGZlt{}/ref\PYGZgt{}\PYGZlt{}/note\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}note}\PYG{+w}{ }\PYG{n+na}{type=}\PYG{l+s}{\PYGZdq{}tituli\PYGZdq{}}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}range(right(S55\PYGZus{}1a),left(S55\PYGZus{}2e))\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}
+\PYG{+w}{    }Tit.\PYG{+w}{ }Παύλου\PYG{+w}{ }Σιλεντιαρίου\PYG{+w}{ }\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}P\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}P\PYG{n+nt}{\PYGZlt{}/ref\PYGZgt{}},
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}Pl\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}Pl\PYG{n+nt}{\PYGZlt{}/ref\PYGZgt{}\PYGZlt{}/note\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}note}\PYG{+w}{ }\PYG{n+na}{type=}\PYG{l+s}{\PYGZdq{}tituli\PYGZdq{}}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}range(right(S55\PYGZus{}1a),left(S55\PYGZus{}2e))\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}
+\PYG{+w}{    }s.a.n.\PYG{+w}{ }\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}Ss1 \PYGZsh{}s2 \PYGZsh{}s3 \PYGZsh{}s4 \PYGZsh{}B,B1s1 \PYGZsh{}s2 \PYGZsh{}s3 \PYGZsh{}s4\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}S
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}hi}\PYG{+w}{ }\PYG{n+na}{rend=}\PYG{l+s}{\PYGZdq{}sup\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}S\PYG{n+nt}{\PYGZlt{}/hi\PYGZgt{}\PYGZlt{}/ref\PYGZgt{}},
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}B\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}B\PYG{n+nt}{\PYGZlt{}/ref\PYGZgt{}},\PYG{+w}{ }\PYG{n+nt}{\PYGZlt{}ref}\PYG{+w}{ }\PYG{n+na}{target=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}l\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}L\PYG{n+nt}{\PYGZlt{}/ref\PYGZgt{}\PYGZlt{}/note\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}anchor}\PYG{+w}{ }\PYG{n+na}{xml:id=}\PYG{l+s}{\PYGZdq{}S55\PYGZus{}1a\PYGZdq{}}\PYG{n+nt}{/\PYGZgt{}}
+\PYG{+w}{  }\PYG{n+nt}{\PYGZlt{}/p\PYGZgt{}}
+\PYG{+w}{  }\PYG{n+nt}{\PYGZlt{}lg}\PYG{+w}{ }\PYG{n+na}{type=}\PYG{l+s}{\PYGZdq{}hexdact\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}l\PYGZgt{}}Οὐ\PYG{+w}{ }τὸ\PYG{+w}{ }ζῆν\PYG{+w}{ }χαρίεσσαν\PYG{+w}{ }ἔχει\PYG{+w}{ }φύσιν,\PYG{+w}{ }ἀλλὰ\PYG{+w}{ }τὸ
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}app\PYGZgt{}\PYGZlt{}lem}\PYG{+w}{ }\PYG{n+na}{source=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}cramer\PYGZus{}anecdota\PYGZus{}1841,piccolos1 \PYGZsh{}s2 \PYGZsh{}s3,s4\PYGZus{}s1 \PYGZsh{}s2 \PYGZsh{}s3,}
+\PYG{l+s}{    s4upplement\PYGZus{}1853\PYGZhy{}1 \PYGZsh{}page\PYGZus{}further\PYGZus{}1981\PYGZhy{}2\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}ῥῖψαι\PYG{n+nt}{\PYGZlt{}/lem\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}rdg}\PYG{+w}{ }\PYG{n+na}{wit=}\PYG{l+s}{\PYGZdq{}\PYGZsh{}P \PYGZsh{}Pl, Ss1 \PYGZsh{}s2 \PYGZsh{}s3 \PYGZsh{}s4 \PYGZsh{}B,B1s1 \PYGZsh{}s2 \PYGZsh{}s3 \PYGZsh{}s4 \PYGZsh{}B\PYGZdq{}}\PYG{n+nt}{\PYGZgt{}}ῥίψαι\PYG{n+nt}{\PYGZlt{}/rdg\PYGZgt{}\PYGZlt{}/app\PYGZgt{}}\PYG{+w}{ }\PYG{n+nt}{\PYGZlt{}/l\PYGZgt{}}
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}l\PYGZgt{}}φροντίδας\PYG{+w}{ }ἐκ\PYG{+w}{ }στέρνων
+\PYG{+w}{    }\PYG{n+nt}{\PYGZlt{}app\PYGZgt{}\PYGZlt{}lem\PYGZgt{}}τὰς\PYG{n+nt}{\PYGZlt{}/lem\PYGZgt{}\PYGZlt{}rdg}\PYG{+w}{ }\PYG{n+na}{wit=}\PYG{l+s}{\PYGZdq{}Ss1 \PYGZsh{}s2 \PYGZsh{}s3 \PYGZsh{}s4 \PYGZsh{}B,B1s1 \PYGZsh{}s2 \PYGZsh{}s3 \PYGZsh{}s4 \PYGZsh{}B\PYGZdq{}}\PYG{n+nt}{/\PYGZgt{}\PYGZlt{}/app\PYGZgt{}}
+\PYG{+w}{    }πολιοκροτάφους.\PYG{+w}{ }\PYG{n+nt}{\PYGZlt{}anchor}\PYG{+w}{ }\PYG{n+na}{xml:id=}\PYG{l+s}{\PYGZdq{}S55\PYGZus{}2e\PYGZdq{}}\PYG{n+nt}{/\PYGZgt{}}\PYG{+w}{ }\PYG{n+nt}{\PYGZlt{}/l\PYGZgt{}}
+\PYG{+w}{  }\PYG{n+nt}{\PYGZlt{}/lg\PYGZgt{}}
+\PYG{n+nt}{\PYGZlt{}/div\PYGZgt{}}
+\PYG{n+nt}{\PYGZlt{}/div\PYGZgt{}}
+
+\end{Verbatim}

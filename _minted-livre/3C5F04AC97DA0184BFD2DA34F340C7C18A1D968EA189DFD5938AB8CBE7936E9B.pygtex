@@ -1,0 +1,40 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}edition\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}ekddiv}\PYG{n+nb}{\PYGZob{}}
+    type=epigram,
+    head=\PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}S\PYG{n+nb}{\PYGZcb{}}55 (f. 180\PYG{k}{\PYGZbs{}textsuperscript}\PYG{n+nb}{\PYGZob{}}v\PYG{n+nb}{\PYGZcb{}}) = \PYG{c}{\PYGZpc{}}
+    \PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}B\PYG{n+nb}{\PYGZcb{}}9 (f. 135\PYG{k}{\PYGZbs{}textsuperscript}\PYG{n+nb}{\PYGZob{}}r\PYG{n+nb}{\PYGZcb{}}),
+    n=6
+\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}note}\PYG{n+na}{[type=testium,nosep,nonum,labelb=S55\PYGZus{}1a,labele=S55\PYGZus{}2e]}\PYG{c}{\PYGZpc{}}
+\PYG{n+nb}{\PYGZob{}}\PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}P\PYG{n+nb}{\PYGZcb{}} 10.76 (p. 501)\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}note}\PYG{n+na}{[type=testium,nosep,nonum,labelb=S55\PYGZus{}1a,labele=S55\PYGZus{}2e]}\PYG{c}{\PYGZpc{}}
+\PYG{n+nb}{\PYGZob{}}\PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}Pl\PYG{n+nb}{\PYGZcb{}} 1a.74.4 (f. 18\PYG{k}{\PYGZbs{}textsuperscript}\PYG{n+nb}{\PYGZob{}}v\PYG{n+nb}{\PYGZcb{}}) \PYG{c}{\PYGZpc{}}
+[\PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}Q\PYG{n+nb}{\PYGZcb{}}, f. 18\PYG{k}{\PYGZbs{}textsuperscript}\PYG{n+nb}{\PYGZob{}}v\PYG{n+nb}{\PYGZcb{}}]\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}note}\PYG{n+na}{[type=testium,nosep,nonum,labelb=S55\PYGZus{}1a,labele=S55\PYGZus{}2e]}\PYG{c}{\PYGZpc{}}
+\PYG{n+nb}{\PYGZob{}}\PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}L\PYG{n+nb}{\PYGZcb{}}98 (f. 6\PYG{k}{\PYGZbs{}textsuperscript}\PYG{n+nb}{\PYGZob{}}r\PYG{n+nb}{\PYGZcb{}}),
+qui duo epigr. distinxit, 1\PYGZhy{}2 et 3\PYGZhy{}8\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}note}\PYG{n+na}{[type=lemmata,nosep,nonum,labelb=S55\PYGZus{}1a,labele=S55\PYGZus{}2e]}\PYG{c}{\PYGZpc{}}
+\PYG{n+nb}{\PYGZob{}}εἰς τὸ αὐτό \PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}B\PYG{n+nb}{\PYGZcb{}\PYGZcb{}}
+\PYG{k}{\PYGZbs{}note}\PYG{n+na}{[type=tituli,nosep,nonum,labelb=S55\PYGZus{}1a,labele=S55\PYGZus{}2e]}\PYG{c}{\PYGZpc{}}
+\PYG{n+nb}{\PYGZob{}}Tit. Παύλου Σιλεντιαρίου \PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}P\PYG{n+nb}{\PYGZcb{}}, \PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}Pl\PYG{n+nb}{\PYGZcb{}\PYGZcb{}}
+\PYG{k}{\PYGZbs{}note}\PYG{n+na}{[type=tituli,nosep,nonum,labelb=S55\PYGZus{}1a,labele=S55\PYGZus{}2e]}\PYG{c}{\PYGZpc{}}
+\PYG{n+nb}{\PYGZob{}}s.a.n. \PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}Ss\PYG{n+nb}{\PYGZcb{}}, \PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}B\PYG{n+nb}{\PYGZcb{}}, \PYG{k}{\PYGZbs{}getsiglum}\PYG{n+nb}{\PYGZob{}}L\PYG{n+nb}{\PYGZcb{}\PYGZcb{}}
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}ekdverse\PYG{n+nb}{\PYGZcb{}}[type=hexdact]
+\PYG{k}{\PYGZbs{}indentpattern}\PYG{n+nb}{\PYGZob{}}01\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}patverse\PYG{n+nb}{\PYGZcb{}}
+Οὐ τὸ ζῆν χαρίεσσαν ἔχει φύσιν, ἀλλὰ τὸ \PYG{k}{\PYGZbs{}app}\PYG{n+nb}{\PYGZob{}}
+    \PYG{k}{\PYGZbs{}lem}\PYG{n+na}{[sep=\PYGZob{}\PYGZti{}: \PYGZcb{}, source=edd]}\PYG{n+nb}{\PYGZob{}}ῥῖψαι\PYG{n+nb}{\PYGZcb{}}
+    \PYG{c}{\PYGZpc{}alt = edd. ; devrais peut\PYGZhy{}être Declare a Short Hand plutôt ?}
+    \PYG{k}{\PYGZbs{}rdg}\PYG{n+na}{[wit=\PYGZob{}P, Pl, Ss, B\PYGZcb{}]}\PYG{n+nb}{\PYGZob{}}ῥίψαι\PYG{n+nb}{\PYGZcb{}}
+\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}\PYGZbs{}}
+φροντίδας ἐκ στέρνων \PYG{k}{\PYGZbs{}app}\PYG{n+nb}{\PYGZob{}}
+    \PYG{k}{\PYGZbs{}lem}\PYG{n+na}{[sep=\PYGZob{}\PYGZti{}\PYGZcb{}, nodelim]}\PYG{n+nb}{\PYGZob{}}τὰς\PYG{n+nb}{\PYGZcb{}}
+    \PYG{k}{\PYGZbs{}rdg}\PYG{n+na}{[wit=\PYGZob{}Ss, B\PYGZcb{}, alt=om.]}\PYG{n+nb}{\PYGZob{}\PYGZcb{}}
+\PYG{n+nb}{\PYGZcb{}}
+πολιοκροτάφους. \PYG{k}{\PYGZbs{}linelabel}\PYG{n+nb}{\PYGZob{}}S55\PYG{n+nb}{\PYGZus{}}2e\PYG{n+nb}{\PYGZcb{}} \PYG{k}{\PYGZbs{}\PYGZbs{}}
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}patverse\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}ekdverse\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}edition\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

@@ -1,0 +1,123 @@
+\documentclass[12pt]{book}
+\usepackage[paperwidth=6in, paperheight=9in]{geometry}
+\usepackage[french]{babel}
+\usepackage[widows=prevent]{widows-and-orphans}
+\usepackage{fontspec}
+\setmainfont{Old Standard}[Rawfeature={onum;-liga}]
+\usepackage[colorlinks=false, hidelinks]{hyperref}
+\usepackage{graphicx}
+
+\usepackage{lettrine}
+\usepackage{minted}
+
+\usepackage{fancyhdr}
+\renewcommand{\chaptermark}[1]{\markright{ #1}}
+
+\pagestyle{fancy}
+\fancyhead{} % clear all header fields
+\fancyfoot{} % clear all footer fields
+\fancyhead[LE]{\textsc{C'est la matière qui pense}} % page number in header
+\fancyhead[RO]{\small\rightmark} % page number in header
+\fancyhead[LO,RE]{} % section title in header
+\fancyfoot[CE,CO]{\thepage} % page number in footer
+
+
+\makeatletter
+  \def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else
+  \vspace*{\fill}
+    \thispagestyle{empty}
+    \newpage
+    \if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
+
+
+\usepackage{classics}
+\newclassic{Plato}{#1|#1|#1}
+\DeclareClassicWorkFormat{\textit{#1}, {}}
+\newclassic[ to ]{Homer}{\classicsRoman{#1}|, #1}
+
+
+\setlength\emergencystretch{\hsize}\hbadness=10000
+% \tolerance=9999 %tollerance over et underfull box infinie - attention!
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{xcolor}
+\usepackage{color}
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+
+
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\title{C'est la matière qui pense: textes, édition, formats et la
+production de l'humain}
+\author{Marcello Vitali-Rosati}
+\date{}
+\begin{document}
+\thispagestyle{empty}
+\vspace*{1.6in}
+\begin{center}
+\Huge \textsc{C'est la matière qui pense}
+
+	\vspace{0.2in}
+\Large
+	\textit{textes, édition, formats et la
+	production de l'humain}
+
+\large
+	\vspace{0.4in}
+Marcello Vitali-Rosati
+
+	\vspace*{\fill}
+
+	\includegraphics[width=2cm]{logo_PURH_seul_noir.eps}
+	% \textsc{Presses universitaires de Rouen et du Havre}
+\end{center}
+\newpage
+
+\thispagestyle{empty}
+\vspace*{\fill}
+\footnotesize
+
+\noindent Licence CC BY 4.0
+\vspace{1cm}
+
+\noindent Mise en pages : \\ 
+Suivi éditorial aux PURH : Anaïs Monchy\\
+Presses universitaires de Rouen et du Havre, 2024\\
+Place Émile-Blondel – 76821 Mont-Saint-Aignan Cedex\\
+purh.univ-rouen.fr\\
+ISBN : \\
+ISSN : \\
+
+\newpage
+\normalsize
+\thispagestyle{empty}
+
+\input{texte.tex}
+
+\tableofcontents
+\end{document}
+
+
