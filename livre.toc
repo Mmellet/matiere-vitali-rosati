@@ -1,8 +1,0 @@
-\babel@toc {french}{}\relax 
-\contentsline {chapter}{Une matière terrible}{3}{chapter*.1}%
-\contentsline {chapter}{Le mauvais cigare}{7}{chapter*.2}%
-\contentsline {chapter}{La théorie de l'édition}{11}{chapter*.3}%
-\contentsline {chapter}{Formats et modèles}{17}{chapter*.4}%
-\contentsline {chapter}{Le cercle de la modélisation}{29}{chapter*.5}%
-\contentsline {chapter}{Mais alors qu'est ce qu'un être humain~?}{45}{chapter*.6}%
-\contentsline {chapter}{Bibliographie}{55}{chapter*.7}%
