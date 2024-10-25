@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.5.2)  20 OCT 2024 09:36
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.5.2)  25 OCT 2024 01:46
  system commands enabled.
 **livre.tex
 (./livre.tex
@@ -845,10 +845,10 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package epstopdf Info: Source file: <logo_PURH_seul_noir.eps>
-(epstopdf)                    date: 2016-01-21 05:56:20
+(epstopdf)                    date: 2024-10-24 02:54:10
 (epstopdf)                    size: 1325922 bytes
 (epstopdf)             Output file: <logo_PURH_seul_noir-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-10-16 09:47:31
+(epstopdf)                    date: 2024-10-24 02:54:10
 (epstopdf)                    size: 12108 bytes
 (epstopdf)             Command: <epstopdf --outfile=logo_PURH_seul_noir-eps-con
 verted-to.pdf logo_PURH_seul_noir.eps>
@@ -875,17 +875,6 @@ Package lettrine.sty Info: Targeted height = 19.972pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.972pt (D);
 (lettrine.sty)             reported on input line 14.
-
-! Undefined control sequence.
-<argument> ... ἄτεχνον παρέξεται. «\Celui 
-                                                  qui ne connaît pas la vé...
-l.28 ...ns art ~». \Plato[Phèdre]{262b}{[}10{]}).}
-                                                  . L'écriture est
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
 
 Package widows-and-orphans Warning: Hyphen in last line of page 3
@@ -1168,7 +1157,7 @@ Missing character: There is no ς (U+03C2) in font [lmmono8-regular]:!
 <s55ekdosis.png, id=171, 855.195pt x 269.005pt>
 File: s55ekdosis.png Graphic file (type png)
 <use s55ekdosis.png>
-Package luatex.def Info: s55ekdosis.png  used on input line 517.
+Package luatex.def Info: s55ekdosis.png  used on input line 519.
 (luatex.def)             Requested size: 301.12354pt x 112.91975pt.
 
 \openout3 = livre.pyg
@@ -1298,6 +1287,9 @@ Missing character: There is no υ (U+03C5) in font [lmmono8-regular]:!
 Missing character: There is no ς (U+03C2) in font [lmmono8-regular]:!
 ]
 
+Package widows-and-orphans Warning: Hyphen in last line of page 23
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
 (fancyhdr)                \setlength{\headheight}{13.59999pt}.
@@ -1356,7 +1348,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.972pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.972pt (L);
-(lettrine.sty)             reported on input line 714.
+(lettrine.sty)             reported on input line 716.
  [29
 Missing character: There is no ᵒ (U+1D52) in font "name:Old Standard:mode=node
 ;script=latn;language=dflt;+tlig;"!
@@ -1417,7 +1409,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [34]
 
-Package widows-and-orphans Warning: Orphan on page 35
+Package widows-and-orphans Warning: Hyphen in last line of page 35
+
+
+Underfull \vbox (badness 2213) has occurred while \output is active []
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1428,6 +1424,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [35]
+Underfull \vbox (badness 2111) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1438,9 +1437,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [36]
 
-Package widows-and-orphans Warning: Hyphen in last line of page 37
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
 (fancyhdr)                \setlength{\headheight}{13.59999pt}.
@@ -1449,11 +1445,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [37]
-
-Package widows-and-orphans Warning: Hyphen in last line of page 38
-
-
-Underfull \vbox (badness 2111) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1475,6 +1467,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [39]
 
+Package widows-and-orphans Warning: Hyphen in last line of page 40
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1483,9 +1478,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [40]
-
-Package widows-and-orphans Warning: Hyphen in last line of page 41
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1496,6 +1488,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [41]
 
+Package widows-and-orphans Warning: Hyphen in last line of page 42
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1504,15 +1503,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [42]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[43] [44
+
+]
 Package lettrine.sty Info: Targeted height = 19.972pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.47691pt (C);
-(lettrine.sty)             reported on input line 1125.
- [43
+(lettrine.sty)             reported on input line 1130.
+ [45]
 
-]
-
-Package widows-and-orphans Warning: Hyphen in last line of page 44
+Package widows-and-orphans Warning: Hyphen in last line of page 46
 
 
 Underfull \vbox (badness 7133) has occurred while \output is active []
@@ -1526,9 +1534,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[44]
+[46]
 
-Package widows-and-orphans Warning: Hyphen in last line of page 45
+Package widows-and-orphans Warning: Hyphen in last line of page 47
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1542,28 +1550,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[45]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[46]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
 [47]
-
-Package widows-and-orphans Warning: Hyphen in last line of page 48
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1593,13 +1580,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[50
-Missing character: There is no ᵒ (U+1D52) in font "name:Old Standard:mode=node
-;script=latn;language=dflt;+tlig;"!
-]
-
-Package widows-and-orphans Warning: Orphan on page 51
-
+[50]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1610,6 +1591,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [51]
 
+Package widows-and-orphans Warning: Hyphen in last line of page 52
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1617,14 +1601,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[52]
+[52
+Missing character: There is no ᵒ (U+1D52) in font "name:Old Standard:mode=node
+;script=latn;language=dflt;+tlig;"!
+]
 
 Package widows-and-orphans Warning: Orphan on page 53
 
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[53]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[54]
+
+Package widows-and-orphans Warning: Orphan on page 55
+
+
 Underfull \vbox (badness 3386) has occurred while \output is active []
 
- [53
+ [55
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1638,7 +1646,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[54
+[56
 Missing character: There is no ᵒ (U+1D52) in font "name:Old Standard:mode=node
 ;script=latn;language=dflt;+tlig;"!
 Missing character: There is no ᵒ (U+1D52) in font "name:Old Standard:mode=node
@@ -1651,7 +1659,7 @@ Missing character: There is no ᵒ (U+1D52) in font "name:Old Standard:mode=node
 ;script=latn;language=dflt;+tlig;"!
 ]
 
-Package widows-and-orphans Warning: Hyphen in last line of page 55
+Package widows-and-orphans Warning: Hyphen in last line of page 57
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1665,7 +1673,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[55
+[57
 Missing character: There is no ᵒ (U+1D52) in font "name:Old Standard:mode=node
 ;script=latn;language=dflt;+tlig;"!
 ])
@@ -1677,11 +1685,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[56] (./livre.toc)
+[58] (./livre.toc)
 \tf@toc=\write6
 
 \openout6 = livre.toc
- [57
+ [59
 
 ] (./livre.aux)
  ***********
@@ -1694,15 +1702,15 @@ runsystem(rm livre.pyg)...executed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 18018 strings out of 476381
+ 18020 strings out of 476381
  125027,1977958 words of node,token memory allocated
- 6042 words of node memory still in use:
-   6 hlist, 1 vlist, 1 rule, 334 glue, 3 kern, 1 penalty, 4 glyph, 1364 attribut
-e, 57 glue_spec, 196 attribute_list, 1 write, 16 pdf_action, 4 pdf_colorstack no
+ 6019 words of node memory still in use:
+   6 hlist, 1 vlist, 1 rule, 333 glue, 3 kern, 1 penalty, 4 glyph, 1357 attribut
+e, 57 glue_spec, 195 attribute_list, 1 write, 16 pdf_action, 4 pdf_colorstack no
 des
-   avail lists: 1:1,2:6200,3:164,4:754,5:303,6:26,7:6795,8:75,9:290,10:20,11:493
+   avail lists: 1:1,2:5960,3:166,4:708,5:304,6:26,7:6948,8:75,9:291,10:20,11:505
 
- 39670 multiletter control sequences out of 65536+600000
+ 39669 multiletter control sequences out of 65536+600000
  69 fonts using 11532919 bytes
  79i,13n,89p,434b,702s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.ot
@@ -1714,10 +1722,10 @@ ar.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/oldstandard/Old
 Standard-Bold.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/olds
 tandard/OldStandard-Italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentyp
 e/public/oldstandard/OldStandard-Regular.otf>
-Output written on livre.pdf (57 pages, 233788 bytes).
+Output written on livre.pdf (59 pages, 234897 bytes).
 
-PDF statistics: 532 PDF objects out of 1000 (max. 8388607)
- 441 compressed objects within 5 object streams
- 137 named destinations out of 1000 (max. 131072)
+PDF statistics: 541 PDF objects out of 1000 (max. 8388607)
+ 448 compressed objects within 5 object streams
+ 140 named destinations out of 1000 (max. 131072)
  57 words of extra memory for PDF output out of 10000 (max. 100000000)
 
