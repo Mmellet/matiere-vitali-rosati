@@ -60,7 +60,10 @@ toc:
     - id: chapitre1
       # si pas de partie, indiquer l'id du chapitre suivant
     - id: chapitre2
-    - id: conclusion
+    - id: chapitre3
+    - id: chapitre4
+    - id: chapitre5
+    - id: chapitre6
     - id: bibliographie
     - id: index-np
     - id: colophon
@@ -69,7 +72,7 @@ referenceCitation:
           @melletTitreLivreTest2024
 # clé bibtex de l'ouvrage
 publisher: >-
-    Les Ateliers de [sens public]
+    Presses universitaires de Rouen et du Havre
 # nom de la maison d'édition
-place: Montréal
+place: Rouen
 # lieu de la maison d'édition

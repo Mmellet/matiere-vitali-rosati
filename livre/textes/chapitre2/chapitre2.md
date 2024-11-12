@@ -1,24 +1,24 @@
-<!--insérer ci-dessous le texte en markdown du chapitre 1-->
+## Le mauvais cigare
 
-## I. Titre de section
+\lettrine{P}our bien saisir l'enjeu théorique qui est au centre de ces questions et en particulier le rôle de ce qui semble être trivialement matériel dans la production et l'émergence du sens, il est utile de s'arrêter sur une anecdote à propos d'une des expériences fondamentales pour la physique quantique, l'expérience de Stern et Gerlach, racontée par Bretislav Friedrich et Dudley Herschbach [@friedrich_stern_2003] et ensuite reprise par Karen Barad [@barad_meeting_2007].
 
-Ceci est un exemple de chapitre sans section **Contenus additionnels** et  **Références**.
+L'expérience a été imaginée par Otto Stern pour vérifier une hypothèse de Niels Bohr sur la structure de l'atome. Selon Bohr, l'orientation du plan orbital des électrons autour du noyau de l'atome ne pourrait prendre que certaines valeurs discrètes. L'espace serait donc discret et non continu\ : c'est l'idée de la «\ quantification de l'espace\ ». Cette idée est évidemment contraire à l'idée d'espace continu et dense de la physique classique.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse risus velit, dignissim et ante a, volutpat elementum ipsum[^1].
+Stern, en 1921, imagine donc une expérience pour tester l'hypothèse de Bohr. Un appareil qui fera passer un faisceau d'atomes d'argent entre deux aimants jusqu'à arriver sur un écran de verre. Si l'hypothèse de Bohr est juste, le faisceau devrait se diviser en deux, sinon, dans l'hypothèse d'un espace continu, on devrait avoir sur le verre une tâche homogène d'atomes.
 
-### I.1. Titre de sous-section
+Stern, pour réaliser l'expérience, s'adresse à son collègue Walther Gerlach. L'expérience est difficile et délicate à mettre en place et demande plusieurs nuits de travail à Gerlach. À la fin, les deux chercheurs arrivent à produire ce qu'ils souhaitent, mais en regardant la plaque de verre, ils ne voient rien. Voici le récit de Stern\ :
 
-Etiam non tortor ac turpis sagittis lobortis. Phasellus nec diam vitae sem efficitur euismod.
+>After venting to release the vacuum, Gerlach removed the detector flange. But he could see no trace of the silver atom beam and handed the flange to me. With Gerlach looking over my shoulder as I peered closely at the plate, we were surprised to see gradually emerge the trace of the beam.. . . Finally we realized what [had happened]. I was then the equivalent of an assistant professor.
+My salary was too low to afford good cigars, so I smoked bad cigars. These had a lot of sulfur in them, so my breath on the plate turned the silver into silver sulfide, which is jet black, so easily visible. It was like developing a photographic film.^[«Après avoir évacué le vide, Gerlach retira la plaque du détecteur. Mais il ne voyait aucune trace du faisceau d'atomes d'argent et me tendit la plaque. Avec Gerlach qui regardait par-dessus mon épaule pendant que j'examinais attentivement la plaque, nous fumes surpris de voir émerger progressivement la trace du faisceau... . . Nous comprimes enfin ce qui s'était passé. J'étais alors l'équivalent d'un professeur adjoint.
+Mon salaire était trop bas pour me permettre d'acheter de bons cigares, alors je fumais de mauvais cigares. Ceux-ci contenaient beaucoup de soufre, et mon souffle sur la plaque a transformé l'argent en sulfure d'argent, qui est d'un noir de jais et donc facilement visible. C'était comme développer une pellicule photographique.» _Ma traduction_. Ce texte est reconstruit par Herschbach suite à une conversation privée avec Stern qui a eu lieu en 1960 et cité dans @friedrich_stern_2003]
 
+Ce texte vaut la peine d'être analysé attentivement car il met en crise de façon exemplaire l'idée d'une pensée immatérielle, idéale, abstraite de toute composante «\ bassement matérielle\ ».
 
-### I.2. Titre de sous-section
+Comme le souligne Barad [@barad_meeting_2007 p. 165 et ss.], ce récit questionne l'idée d'un dispositif d'observation dont les limites et les frontières sont très nettement définies. Où commence l'instrument et où finit-il\ ? Le dispositif mis en place par Stern et Gerlach ne donne pas le résultat espéré. Le cigare doit faire partie du dispositif. Mais pas n'importe quel cigare\ : un mauvais cigare. Cela implique donc que même le salaire de Stern, et les raisons de ce salaire -- combien est payé un professeur adjoint -- font partie du dispositif d'observation. Par ailleurs, si on continue l'analyse, l'hypothèse de Stern n'était pas juste\ : en réalité ce que montre l'expérience, plus que la quantification de l'espace, c'est le fait que les électrons ont un spin. Cette expérience devient fondamentale dans les livres de physique seulement plusieurs années après, et justement en tant que démonstration du spin.
 
-In feugiat tincidunt sagittis. Fusce venenatis egestas neque quis tempor.
+L'interprétation selon laquelle une personne brillante -- ici Stern -- a une idée géniale, la définit de façon formelle et abstraite et ensuite la démontre avec un dispositif aux frontières claires et bien définies est complètement invalidée. L'idée, la théorie sont le résultat d'une série de facteurs dont font partie les conditions économiques d'un professeur adjoint en 1920, le rapport entre le coûts des cigares et la présence de soufre, la visibilité du sulfure d'argent sur du verre et l'invisibilité de l'argent, le travail d'une large communauté de recherche qui s'interroge sur des résultats expérimentaux pendant plusieurs décennies, etc.
 
+Le dispositif d'observation n'est pas idéal -- dans le sens de quelque chose dont la matérialité n'est qu'un accident car ce qui compte n'est que la structure formelle\ : le dispositif est la matière et c'est cette matière complexe, qui comprend des éléments comme le sulfure d'argent et comme le niveau de reconnaissance économique d'un jeune professeur, c'est cette matière complexe qui fait émerger une idée. La théorie est un agencement matériel d'une série d'éléments.
 
-## II. Titre de section
+Barad résume tout cela avec la phrase\ : _matter matters_. C'est ce que je veux dire ici quand j'affirme\ : c'est la matière qui pense.
 
-Pellentesque pulvinar eros, pharetra auctor orci. Etiam accumsan orci vitae convallis ultrices.
-
-
-[^1]: Integer ut ante et lacus.

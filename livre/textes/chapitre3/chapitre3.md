@@ -1,0 +1,36 @@
+## La théorie de l'édition
+
+\lettrine{M}ais qu'est-ce qu'un mauvais cigare a à voir avec l'édition\ ?
+
+Le monde du texte a souvent été pensé sur la base des mêmes présupposés idéalistes -- ou plutôt «\ immatériels\ » -- qui caractérisent l'interprétation de la physique que nous venons de questionner. 
+
+Cette idéologie, quelque peu caricaturée, je l'admets, met au sommet d'une pyramide symbolique le sens et la pensée qui seraient immatériels -- comme le λόγος de la _doxa_ platonicienne. Le texte aussi est idéalisé et pensé comme abstrait de son incarnation matérielle. Il y aurait quelque chose comme un texte idéal. Cette idée abstraite du texte est par ailleurs très présente dans ce qu'on pourrait appeler la _doxa_ post-structuraliste^[Sur ce sujet, cf. l'analyse de @archibald_texte_2009. Analyse bien résumée par cette phrase, que je partage\ : «\ Le texte, tel qu'il se conçoit depuis 50 ans, est un
+objet pour ainsi dire purement sémiotique, un objet virtuel construit au-dessus et au-delà de toute
+matérialité\ » p. 20.]\ : le texte de Kristeva avec une idée d'intertextualité très peu incarnée, mais même le texte -- et l'écriture -- de Derrida -- qui malgré sa critique de l'immatérialité phallocentrique de Platon, s'empresse de souligner -- justement dans la _Pharmacie de Platon_ [@derrida_pharmacie_1968] où il propose son analyse du _Phèdre_ -- que «\ un texte reste d'ailleurs toujours imperceptible\ » et qui donne à la fin une idée d'écriture fortement désincarnée<!--cette phrase n'est pas finie ? J'ai pas compris-->.
+
+Cette idéologie se concrétise dans un dispositif d'attribution de valeur symbolique, un dispositif social et culturel dont l'objectif ultime est de produire des hiérarchies, des concentrations de pouvoir, des distinctions de classe. Un dispositif qui crée donc des élites et des subalternes. La distinction entre élite et subalternes se fait justement sur la base du niveau de matérialité de leurs tâches et de leurs compétences\ : du côté de l'immatérialité, et du «\ texte toujours imperceptible\ », l'élite, qui ne manipule rien, qui pense, d'une pensée idéale dont les idées demeurent dans l'hyperouranion. Les mains blanches et lisses, le genre toujours masculin, possiblement une barbe, une cravate, un mépris pour tout ce qui est vilement matériel. De l'autre côté, celles et ceux qui touchent un texte tout à fait perceptible, un texte qui salit les mains et les abime, un texte qui ne semble pas demander de la pensée, mais de l'action. Et ces personnes sont souvent des femmes, ou des pauvres. D'un côté la théorie et l'élite, de l'autre la pratique et les subalternes.
+
+L'édition est, en bonne partie, du côté de la pratique. En bonne partie, dis-je, car certains aspects du métier ont certes été idéalisés, sacralisés même. Il est possible de trouver la figure du «\ grand éditeur\ » -- encore une fois, toujours au masculin. Mais cet éditeur aura très probablement peu souvent à toucher une presse, ou à corriger une coquille.
+
+L'édition dans son aspect matériel, dans sa composante qui touche aux supports (comme la composition, la révision, l'impression) est pratique, elle ne demande pas -- ou elle semble ne pas demander, car c'est justement cette idée que je vais essayer de renverser -- de la théorie.
+
+Les premières pages d'_Illusions perdues_, un roman qui propose une des réflexions les plus profondes sur le monde de l'impression, mettent justement en scène ce dispositif de production des élites et des subalternes en représentant le petit monde qui tourne autour des presses mécaniques.
+
+>Ce Séchard était un ancien compagnon pressier, que dans leur argot typographique les ouvriers chargés d’assembler les lettres appellent un Ours. Le mouvement de va-et-vient, qui ressemble assez à celui d’un ours en cage, par lequel les pressiers se portent de l’encrier à la presse et de la presse à l’encrier, leur a sans doute valu ce sobriquet. En revanche, les Ours ont nommé les compositeurs des Singes, à cause du continuel exercice qu’ils font pour attraper les lettres dans les cent cinquante-deux petites cases où elles sont contenues. 
+
+Le ton moqueur de ce passage exprime sans ambiguïté le peu de considération que l'on doit attribuer à des métiers de ce type. Ce sont les bras qui servent -- de façon aveugle, sans rien apporter à la production du sens -- une pensée. Ces artisans de l'édition ne font clairement pas partie de l'élite qui pense. Leurs tâches n'ont aucune valeur symbolique. Et c'est la raison pour laquelle leurs sobriquets les transforment en animaux. Animaux, machines et subalternes forment une unité\ : tous ceux qui se trouvent du côté de la matière et qui n'ont aucun rapport avec le monde immatériel de la pensée.
+
+Bien évidemment, même dans le monde des subalternes, il y a des hiérarchies, et Balzac s'amuse à en jouer\ :
+
+
+>l’Ours solitaire était incapable de se transformer en Singe ; car, en sa qualité d’imprimeur, il ne sut jamais ni lire ni écrire. 
+
+
+Si l'édition ne peut qu'être considérée comme une pratique, car elle touche à la matérialité du texte, à la matière dans laquelle hélas la pensée est contrainte de s'incarner, il est aussi vrai que ce même monde de l'édition peut être hiérarchisé dans une pyramide au sommet de laquelle il y aura les personnes qui prennent des décisions, qui choisissent des manuscrits et une ligne éditoriale, qui peuvent faire un discours lors d'une soirée de lancement d'un livre. Ensuite viennent les réviseurs, les compositeurs, les graphistes, les imprimeurs. Et là on est convaincu qu'il n'y a plus de sens en jeu. 
+
+C'est le moment de repenser au cigare de Stern\ : et si le mouvement de va-et-vient de l'ours avait en réalité un rôle fondamental dans l'émergence du sens\ ? Et si la naissance des idées ne se faisait pas, en réalité, dans la tête des élites, mais dans l'ensemble d'interactions matérielles où la réflexion du grand philosophe ou du grand romancier n'avait finalement pas plus de poids que la structuration des cent cinquante-deux cases des presses balzaciennes -- ou du format docx auquel nous avons réduit nos chaînes de production actuelles\ ?
+
+Si cela était vrai, il faudrait alors regarder l'édition d'un autre \oe il et ne plus la considérer comme une pratique, mais comme une théorie. 
+
+La théorie de l'édition est l'approche nécessaire pour comprendre de quelle manière le sens émerge d'un contexte matériel particulier. Selon ce point de vue, il n'y a plus de hiérarchie parce qu'il n'y a plus une séparation entre matière et immatérialité. Et non seulement il n'y a plus une hiérarchie qui classe les êtres humains (le grand auteur en haut et la petite secrétaire en bas), mais il n'y a plus de hiérarchie qui sépare ce qui peut être produit par l'humain de ce qui est produit par un format, la composition d'une encre, la coupe d'une feuille de papier, l'électricité qui fait tourner un processeur. C'est la matière qui pense.
+
