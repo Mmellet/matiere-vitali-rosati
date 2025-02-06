@@ -9,11 +9,13 @@ de l’humain
 - C'est la matière qui pense. Pour une nouvelle théorie du texte, de l'édition et de l'humain
 - Pour une théorie de l'édition. Comment la matière produit la pensée et l'humain
 
+proposition de MaMe
+- Vous ne pensez pas, la matière si. Textes, éditions, formats et production
+de l’humain 
+
 ## 4e de couverture
 
-Et si la pensée n'était pas une production des sujets humains, mais une émanation de la matière elle-même ? Ce livre remet en question notre conception traditionnelle de l'humain, en explorant comment le sens émerge des interactions matérielles, des formats, des outils, et des pratiques éditoriales. Oubliez l'idée d'une pensée immatérielle : l'auteur démontre que des presses d'imprimerie aux logiciels, en passant par les "mauvais cigares" et les algorithmes, c'est la matière qui est le véritable moteur du sens.
-Dans ce cadre, l'édition n'est plus une simple pratique, mais elle devient une théorie à part entière, un lieu où la matière révèle sa force de production du sens. Ce livre nous invite à reconsidérer le rôle des "petites mains" et des tâches apparemment triviales dans la production du savoir, car la pensée n'est jamais le fait d'un sujet, mais d'une multitude d'interactions. À l'ère des intelligences artificielles et des textes numériques, cette révolution conceptuelle est indispensable pour comprendre notre rapport au texte et au monde. 
-
+Et si la pensée n'était pas une production des sujets humains mais de la matière elle-même ? Cet essai remet en question notre conception traditionnelle de l'humain, en explorant comment le sens émerge des interactions matérielles (des formats, des outils, et des pratiques éditoriales). Oubliez l'idée d'une pensée immatérielle : considérez plutôt les différentes conjonctures, des presses d'imprimerie aux logiciels, en passant par les "mauvais cigares" et les algorithmes, , car c'est la matière qui est le véritable moteur du sens. Dans cette nouvelle perspective, l'édition n'est plus une simple pratique. Elle devient une théorie à part entière, un lieu où la matière révèle sa force de production du sens. Ce livre invite à reconsidérer les tâches apparemment triviales dans la production du savoir et ainsi le rôle de ces « petites mains » nombreuses et écartées, car la pensée n'est jamais le fait d'un sujet, mais d'une multitude d'interactions. À l'ère des intelligences artificielles et des textes numériques, ce renversement conceptuel est indispensable pour comprendre notre rapport au savoir et au monde.
 
 ## Texte 1 (350 signes)
 La matière n'est pas quelque chose d'inerte et passif. Et la pensée n'est pas le produit d'un sujet. À partir d'une approche néomatérialiste et post-humaniste, ce livre propose une une théorie de l'édition qui rend permet de repenser ce qu'est un texte, mais aussi et plus fondamentalement ce qu'est un être humain.
