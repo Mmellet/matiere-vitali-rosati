@@ -1,3 +1,27 @@
+## blogVitaliRosati
+
+---
+title: >-
+   In Platonis Phaedrum Scholia - blog de recherche de Marcello Vitali-Rosati
+credits: >-
+   Marcello Vitali-Rosati
+keywords: Platon
+lang: fr
+type: website
+link: http://blog.sens-public.org/marcellovitalirosati/categories/scholia/
+link-archive:
+embed:
+zotero:
+date: 
+date-publication: 
+source: auteur
+priority: lowpriority
+position: main
+
+---
+
+J'ai dédié une longue série de billets de blog à l'analyse et la traduction de _Phèdre_ de Platon. L'analyse de l'écriture et de l'adjectif δεινός s'y trouve: http://blog.sens-public.org/marcellovitalirosati/tag/%CE%B4%CE%B5%CE%B9%CE%BD%CF%8C%CF%82/
+
 ## idCA4
 
 ---
