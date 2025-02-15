@@ -8,6 +8,8 @@ Je suis ouvert à des propositions pour trouver un meilleur titre. Surtout le so
 de l’humain 
 - C'est la matière qui pense. Pour une nouvelle théorie du texte, de l'édition et de l'humain
 - Pour une théorie de l'édition. Comment la matière produit la pensée et l'humain
+- Pour une théorie de l'édition. Matérialité des textes et production de l'humain
+- Pour une théorie de l'édition. Matérialité des textes, émergence de la pensée et production de l'humain
 
 proposition de MaMe
 - Vous ne pensez pas, la matière si. Textes, éditions, formats et production
