@@ -1,13 +1,13 @@
 version: 0
 title: >-
-  C'est la matière qui pense
+    Pour une théorie de l'édition
 subtitle: >-
-    Sous-titre du <em>livre test</em>
+    Matérialité des textes, émergence de la pensée et production de l'humain
 title_f: >-
     Titre du livre test formaté
 lang: fr
 # langue du chapitre en ISO 639 : en, it...
-date: 2024-03-06
+date: 2025-03-06
 rights: |-
     Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 url: 'http://ateliers.sens-public.org/titre-du-livre-test/'
