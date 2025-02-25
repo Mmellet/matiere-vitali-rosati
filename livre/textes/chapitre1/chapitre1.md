@@ -1,7 +1,8 @@
 >δεινὸν γάρ που, ὦ Φαῖδρε, τοῦτ᾽ ἔχει γραφή, καὶ ὡς ἀληθῶς ὅμοιον ζωγραφίᾳ^[«\ Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle est vraiment semblable à la peinture.\ » _Ma traduction_. Mais ce qu'il faut surtout retenir de ce passage est l'anastrophe -- difficile à rendre en français dans cette phrase. δεινὸν, terrible, c'est le premier mot qui acquiert ici un poid très particulier.]. (`\Plato[Phèdre]{275}[d]`{=latex})
 
-<!--Je suggère deux options pour la reformulation : 
-1. blabla 
+<!--
+Je suggère deux options pour la reformulation : 
+1. blabla *italique*
 2. blabla
 -->
 
