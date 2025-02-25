@@ -6,7 +6,7 @@ Je suggère deux options pour la reformulation :
 2. blabla
 -->
 
-\lettrine{D}ans le dialogue connu pour sa critique de l'écriture et plus généralement de la matière, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος opposée à la matérialité de la γραφὴ, Platon, par le choix d'un adjectif, nous révèle une conception bien plus complexe que le dualisme immatérialiste.
+\lettrine{D}ans le dialogue connu pour sa critique de l'écriture et <!--commentaire --> de la matière, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος opposée à la matérialité de la γραφὴ, Platon, par le choix d'un adjectif, nous révèle une conception bien plus complexe que le dualisme immatérialiste.
 
 !contenuadd(./blogVitaliRosati)
 !contenuadd(./idCA4)
