@@ -5,6 +5,8 @@
 !contenuadd(./blogVitaliRosati)
 !contenuadd(./idCA4)
 
+<!-- bla -->
+
 Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible. Elle n'est pas γἑλοιος -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (τέχνη ἄτεχνος) des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L'écriture est quelque chose de très sérieux donc, quelque chose qui peut faire peur.
 
 
