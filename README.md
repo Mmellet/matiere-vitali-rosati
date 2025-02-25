@@ -1,5 +1,5 @@
 # C'est la matière qui pense
-
+test
 Repos du livre _C'est la matière qui pense_, leçon inaugurale de la Chaire d'excellence en édition numérique de Marcello Vitali-Rosati, prononcée le 23 octobre 2024.
 
 Ce livre est le premier volume de la collection De code et de plomb aux Presses universitaires de Rouen et du Havre et dirigée par Margot Mellet. Il fait l'objet d'une double publication numérique et papier.
