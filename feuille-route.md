@@ -4,6 +4,8 @@ Révision des chapitres 1 à 3 du livre *C'est la matière qui pense* de Marcell
 
 Date de la révision : 10 mars 2024.
 
+Réviseure : Coraline Bouleau
+
 ### Commentaires généraux
 * Notamment dans le chapitre 1, je questionne l'usage du "--" pour signifier une incise. Je suggère d'utiliser seulement un tiret court "-".
 
