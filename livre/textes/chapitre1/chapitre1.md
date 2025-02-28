@@ -24,6 +24,8 @@ Toujours avec une anastrophe il avait dit\ :
 -->
 
 C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Charybde\ :
+<!-- L'ajout d'une mise en contexte sur le personnage de Charybde serait utile à la compréhension de la citation.
+-->
 
 >αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex})
 <!-- Votre affirmation semble être en contradiction avec votre citation, car on n'y retrouve pas le mot "δεινόν" cité à plusieurs reprises plus haut dans le texte. 
