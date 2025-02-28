@@ -25,7 +25,8 @@ Toujours avec une anastrophe il avait dit\ :
 C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Charybde\ :
 
 >αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex})
-
+<!-- Votre affirmation semble être en contradiction avec votre citation, car on n'y retrouve pas le mot "δεινόν" cité à plusieurs reprises plus haut dans votre texte. 
+-->
 
 Charybde est horrible car elle est monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré. Δεινός est ce que devient celui qui a péché de ὕβρις.
 
