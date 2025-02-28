@@ -16,6 +16,8 @@ Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible
 δεινός est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour.
 
 Toujours avec une anastrophe il avait dit\ :
+<!-- Le terme "anastrophe" n'est pas souvent employé dans le langage courant, je propose donc de l'expliquer davantage, soit dans le texte principal, soit en note de bas de page. De plus, le terme "Toujours" indique qu'il a déjà été employé plus haut. Or, il est apparu pour la première uniquement au lecteur curieux, qui est allé voir la note de bas de page. Qui plus est, si vous acceptez de la supprimer (comme je le suggère dans un précédent commentaire), cette apparition du mot "anastrophe" serait alors la première.  
+-->
 
 >δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν^[«\ Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire.\ » _Ma traduction_.]`(\Plato [Phèdre]{242}[d])`{=latex}
 
