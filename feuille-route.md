@@ -10,7 +10,8 @@
 - [Centre National de Ressources Textuelles et Lexicales. (n.d.). Anastrophe. CNRTL.](https://www.cnrtl.fr/definition/anastrophe#:~:text=GRAMM.,l'ordre%20habituel%20des%20mots.)
 
 ### Chapitre 2
-- On comprend assez bien le lien entre l'anecdote de la physique quantique et le propos que vous voulez démontrer. Cependant, pour une personne qui n'y connaîtrait rien en physique, l'anecdote serait assez difficile à suivre. Je propose d'intégrer à votre récit des schémas de l'expérience qui aiderait à la compréhension du texte. Ils pourraient être placés soit dans le corps du texte, ou bien en annexe du livre. 
+- On comprend assez bien le lien entre l'anecdote de la physique quantique et le propos que vous voulez démontrer. Cependant, pour une personne qui n'y connaîtrait rien en physique, l'anecdote serait assez difficile à suivre. Je propose d'intégrer à votre récit des schémas de l'expérience qui aiderait à la compréhension du texte. Ils pourraient être placés soit dans le corps du texte, ou bien en annexe du livre.
+- Aussi, toujours dans l'optique de faciliter la compréhension de l'anecdote, j'ai fait quelques suppressions et simplifications syntaxiques dans certaines phrases, qui manquaient de légèreté. Ce ne sont que des propositions, libre à vous de les refuser ou de les remanier plus à votre goût.
 
 ### Chapitre 3 
 
