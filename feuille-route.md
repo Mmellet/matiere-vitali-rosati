@@ -1,4 +1,10 @@
 ## Feuille de route
+
+Informations de base:
+* Titre du texte Matiere-vitali-rosati
+* Nom de la réviseuse: Alexandra Venne
+* Date de la révision: Dimanche 2 mars 2025
+
 Commentaire 1: Dans le chapitre 1, les citations séparées du bloc du texte pourrait rester dans le texte entre guillemet puisqu'elles ne dépassent pas trois lignes. 
 
 ### Ressources
