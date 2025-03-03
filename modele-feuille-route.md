@@ -3,9 +3,11 @@
 ### Commentaires généraux 
 
 #### Suggestions globales
-1. Je vous conseille d'écrire au complet les noms des auteur·rices que vous citez lors de leur première mention dans votre texte.
+1. Je vous conseille d'écrire au complet les noms des auteur·rices que vous citez lors de leur première mention dans votre texte. Cela faciliterait une recherche annexe pour les lecteur·rices qui souhaiteraient approfondir le sujet en marge de votre livre.
 2. Je vous invite à éviter de sauter une ligne lorsque deux phrases évoquent la même idée. Gardez en tête qu'une idée = un paragraphe.
 3. Je vous conseille à veiller aux tics de langages\ : vous avez tendance à souvent employer l'adverbe «\ aussi\ », ainsi qu'à débuter certaines phrases par la conjonction de coordination «\ et\ » (cette façon de l'employer n'est pas proscrite, mais une surutilisation de cette structure de phrase risque de sauter aux yeux de vos lecteur·rices).
+4. Je vous propose que les traductions en français soient placées dans le corps du texte avec les citations dans leur langue d'origine, que ce soit avant ou après selon votre préférence. Les multiples allers-retours entre le texte et les notes de bas de page impactent négativement la fluidité de la lecture.
+
 
 #### Chapitre 1
 1. La source des traductions devrait toujours être citée, qu'elle soit de votre fait ou qu'elle provienne d'une autre source. Dans un souci d'uniformité, je suggère dans le premier cas d'inscrire la mention «\ _Ma traduction._\ » à la suite de la traduction française comme vous l'avez déjà fait pour certaines citations. Dans le second cas, je vous conseille d'écrire la référence de votre source.
