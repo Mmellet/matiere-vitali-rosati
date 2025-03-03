@@ -19,7 +19,10 @@ Je ne retrouve pas cette citation sur Internet: « Celui qui ne connaît pas la 
 
 Je n’arrive pas non plus à trouver si Socrate a vraiment utilisé le qualificatif δεινός dans son discours contre l’amour…
 
+Dans le chapitre 1 de Vitali Rosati, les propos de Socrate sont traduits ainsi: « Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire. ». Dans la traduction de Léon Robin que j'ai trouvé en ligne, la traduction des propos de Socrate est : « Épouvantable, Phèdre, épouvantable est le discours dont tu t’es chargé, aussi bien que celui que tu m’as forcé de prononcer… ». Ça revient plus ou moins au même.
+* Source: Phèdre et Socrate. (1933). *Platon tome IV*. (L. Robin, trad.) Éditions Les Belles Lettres. https://fr.wikisource.org/wiki/Phèdre_(trad._Robin)
 
+Je ne trouve pas cette citation en ligne: « Après avoir fui les rochers et l'horrible Charybde...».
 
 ### Sources consultées
 Pour l’orthographe: 
