@@ -7,6 +7,8 @@ Informations de base:
 
 Commentaire 1: Dans le chapitre 1, les citations séparées du bloc du texte pourrait rester dans le texte entre guillemet puisqu'elles ne dépassent pas trois lignes. 
 
+Commentaire 2: Dans le chapitre 3, la citation à la ligne 26 qui est séparée du bloc du texte pourrait rester dans le texte entre guillemet puisqu'elle ne dépasse pas trois lignes.
+
 ### Ressources
 
 
