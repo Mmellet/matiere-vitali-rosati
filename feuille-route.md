@@ -10,7 +10,8 @@ Commentaire 1: Dans le chapitre 1, les citations séparées du bloc du texte pou
 Commentaire 2: Dans le chapitre 3, la citation à la ligne 26 qui est séparée du bloc du texte pourrait rester dans le texte entre guillemet puisqu'elle ne dépasse pas trois lignes.
 
 ### Ressources
-
+Pour le chapitre 1, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
+* Voici la ressource pour la première citation ( « Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle est vraiment semblable à la peinture. »): Trémolières, F. (2025) Critique de l’écriture et « enseignement oral ». Dans Encyclopaedia Universalis France. Récupéré le 3 mars 2025 de https://www.universalis.fr/encyclopedie/phedre-platon/2-critique-de-l-ecriture-et-enseignement-oral/
 
 ### Sources consultées
 Pour l’orthographe: 
