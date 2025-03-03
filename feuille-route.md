@@ -24,6 +24,8 @@ Dans le chapitre 1 de Vitali Rosati, les propos de Socrate sont traduits ainsi: 
 
 Je ne trouve pas cette citation en ligne: « Après avoir fui les rochers et l'horrible Charybde...».
 
+
+
 ### Sources consultées
 Pour l’orthographe: 
 Jeuge-Maynart, I. (dir.). (2012). Le petit Larousse illustré 2013. LAROUSSE.
