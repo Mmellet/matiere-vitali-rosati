@@ -72,7 +72,7 @@ On retrouve avec la source ci-dessous le résumé du livre de Jean-Marc Larrue q
 * S.a. (2025). *Media do not exist: performativity and mediating conjunctures.* Université de Montréal | Papyrus. https://umontreal.scholaris.ca/items/99528460-1527-4635-ab02-ca67958d73da
 
 On voit dans l'article ci-dessous quelques théories de Karen Barad en lien avec le new materialism. Ça vient confirmer qu'elle a bel et bien travaillé sur ce sujet tel que mentionné dans le dernier paragraphe de son chapitre 1 de Vitali-Rosati.
-*Tillman, R. (2015, 27 septembre). *Toward a New Materialism: Matter as Dynamic*. Center for Humans & Nature. https://humansandnature.org/toward-a-new-materialism-matter-as-dynamic/
+* Tillman, R. (2015, 27 septembre). *Toward a New Materialism: Matter as Dynamic*. Center for Humans & Nature. https://humansandnature.org/toward-a-new-materialism-matter-as-dynamic/
 
 ### Sources consultées
 Pour l’orthographe: 
