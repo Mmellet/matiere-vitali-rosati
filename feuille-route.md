@@ -10,7 +10,7 @@ Commentaire 1: Dans le chapitre 1, les citations séparées du bloc du texte pou
 Commentaire 2: Dans le chapitre 3, la citation à la ligne 26 qui est séparée du bloc du texte pourrait rester dans le texte entre guillemet puisqu'elle ne dépasse pas trois lignes.
 
 ### Ressources
-### Pour le chapitre 1, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
+#### Pour le chapitre 1, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
 
 Voici la ressource pour la première citation ( « Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle est vraiment semblable à la peinture. »):
 * Trémolières, F. (2025) Critique de l’écriture et « enseignement oral ». Dans *Encyclopaedia Universalis* France. Récupéré le 3 mars 2025 de https://www.universalis.fr/encyclopedie/phedre-platon/2-critique-de-l-ecriture-et-enseignement-oral/
@@ -19,18 +19,18 @@ Je ne retrouve pas cette citation sur Internet: « Celui qui ne connaît pas la 
 
 Je n’arrive pas non plus à trouver si Socrate a vraiment utilisé le qualificatif δεινός dans son discours contre l’amour…
 
-Dans le chapitre 1 de Vitali-Rosati, les propos de Socrate sont traduits ainsi: « Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire. ». Dans la traduction de Léon Robin que j'ai trouvé en ligne, la traduction des propos de Socrate est : « Épouvantable, Phèdre, épouvantable est le discours dont tu t’es chargé, aussi bien que celui que tu m’as forcé de prononcer… ». Ça revient plus ou moins au même. Voici ma source:
-* Source: Phèdre et Socrate. (1933). *Platon tome IV*. (L. Robin, trad.) Éditions Les Belles Lettres. https://fr.wikisource.org/wiki/Phèdre_(trad._Robin)
+Dans le chapitre 1 de Vitali-Rosati, les propos de Socrate sont traduits ainsi: « Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire. ». Dans la traduction de Léon Robin que j'ai trouvé en ligne, la traduction des propos de Socrate est : « Épouvantable, Phèdre, épouvantable est le discours dont tu t’es chargé, aussi bien que celui que tu m’as forcé de prononcer… ». Ça revient plus ou moins au même. Voici ma ressource:
+* Phèdre et Socrate. (1933). *Platon tome IV*. (L. Robin, trad.) Éditions Les Belles Lettres. https://fr.wikisource.org/wiki/Phèdre_(trad._Robin)
 
 Je ne trouve pas cette citation en ligne: « Après avoir fui les rochers et l'horrible Charybde...».
 
-Voici une source qui explique un peu le rôle de Charybde dans la mythologie grecque sans dire qu’elle est démesurée ou qu’elle franchit les frontières de l’humain comme dans le texte de Vitali-Rosati:
+Voici une ressource qui explique un peu le rôle de Charybde dans la mythologie grecque sans dire qu’elle est démesurée ou qu’elle franchit les frontières de l’humain comme dans le texte de Vitali-Rosati:
 * Le réseau de diffusion des archives du Québec. (S.d.) *De coutume en culture*. RDAQ Le réseau de diffusion des archives du Québec. https://rdaq.banq.qc.ca/expositions_virtuelles/coutumes_culture/decembre/mots_expressions/coutume_culture.html
 
 Selon le site ci-dessous, Socrate voyait l’amour plus comme un démon que comme un dieu (alors que Vitali-Rosati prétend qu'il le voit comme un dieu).
 * S.a. (S.d.). *Résumé du Banquet (page 2)*. Les Philosophes.fr : accélérateur de lecture. https://www.les-philosophes.fr/platon/philosophe-antique/platon-banquet/Page-2.html
 
-Selon la source ci-dessous, on comprend bien que Derrida commente dans son texte *La pharmacie de Platon* la vision de l’écriture de Platon, mais on ne sait pas si son commentaire est positif ou négatif alors que dans le texte de Vitali-Rosati il prend position.
+Selon la ressource ci-dessous, on comprend bien que Derrida commente dans son texte *La pharmacie de Platon* la vision de l’écriture de Platon, mais on ne sait pas si son commentaire est positif ou négatif alors que dans le texte de Vitali-Rosati il prend position.
 * Librairie Gallimard.(S.d.). *Phèdre; La Pharmacie de Platon*. Librairie Gallimard : Paris.  https://www.librairie-gallimard.com/livre/9782080712684-phedre-la-pharmacie-de-platon-platon-jacques-derrida/
 
 L'article ci-dessous vient confirmer que le mot δεινός est un terme ambigu comme c'est écrit dans le chapitre 1.
@@ -38,7 +38,7 @@ L'article ci-dessous vient confirmer que le mot δεινός est un terme ambigu
 
 Je ne trouve pas cette citation: «Roi, qu'as-tu fais \ ? Tu as permis à un grec terrible et sage de construire une ville en Thrace…».
 
-Je ne trouve pas de source autre que l’auteur de ce texte pour approuver ceci: « L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et terrible) semble être presque une expression figée en grec. ».
+Je ne trouve pas de ressource autre que l’auteur de ce texte pour approuver ceci: « L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et terrible) semble être presque une expression figée en grec. ».
 
 Je considère que les paragraphes commençants respectivement aux lignes 34 et 36 ne sont pas des faits, mais plutôt l’interprétation de l’auteur. Je n’ai donc pas de sources pour confirmer les propos qu’on y retrouve.
 
@@ -56,7 +56,7 @@ Voici un texte sur le livre de Drucker qui parle de matérialité. Ça montre qu
 Cet article propose une définition de l'énonciation éditoriale:
 * Genêt, P. (S.d.). Énonciation éditoriale. Dans Glinoer, A. Et Saint-Amand, D. (dir.). *Le lexique socius*. https://ressources-socius.info/index.php/lexique/21-lexique/190-enonciation-editoriale
 
-Cette source mène à la description du livre de Roger Chartier sur l’énonciation éditoriale sorti en 2015. Ça montre que l'auteur a bel et bien écrit sur le sujet, comme c'est écrit dans le dernier paragraphe du chapitre.
+Cette ressource mène à la description du livre de Roger Chartier sur l’énonciation éditoriale sorti en 2015. Ça montre que l'auteur a bel et bien écrit sur le sujet, comme c'est écrit dans le dernier paragraphe du chapitre.
 * S.a. (S.d.) *Main de l’auteur et l’esprit de l’imprimeur (La)*. Les libraires. https://www.leslibraires.ca/livres/main-de-l-auteur-et-l-roger-chartier-9782070462827.html
 
 Texte de Roger Chartier sur la matérialité du texte qui prouve que l'auteur a bel et bien écrit sur le sujet, comme c'est écrit dans le dernier paragraphe du chapitre:
@@ -65,10 +65,10 @@ Texte de Roger Chartier sur la matérialité du texte qui prouve que l'auteur a 
 Texte qui prouve que Jeanneret et Souchier ont bien travaillé ensemble sur l’énonciation éditoriale en 2005:
 * Jeanneret, Y. et Souchier, E. (2005). L’énonciation éditoriale dans les écrits d’écran. *Communication & Langages*. (n°145) p. 3-15.  https://www.persee.fr/doc/colan_0336-1500_2005_num_145_1_3351
 
-On retrouve avec cette source le chapitre 1 de *Understanding Media: The extensions of Man* de McLuhan où on voit qu’il propose l’idée que le média est le message comme Vitali-Rosati le disait:
+On retrouve avec cette ressource le chapitre 1 de *Understanding Media: The extensions of Man* de McLuhan où on voit qu’il propose l’idée que le média est le message comme Vitali-Rosati le disait:
 * McLuhan, M. (1964). *Understanding Media: The Extensions of Man*. https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf
 
-On retrouve avec la source ci-dessous le résumé du livre de Jean-Marc Larrue qui explique que les médias n’existent pas. Ça confirme donc qu’il a bien proposé cette théorie sur les médias comme le Vitali-Rosati l’affirmait dans le dernier paragraphe de son chapitre 1.
+On retrouve avec la ressource ci-dessous le résumé du livre de Jean-Marc Larrue qui explique que les médias n’existent pas. Ça confirme donc qu’il a bien proposé cette théorie sur les médias comme le Vitali-Rosati l’affirmait dans le dernier paragraphe de son chapitre 1.
 * S.a. (2025). *Media do not exist: performativity and mediating conjunctures.* Université de Montréal | Papyrus. https://umontreal.scholaris.ca/items/99528460-1527-4635-ab02-ca67958d73da
 
 On voit dans l'article ci-dessous quelques théories de Karen Barad en lien avec le new materialism. Ça vient confirmer qu'elle a bel et bien travaillé sur ce sujet tel que mentionné dans le dernier paragraphe de son chapitre 1 de Vitali-Rosati.
@@ -76,10 +76,10 @@ On voit dans l'article ci-dessous quelques théories de Karen Barad en lien avec
 
 #### Pour le chapitre 2, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
 
-La source ci-dessous traite de l'expérience effectuée par Stern et Gerlach mentionnée dans le chapitre 2. L'article confirme que Stern a eu l'idée de l'expérience en 1921 et que Bohr avait une théorie voulant que l'espace soit discret et non continu. À la page 56 de l'article, on peut retrouver la description détaillée de l'expérience et on retrouve même la citation en anglais mentionnée à la ligne 11 du chapitre 2. Dans ce texte, il est écrit que l’expérience n’a pas pris quelques nuits, mais bien plus d’une année à être accomplie. Sinon, cette source confirme que, tel que mentionné par Vitali-Rosati, les scientifiques n'ont rien vu au début sur leur plaque suite à l’expérience. On retrouve aussi dans ce texte le point de vue de Stern sur l'expérience.
+La ressource ci-dessous traite de l'expérience effectuée par Stern et Gerlach mentionnée dans le chapitre 2. L'article confirme que Stern a eu l'idée de l'expérience en 1921 et que Bohr avait une théorie voulant que l'espace soit discret et non continu. À la page 56 de l'article, on peut retrouver la description détaillée de l'expérience et on retrouve même la citation en anglais mentionnée à la ligne 11 du chapitre 2. Dans ce texte, il est écrit que l’expérience n’a pas pris quelques nuits, mais bien plus d’une année à être accomplie. Sinon, cette source confirme que, tel que mentionné par Vitali-Rosati, les scientifiques n'ont rien vu au début sur leur plaque suite à l’expérience. On retrouve aussi dans ce texte le point de vue de Stern sur l'expérience.
 * Friedrich, B. et Herschbach, D. (2003). Stern and Gerlach: How a Bad Cigar Helped Reorient Atomic Physics. *Physics Today*. p.53-59. https://www.famaf.unc.edu.ar/~gcas/cuantica2/SG.pdf
 
-Dans cette source on confirme le contenu de l’anecdote de l'expérience de Stern et Gerlach et qu’elle a été reprise dans le livre datant de 2007 de Barad (tel que mentionné dans le chapitre 2 par Vitali-Rosati):
+Dans cette ressource on confirme le contenu de l’anecdote de l'expérience de Stern et Gerlach et qu’elle a été reprise dans le livre datant de 2007 de Barad (tel que mentionné dans le chapitre 2 par Vitali-Rosati):
 * Bachrach, A. et Dumit, J. (2024, 10 janvier). Sticking with Speculation: A practice in noticing attention. *HAL: open science*. https://hal.science/hal-04384903v1/document
 
 Voici ce que j’ai trouvé sur la théorie des atomes de Bohr mentionnée par Vitali-Rosati dans son chapitre 2:
@@ -87,7 +87,7 @@ Voici ce que j’ai trouvé sur la théorie des atomes de Bohr mentionnée par V
 
 Je ne trouve pas de source qui indique quelle était l'hypothèse partagée par Borh et Stern.
 
-La source ci-dessous présente l’idée de Barad qui se dit qu’il faut repenser ce qui est inclu dans l’équipement de l’expérience (tel que mentionné dans le chapitre 2 par Vitali-Rosati):
+La ressource ci-dessous présente l’idée de Barad qui se dit qu’il faut repenser ce qui est inclu dans l’équipement de l’expérience (tel que mentionné dans le chapitre 2 par Vitali-Rosati):
 * The Editors. (2021). Cutting both ways. *e-flux*. Criticism. https://www.e-flux.com/criticism/401098/cutting-both-ways
 
 L'article ci-dessous confirme que l’expérience de Stern et Gerlach démontre l’effet du spin, tel que mentionné dans le chapitre 2 par Vitali-Rosati:
@@ -95,8 +95,16 @@ L'article ci-dessous confirme que l’expérience de Stern et Gerlach démontre 
 
 À mon avis, les paragraphes qui commencent respectivement aux lignes 19 et 21 sont des interprétations de l’auteur, donc je n'ai pas trouvé de sources pour appuyer ses propos.
 
-La source ci-dessous mène à un aperçu d’un texte de Karen Barad sur comment la matter matters, ce qui confirme qu'elle a écrit sur le sujet (tel que mentionné par Vitali-Rosati dans son chapitre 2).
+La ressource ci-dessous mène à un aperçu d’un texte de Karen Barad sur comment la matter matters, ce qui confirme qu'elle a écrit sur le sujet (tel que mentionné par Vitali-Rosati dans son chapitre 2).
 * Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. *Signs*, 28(3), 801–831. https://doi.org/10.1086/345321
+
+#### Pour le chapitre 3, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
+
+Voici un texte complémentaire au chapitre 3 qui parle de post-structuralisme:
+* Wagner, F. (2004). Du structuralisme au post-structuralisme. *Études littéraires, 36*(2), 105–126. https://doi.org/10.7202/012906ar
+
+Voici la ressource qui confirme la véracité de cette citation: « Le texte, tel qu'il se conçoit depuis 50 ans, est un objet pour ainsi dire purement sémiotique, un objet virtuel construit au-dessus et au-delà de toute matérialité »:
+* 
 
 ### Sources consultées
 Pour l’orthographe: 
