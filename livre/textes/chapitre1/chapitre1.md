@@ -22,13 +22,13 @@ C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Char
 >αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex})
 
 
-Charybde est horrible, car elle apparaît<!-- ai retiré la répétion de EST --> monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré<!-- attention : troisième démesurée/demesure/démesurée du paragraphe -->. Δεινός est ce que devient celui qui a péché de ὕβρις.
+Charybde est horrible, car elle apparaît<!-- ai retiré la répétion de EST --> monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, franchit les frontières de l’humain et devient un monstre horrible et démesuré<!-- attention : troisième démesurée/demesure/démesurée du paragraphe -->. Δεινός est ce que devient celui qui a péché de ὕβρις.
 
-Mais δεινός est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour (δεινὸς γόης, `\Plato [Banquet]{203}[d]`{=latex}). L'amour dépasse aussi l'humain, mais parce qu'il est divin ou, mieux, qu'il est un dieu.
+Mais δεινός est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour (δεινὸς γόης, `\Plato [Banquet]{203}[d]`{=latex}). L'amour dépasse également l'humain, mais parce qu'il est divin ou, mieux, un dieu.
 
 Cet adjectif, si complexe, semble mal adapté à qualifier l'écriture dans le cadre du paradigme opposant une matière passive et donc inoffensive à une immatérialité active et productrice^[La critique de l'écriture de _Phèdre_ a fait l'objet de plusieurs études et elle est, évidemment, au centre de _La pharmacie de Platon_ [@derrida_pharmacie_1968]. L'analyse de Derrida, sur laquelle je reviendrai, a aussi comme objectif de questionner l'idée selon laquelle Platon condamnerait tout simplement l'écriture comme quelque chose de négatif.]. Dans la langue grecque, δεινός est un terme ambigu, car il mélange son aspect négatif -- horrible, terrible -- avec une sorte d'admiration. Est horrible ce qui va au-delà des limites paraissant imposées à l'humain, qui les dépasse et, de cette manière, acquiert un aspect divin^[J'ai dédié un texte à cet aspect inhumain de l'écriture [@vitali-rosati_quest-ce_2020].].
 
-Dépasser la mesure imposée pour les humains est une faute mais aussi rend grand, admirable. L’homme qui pèche de ὕβρις devient finalement semblable à un dieu. Le blasphème est à la fois horrible, terrible, admirable, divin.
+Dépasser la mesure imposée pour les humains est une faute mais aussi rend <!-- correction proposée : qui peut aussi rendre --> grand, admirable. L’homme qui pèche de ὕβρις devient finalement semblable à un dieu. Le blasphème est à la fois horrible, terrible, admirable, divin.
 
 Hérodote utilise de cette manière l’adjectif quand il parle d’un «\ homme terrible et sage\ » : ὦ βασιλεῦ, κοῖόν τι χρῆμα ἐποίησας, ἀνδρὶ Ἕλληνι δεινῷ τε καὶ σοφῷ δοὺς ἐγκτίσασθαι πόλιν ἐν Θρηίκῃ^[«\ Roi, qu'as-tu fais\? Tu as permis à un Grec terrible et sage de construire une ville en Thrace…\ » Her. 5.23. _Ma traduction_.]
 
