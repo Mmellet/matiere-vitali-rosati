@@ -40,7 +40,12 @@ Je ne trouve pas cette citation: «Roi, qu'as-tu fais \ ? Tu as permis à un gre
 
 Je ne trouve pas de source autre que l’auteur de ce texte pour approuver ceci: « L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et terrible) semble être presque une expression figée en grec. ».
 
-Je considère que les paragraphes commençants respectivement aux lignes 34 et 36 ne sont pas des faits, mais plutôt l’interprétation de l’auteur. Je n’ai donc pas de sources pour confirmer les propos qu’on y retrouve. 
+Je considère que les paragraphes commençants respectivement aux lignes 34 et 36 ne sont pas des faits, mais plutôt l’interprétation de l’auteur. Je n’ai donc pas de sources pour confirmer les propos qu’on y retrouve.
+
+Ce texte montre que Socrate se disait possédé par des Nymphes ou Muses:
+* Lefka, A. (2001). La floraison du *logos* platonicien au sein de la *phusis* : le *Phèdre* et les *Lois*. In E. Delruelle & V. Pirenne-Delforge (éds.), *Kêpoi* (1‑). Presses universitaires de Liège. https://doi.org/10.4000/books.pulg.1093
+
+Je considère que les paragraphes commençants respectivement aux lignes 40, 42 et 44 ne sont pas constitués de faits, mais plutôt de propos liés à l’hypothèse de l’auteur et à son analyse de ce dont il parlait plus tôt dans le texte, donc je n’ai pas de sources pour appuyer ce qu'ils contiennent.
 
 ### Sources consultées
 Pour l’orthographe: 
