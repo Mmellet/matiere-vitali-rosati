@@ -33,6 +33,9 @@ Selon ce site, Socrate voyait l’amour plus comme un démon que comme un dieu (
 Selon cette source, on comprend bien que Derrida commente dans son texte *La pharmacie de Platon* la vision de l’écriture de Platon, mais on ne sait pas si son commentaire est positif ou négatif.
 * Librairie Gallimard.(S.d.). *Phèdre; La Pharmacie de Platon*. Librairie Gallimard : Paris.  https://www.librairie-gallimard.com/livre/9782080712684-phedre-la-pharmacie-de-platon-platon-jacques-derrida/
 
+Ce site vient confirmer que le mot δεινός est un terme ambigu.
+* Mastroianni, M. (2015). Trois interpretationes de l’«  Antigone  » de Sophocle. Gentien Hervet (1541), Georges Rataller (1550) et Jean Lalemant (1557). Anabases. [En ligne], 21 | 2015. p.61-77. URL: http://journals.openedition.org/anabases/5229; DOI: https://doi.org/10.4000/anabases.5229
+
 ### Sources consultées
 Pour l’orthographe: 
 Jeuge-Maynart, I. (dir.). (2012). Le petit Larousse illustré 2013. LAROUSSE.
