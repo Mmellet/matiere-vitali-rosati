@@ -1,7 +1,7 @@
 ## Feuille de route
 
 Informations de base:
-* Titre du texte Matiere de Vitali-Rosati
+* Titre du texte Matière de Vitali-Rosati
 * Nom de la réviseuse: Alexandra Venne
 * Date de la révision: Dimanche 2 mars 2025
 
