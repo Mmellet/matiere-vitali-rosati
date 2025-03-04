@@ -30,6 +30,9 @@ Voici une source qui explique un peu le rôle de Charybde dans la mythologie gre
 Selon ce site, Socrate voyait l’amour plus comme un démon que comme un dieu (alors que Vitali Rosati prétend qu'il le voit comme un dieu).
 * S.a. (S.d.). *Résumé du Banquet (page 2)*. Les Philosophes.fr : accélérateur de lecture. https://www.les-philosophes.fr/platon/philosophe-antique/platon-banquet/Page-2.html
 
+Selon cette source, on comprend bien que Derrida commente dans son texte *La pharmacie de Platon* la vision de l’écriture de Platon, mais on ne sait pas si son commentaire est positif ou négatif.
+* Librairie Gallimard.(S.d.). *Phèdre; La Pharmacie de Platon*. Librairie Gallimard : Paris.  https://www.librairie-gallimard.com/livre/9782080712684-phedre-la-pharmacie-de-platon-platon-jacques-derrida/
+
 ### Sources consultées
 Pour l’orthographe: 
 Jeuge-Maynart, I. (dir.). (2012). Le petit Larousse illustré 2013. LAROUSSE.
