@@ -133,9 +133,7 @@ Voici la ressource qui vient confirmer la présence de ces deux citations dans l
 2. Citation 2: « l’ours solitaire était incapable de se transformer en singe ; car, en sa qualité d’imprimeur, il ne sut jamais ni lire ni écrire. »
 * Ressource: Balzac, H. (S.d.) *Illusions perdues*. Bibliothèque électronique du Québec. https://beq.ebooksgratuits.com/balzac/Balzac-35.pdf
 
-Les paragraphes commençant respectivement aux lignes 21 et 23 sont des analyses et des réflexions de l’auteur, donc je n'ai pas cherché de ressources pour les appuyer.
-
-Les quatre derniers paragraphe du chapitre 3 sont composés d’analyses et de réflexions de l’auteur, donc je n'ai pas cherché des ressources venant confirmer les propos qui s’y trouvent.
+Les paragraphes commençant respectivement aux lignes 21 et 23 ainsi que les quatre derniers paragraphe du chapitre 3 sont composés d’analyses et de réflexions de l’auteur, donc je n'ai pas cherché des ressources venant confirmer les propos qui s’y trouvent.
 
 ### Sources consultées
 Pour l’orthographe: 
