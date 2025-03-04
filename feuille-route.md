@@ -126,6 +126,13 @@ Ce texte du site « Les libraires » ne dit pas comme Vitali-Rosati que le livre
 * S.a. (S.d.). *Illusions perdues*. Les libraires. https://www.leslibraires.ca/livres/illusions-perdues-honore-de-balzac-9782070309894.html?srsltid=AfmBOopsV4vwuMVVS9tkAV_WFnYXfB74XgV-GWyA0Qz9B9UOkaovvKB0
 
 On retrouve avec la ressource ci-dessous le texte de Souchier sur Balzac. Il s’y trouve aussi la citation « La dimension visuelle de l’écriture n’est pas réductible à sa dimension linguistique non plus qu’à la dimension matérielle de la forme ou de son support, par exemple. » qui est mentionnée par Vitali-Rosati.
+* Souchier, E. (2015) . Le carnaval typographique de Balzac. Premiers éléments pour une théorie de l’irréductibilité sémiotique. *Communication & langages*, N° 185(3), 3-22. https://doi.org/10.3917/comla.185.0003.
+
+Voici la ressource qui vient confirmer la présence de ces deux citations dans le livre *Illusions perdues* de Balzac:
+Citation 1: « Ce Séchard était un ancien compagnon pressier, que dans leur argot typographique les ouvriers chargés d’assembler les lettres appellent un ours. Le mouvement de va-et-vient, qui ressemble assez à celui d’un ours en cage, par lequel les pressiers se portent de l’encrier à la presse et de la presse à l’encrier, leur a sans doute valu ce sobriquet. En revanche, les ours ont nommé les compositeurs des singes, à cause du continuel exercice qu’ils font pour attraper les lettres dans les cent cinquante-deux petites cases où elles sont contenues. »
+Citation 2: « l’ours solitaire était incapable de se transformer en singe ; car, en sa qualité d’imprimeur, il ne sut jamais ni lire ni écrire. »
+* Balzac, H. (S.d.) *Illusions perdues*. Bibliothèque électronique du Québec. https://beq.ebooksgratuits.com/balzac/Balzac-35.pdf
+
 
 ### Sources consultées
 Pour l’orthographe: 
