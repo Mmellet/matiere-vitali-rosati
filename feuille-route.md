@@ -76,7 +76,27 @@ On voit dans l'article ci-dessous quelques théories de Karen Barad en lien avec
 
 #### Pour le chapitre 2, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
 
-La source ci-dessous traite de l'expérience effectuée par Stern et Gerlach mentionnée dans le chapitre 2. L'article confirme que Stern a eu l'idée de l'expérience en 1921 et que Bohr avait une théorie voulant que l'espace soit discret et non continu. À la page 56 de l'article, on peut retrouver la description détaillée de l'expérience et on retrouve même la citation en anglais mentionnée à la ligne X du chapitre 2. Dans ce texte, il est écrit que l’expérience n’a pas pris quelques nuits, mais bien plus d’une année à être accomplie. Sinon, cette source confirme que, tel que mentionné par Vitali-Rosati, les scientifiques n'ont rien vu au début sur leur plaque suite à l’expérience. On retrouve aussi dans ce texte le point de vue de Stern sur l'expérience.
+La source ci-dessous traite de l'expérience effectuée par Stern et Gerlach mentionnée dans le chapitre 2. L'article confirme que Stern a eu l'idée de l'expérience en 1921 et que Bohr avait une théorie voulant que l'espace soit discret et non continu. À la page 56 de l'article, on peut retrouver la description détaillée de l'expérience et on retrouve même la citation en anglais mentionnée à la ligne 11 du chapitre 2. Dans ce texte, il est écrit que l’expérience n’a pas pris quelques nuits, mais bien plus d’une année à être accomplie. Sinon, cette source confirme que, tel que mentionné par Vitali-Rosati, les scientifiques n'ont rien vu au début sur leur plaque suite à l’expérience. On retrouve aussi dans ce texte le point de vue de Stern sur l'expérience.
+* Friedrich, B. et Herschbach, D. (2003). Stern and Gerlach: How a Bad Cigar Helped Reorient Atomic Physics. *Physics Today*. p.53-59. https://www.famaf.unc.edu.ar/~gcas/cuantica2/SG.pdf
+
+Dans cette source on confirme le contenu de l’anecdote de l'expérience de Stern et Gerlach et qu’elle a été reprise dans le livre datant de 2007 de Barad (tel que mentionné dans le chapitre 2 par Vitali-Rosati):
+* Bachrach, A. et Dumit, J. (2024, 10 janvier). Sticking with Speculation: A practice in noticing attention. *HAL: open science*. https://hal.science/hal-04384903v1/document
+
+Voici ce que j’ai trouvé sur la théorie des atomes de Bohr mentionnée par Vitali-Rosati dans son chapitre 2:
+* S.a. (S.d.). *L’histoire du modèle atomique*. Alloprof. https://www.alloprof.qc.ca/fr/eleves/bv/sciences/l-histoire-du-modele-atomique-s1109
+
+Je ne trouve pas de source qui indique quelle était l'hypothèse partagée par Borh et Stern.
+
+La source ci-dessous présente l’idée de Barad qui se dit qu’il faut repenser ce qui est inclu dans l’équipement de l’expérience (tel que mentionné dans le chapitre 2 par Vitali-Rosati):
+* The Editors. (2021). Cutting both ways. *e-flux*. Criticism. https://www.e-flux.com/criticism/401098/cutting-both-ways
+
+L'article ci-dessous confirme que l’expérience de Stern et Gerlach démontre l’effet du spin, tel que mentionné dans le chapitre 2 par Vitali-Rosati:
+* Westlund, P.-O. et Wennersström, H. (2011). The Stern-Gerlach experiment and the effects of spin relaxation. *Phys. Chem. Chem. Phys. 14*, 1677-1684. https://www.researchgate.net/profile/Perolof-Westlund/publication/51919768_The_Stern-Gerlach_experiment_and_the_effects_of_spin_relaxation/links/53fb6cee0cf2dca8fffe6d42/The-Stern-Gerlach-experiment-and-the-effects-of-spin-relaxation.pdf
+
+À mon avis, les paragraphes qui commencent respectivement aux lignes 19 et 21 sont des interprétations de l’auteur, donc je n'ai pas trouvé de sources pour appuyer ses propos.
+
+La source ci-dessous mène à un aperçu d’un texte de Karen Barad sur comment la matter matters, ce qui confirme qu'elle a écrit sur le sujet (tel que mentionné par Vitali-Rosati dans son chapitre 2).
+* Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. *Signs*, 28(3), 801–831. https://doi.org/10.1086/345321
 
 ### Sources consultées
 Pour l’orthographe: 
