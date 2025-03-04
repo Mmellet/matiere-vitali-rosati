@@ -27,6 +27,9 @@ Je ne trouve pas cette citation en ligne: « Après avoir fui les rochers et l'h
 Voici une source qui explique un peu le rôle de Charybde dans la mythologie grecque sans dire qu’elle est démesurée ou qu’elle franchit les frontières de l’humain comme dans le texte de Vitali Rosati.
 * Le réseau de diffusion des archives du Québec. (S.d.) *De coutume en culture*. RDAQ Le réseau de diffusion des archives du Québec. https://rdaq.banq.qc.ca/expositions_virtuelles/coutumes_culture/decembre/mots_expressions/coutume_culture.html
 
+Selon ce site, Socrate voyait l’amour plus comme un démon que comme un dieu (alors que Vitali Rosati prétend qu'il le voit comme un dieu).
+* S.a. (S.d.). *Résumé du Banquet (page 2)*. Les Philosophes.fr : accélérateur de lecture. https://www.les-philosophes.fr/platon/philosophe-antique/platon-banquet/Page-2.html
+
 ### Sources consultées
 Pour l’orthographe: 
 Jeuge-Maynart, I. (dir.). (2012). Le petit Larousse illustré 2013. LAROUSSE.
