@@ -103,8 +103,13 @@ La ressource ci-dessous mène à un aperçu d’un texte de Karen Barad sur comm
 Voici un texte complémentaire au chapitre 3 qui parle de post-structuralisme:
 * Wagner, F. (2004). Du structuralisme au post-structuralisme. *Études littéraires, 36*(2), 105–126. https://doi.org/10.7202/012906ar
 
-Voici la ressource qui confirme la véracité de cette citation: « Le texte, tel qu'il se conçoit depuis 50 ans, est un objet pour ainsi dire purement sémiotique, un objet virtuel construit au-dessus et au-delà de toute matérialité »:
-* 
+Voici la ressource qui confirme la véracité de cette citation de Samuel Archibald: « Le texte, tel qu'il se conçoit depuis 50 ans, est un objet pour ainsi dire purement sémiotique, un objet virtuel construit au-dessus et au-delà de toute matérialité »:
+* Archibald, S. (2008). *Le texte et la technique. La lecture à l’heure des nouveaux médias*.  [Thèse, Université du Québec à Montréal] Archipel. https://archipel.uqam.ca/902/1/D1635.pdf
+
+La ressource ci-dessous mène au livre de Drucker. Sans l’avoir lu au complet, il semble effectivement apporter des questionnements sur le lien entre la matière et le sens des textes tel que mentionné par Vitali-Rosati.
+* Drucker, J. (1994). *The Visible Word: Experimental Typography and Modern Art, 1909-1923*. The University of Chicago Press. https://monoskop.org/images/b/b0Drucker_Johanna_The_Visible_Word_Experimental_Typography_and_Modern_Art_1909-1923_1994.pdf
+
+On retrouve dans cet article la définition de Kristeva de l’intertextualité
 
 ### Sources consultées
 Pour l’orthographe: 
