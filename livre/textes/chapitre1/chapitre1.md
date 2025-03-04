@@ -11,7 +11,7 @@ Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible
 
 L'écriture est terrible ou même horrible. L'écriture est quelque chose de très sérieux, donc quelque chose qui peut faire peur.
 
-δεινός est un adjectif important dans le _Phèdre_ et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour.
+δεινός représente un adjectif important dans le _Phèdre_ et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour.
 
 Toujours avec une anastrophe, il avait dit\ :
 
@@ -22,7 +22,7 @@ C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Char
 >αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex})
 
 
-Charybde est horrible, car elle est monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré<!-- attention : troisième démesurée/demesure/démesurée du paragraphe -->. Δεινός est ce que devient celui qui a péché de ὕβρις.
+Charybde est horrible, car elle apparaît<!-- ai retiré la répétion de EST --> monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré<!-- attention : troisième démesurée/demesure/démesurée du paragraphe -->. Δεινός est ce que devient celui qui a péché de ὕβρις.
 
 Mais δεινός est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour (δεινὸς γόης, `\Plato [Banquet]{203}[d]`{=latex}). L'amour dépasse aussi l'humain, mais parce qu'il est divin ou, mieux, qu'il est un dieu.
 
