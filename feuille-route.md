@@ -74,6 +74,10 @@ On retrouve avec la source ci-dessous le résumé du livre de Jean-Marc Larrue q
 On voit dans l'article ci-dessous quelques théories de Karen Barad en lien avec le new materialism. Ça vient confirmer qu'elle a bel et bien travaillé sur ce sujet tel que mentionné dans le dernier paragraphe de son chapitre 1 de Vitali-Rosati.
 * Tillman, R. (2015, 27 septembre). *Toward a New Materialism: Matter as Dynamic*. Center for Humans & Nature. https://humansandnature.org/toward-a-new-materialism-matter-as-dynamic/
 
+#### Pour le chapitre 2, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
+
+La source ci-dessous traite de l'expérience effectuée par Stern et Gerlach mentionnée dans le chapitre 2. L'article confirme que Stern a eu l'idée de l'expérience en 1921 et que Bohr avait une théorie voulant que l'espace soit discret et non continu. À la page 56 de l'article, on peut retrouver la description détaillée de l'expérience et on retrouve même la citation en anglais mentionnée à la ligne X du chapitre 2. Dans ce texte, il est écrit que l’expérience n’a pas pris quelques nuits, mais bien plus d’une année à être accomplie. Sinon, cette source confirme que, tel que mentionné par Vitali-Rosati, les scientifiques n'ont rien vu au début sur leur plaque suite à l’expérience. On retrouve aussi dans ce texte le point de vue de Stern sur l'expérience.
+
 ### Sources consultées
 Pour l’orthographe: 
 Jeuge-Maynart, I. (dir.). (2012). Le petit Larousse illustré 2013. LAROUSSE.
