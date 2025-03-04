@@ -47,6 +47,18 @@ Ce texte montre que Socrate se disait possédé par des Nymphes ou Muses:
 
 Je considère que les paragraphes commençants respectivement aux lignes 40, 42 et 44 ne sont pas constitués de faits, mais plutôt de propos liés à l’hypothèse de l’auteur et à son analyse de ce dont il parlait plus tôt dans le texte, donc je n’ai pas de sources pour appuyer ce qu'ils contiennent.
 
+Voici un texte expliquant la théorie de McGann sur l’importance de la matérialité sur le texte:
+* Kiernan, K. (2013, 25 septembre). *La condition McGann*. POSTMODERN CULTURE: JOURNAL OF INTERDISCIPLINARY THOUGHT ON CONTEMPORARY CULTURES. https://www.pomoculture.org/2013/09/25/la-condition-mcgann/
+
+Voici un texte sur le livre de Drucker qui parle de matérialité:
+* S.A. (S.d.) The Visible Word: Experimental Typography and Modern Art, 1909-1923. CHICAGO: The University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/V/bo3631964.html
+
+Ce lien mène à la définition de l'énonciation éditoriale:
+* Genêt, P. (S.d.). Énonciation éditoriale. Dans Glinoer, A. Et Saint-Amand, D. (dir.). *Le lexique socius*. https://ressources-socius.info/index.php/lexique/21-lexique/190-enonciation-editoriale
+
+Ce lien mène à la description du livre de Roger Chartier sur l’énonciation éditoriale sorti en 2015:
+
+
 ### Sources consultées
 Pour l’orthographe: 
 Jeuge-Maynart, I. (dir.). (2012). Le petit Larousse illustré 2013. LAROUSSE.
