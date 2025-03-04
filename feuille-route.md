@@ -19,22 +19,28 @@ Je ne retrouve pas cette citation sur Internet: « Celui qui ne connaît pas la 
 
 Je n’arrive pas non plus à trouver si Socrate a vraiment utilisé le qualificatif δεινός dans son discours contre l’amour…
 
-Dans le chapitre 1 de Vitali-Rosati, les propos de Socrate sont traduits ainsi: « Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire. ». Dans la traduction de Léon Robin que j'ai trouvé en ligne, la traduction des propos de Socrate est : « Épouvantable, Phèdre, épouvantable est le discours dont tu t’es chargé, aussi bien que celui que tu m’as forcé de prononcer… ». Ça revient plus ou moins au même.
+Dans le chapitre 1 de Vitali-Rosati, les propos de Socrate sont traduits ainsi: « Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire. ». Dans la traduction de Léon Robin que j'ai trouvé en ligne, la traduction des propos de Socrate est : « Épouvantable, Phèdre, épouvantable est le discours dont tu t’es chargé, aussi bien que celui que tu m’as forcé de prononcer… ». Ça revient plus ou moins au même. Voici ma source:
 * Source: Phèdre et Socrate. (1933). *Platon tome IV*. (L. Robin, trad.) Éditions Les Belles Lettres. https://fr.wikisource.org/wiki/Phèdre_(trad._Robin)
 
 Je ne trouve pas cette citation en ligne: « Après avoir fui les rochers et l'horrible Charybde...».
 
-Voici une source qui explique un peu le rôle de Charybde dans la mythologie grecque sans dire qu’elle est démesurée ou qu’elle franchit les frontières de l’humain comme dans le texte de Vitali Rosati.
+Voici une source qui explique un peu le rôle de Charybde dans la mythologie grecque sans dire qu’elle est démesurée ou qu’elle franchit les frontières de l’humain comme dans le texte de Vitali Rosati:
 * Le réseau de diffusion des archives du Québec. (S.d.) *De coutume en culture*. RDAQ Le réseau de diffusion des archives du Québec. https://rdaq.banq.qc.ca/expositions_virtuelles/coutumes_culture/decembre/mots_expressions/coutume_culture.html
 
-Selon ce site, Socrate voyait l’amour plus comme un démon que comme un dieu (alors que Vitali Rosati prétend qu'il le voit comme un dieu).
+Selon le site ci-dessous, Socrate voyait l’amour plus comme un démon que comme un dieu (alors que Vitali-Rosati prétend qu'il le voit comme un dieu).
 * S.a. (S.d.). *Résumé du Banquet (page 2)*. Les Philosophes.fr : accélérateur de lecture. https://www.les-philosophes.fr/platon/philosophe-antique/platon-banquet/Page-2.html
 
-Selon cette source, on comprend bien que Derrida commente dans son texte *La pharmacie de Platon* la vision de l’écriture de Platon, mais on ne sait pas si son commentaire est positif ou négatif.
+Selon la source ci-dessous, on comprend bien que Derrida commente dans son texte *La pharmacie de Platon* la vision de l’écriture de Platon, mais on ne sait pas si son commentaire est positif ou négatif.
 * Librairie Gallimard.(S.d.). *Phèdre; La Pharmacie de Platon*. Librairie Gallimard : Paris.  https://www.librairie-gallimard.com/livre/9782080712684-phedre-la-pharmacie-de-platon-platon-jacques-derrida/
 
-Ce site vient confirmer que le mot δεινός est un terme ambigu.
-* Mastroianni, M. (2015). Trois interpretationes de l’«  Antigone  » de Sophocle. Gentien Hervet (1541), Georges Rataller (1550) et Jean Lalemant (1557). Anabases. [En ligne], 21 | 2015. p.61-77. URL: http://journals.openedition.org/anabases/5229; DOI: https://doi.org/10.4000/anabases.5229
+L'article ci-dessous vient confirmer que le mot δεινός est un terme ambigu.
+* Mastroianni, M. (2015). Trois *interpretationes* de l’«  Antigone  » de Sophocle. Gentien Hervet (1541), Georges Rataller (1550) et Jean Lalemant (1557). *Anabases*. [En ligne], 21 | 2015. p.61-77. URL: http://journals.openedition.org/anabases/5229; DOI: https://doi.org/10.4000/anabases.5229
+
+Je ne trouve pas cette citation: «Roi, qu'as-tu fais \ ? Tu as permis à un grec terrible et sage de construire une ville en Thrace…».
+
+Je ne trouve pas de source autre que l’auteur de ce texte pour approuver ceci: « L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et terrible) semble être presque une expression figée en grec. ».
+
+Je considère que les paragraphes commençants respectivement aux lignes 34 et 36 ne sont pas des faits, mais plutôt l’interprétation de l’auteur. Je n’ai donc pas de sources pour confirmer les propos qu’on y retrouve. 
 
 ### Sources consultées
 Pour l’orthographe: 
