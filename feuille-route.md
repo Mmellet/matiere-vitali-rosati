@@ -109,7 +109,23 @@ Voici la ressource qui confirme la véracité de cette citation de Samuel Archib
 La ressource ci-dessous mène au livre de Drucker. Sans l’avoir lu au complet, il semble effectivement apporter des questionnements sur le lien entre la matière et le sens des textes tel que mentionné par Vitali-Rosati.
 * Drucker, J. (1994). *The Visible Word: Experimental Typography and Modern Art, 1909-1923*. The University of Chicago Press. https://monoskop.org/images/b/b0Drucker_Johanna_The_Visible_Word_Experimental_Typography_and_Modern_Art_1909-1923_1994.pdf
 
-On retrouve dans cet article la définition de Kristeva de l’intertextualité
+On retrouve dans cet article la définition de Kristeva de l’intertextualité (qui est dites peu incarnée par Vitali-Rosati):
+* Dupont, J., et Walezak, É. (2010). L’intertextualité (1‑). Presses universitaires de Perpignan. https://books.openedition.org/pupvd/31992?lang=fr
+
+La ressource ci-dessous confirme que Derrida parle du texte *Phèdre* dans *La Pharmacie de Platon* tel que mentionné par Vitali-Rosati dans le chapitre 3:
+* Taylor, G. W. (2020). Jeux d’Érôs dans « La Pharmacie de Platon » de Jacques Derrida. Dans C. Chollier, A.- Élisabeth Halpern et A. Trouvé (éds.), *Du jeu dans la théorie de la lecture* (1‑). Éditions et Presses universitaires de Reims. https://doi.org/10.4000/books.epure.2258
+
+Je ne trouve pas dans mes recherches l'information voulant que Derrida critique l’immatérialité phallocentrique de Platon tel que mentionné par Vitali-Rosati dans le chapitre 3.
+
+Je retrouve dans la ressource ci-dessous la citation de Derrida: « un texte reste d'ailleurs toujours imperceptible ».
+* Manzari, F. (2018, 11 mai). Écriture derridienne: l’exemple de la digression dans une stratégie scripturaire antilogocentrique. *HAL: open science*. https://hal.science/hal-01790324/document
+
+Ce qui se trouve dans les paragraphes qui commencent respectivement aux lignes 11, 13 et 15 me semble venir de la tête de Vitali-Rosati, donc je n'ai pas cherché à trouver des ressources pour soutenir ces propos. 
+
+Ce texte du site « Les libraires » ne dit pas comme Vitali-Rosati que le livre *Illusions perdues* amène les réflexions les plus profondes sur le monde de l’impression, mais il confirme tout de même qu'un des personnages principaux de ce roman est imprimeur. 
+* S.a. (S.d.). *Illusions perdues*. Les libraires. https://www.leslibraires.ca/livres/illusions-perdues-honore-de-balzac-9782070309894.html?srsltid=AfmBOopsV4vwuMVVS9tkAV_WFnYXfB74XgV-GWyA0Qz9B9UOkaovvKB0
+
+On retrouve avec la ressource ci-dessous le texte de Souchier sur Balzac. Il s’y trouve aussi la citation « La dimension visuelle de l’écriture n’est pas réductible à sa dimension linguistique non plus qu’à la dimension matérielle de la forme ou de son support, par exemple. » qui est mentionnée par Vitali-Rosati.
 
 ### Sources consultées
 Pour l’orthographe: 
