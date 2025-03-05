@@ -14,6 +14,12 @@ Chapitre 2
 Recommandation de couper la première phrase à "physique quantique" et de reprendre en ajoutant "Il s'agit de...". Cela rend la phrase plus facile à lire, moins longue.  
 Suggestion de remplacement "pour" qui devient "afin de", plus élégant.  
 Suggestion d'intervertir "et donc que" au lieu de "et que donc", pour que cela doit plus fluide.  
+\
+Chapitre 3  
+Recommandation de couper la phrase à "Derrida" car elle est trop longue et on a du mal à suivre la pensée.    
+Modification "hyperuranion".  
+Suggestion de retirer "un dispositif" qui est déjà présent dans la phrase et évite la répétition avec la phrase suivante également.  
+
 
 
 
