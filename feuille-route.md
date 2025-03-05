@@ -9,6 +9,13 @@ Recommandation de remplacer "L'écriture" par "Elle", pour reprendre le sujet et
 Suggestion de retirer la phrase "Charybde est horrible car elle est monstrueuse et demesurée" car la même chose est signifiée deux phrases plus loin.  
 Recommandation d'intervertir "être" et "presque" pour rendre la phrase plus fluide.  
 Suggestion de fusionner deux phrases : "L'hypothèse que je voudrais démontrer est que cet ailleurs est justement la matière, que c'est cette dernière qui pense -- même dans le _Phèdre_ de Platon."  
+\
+Chapitre 2  
+Recommandation de couper la première phrase à "physique quantique" et de reprendre en ajoutant "Il s'agit de...". Cela rend la phrase plus facile à lire, moins longue.  
+Suggestion de remplacement "pour" qui devient "afin de", plus élégant.  
+Suggestion d'intervertir "et donc que" au lieu de "et que donc", pour que cela doit plus fluide.  
+
+
 
 ###Sources consultées  
 Le Larousse, dictionnaire en ligne :  https://www.larousse.fr/   
