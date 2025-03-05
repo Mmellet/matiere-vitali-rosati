@@ -6,6 +6,8 @@ Date de la révision : 10 mars 2024.
 
 Réviseure : Coraline Bouleau
 
+<!-- Rappel markdown pour les commentaires -->
+
 ### Commentaires généraux
 * Notamment dans le chapitre 1, je questionne l'usage du "--" pour signifier une incise. Je suggère d'utiliser seulement un tiret court "-".
 
