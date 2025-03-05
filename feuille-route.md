@@ -10,9 +10,10 @@ Réviseure : Coraline Bouleau
 
 ### Commentaires généraux
 * Notamment dans le chapitre 1, je questionne l'usage du "--" pour signifier une incise. Je suggère d'utiliser seulement un tiret court "-".
+* Faire attention à l'usage de termes scientifiques non-expliqués (ex : spin dans le chapitre 2). Je suggère une relecture attentive pour la vulgarisation des termes.
 
 #### Concernant le chapitre 1
 * Media do not exist : mettre le titre en entier.
-* Commentaire 2
+* Large Language Models pourquoi majuscule ?
 * Commentaire 3
 ### Sources consultées
