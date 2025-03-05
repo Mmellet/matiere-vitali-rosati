@@ -7,4 +7,10 @@ https://etymologika.hypotheses.org/1065
 
 
 
+« L’épigraphe est alignée sur la marge de droite, dans le haut de la page. »
+« Une épigraphe peut être placée à la tête d’un chapitre. Dans ce cas, elle suit le titre du chapitre, et elle est précédée et suivie d’un blanc. »
+https://vitrinelinguistique.oqlf.gouv.qc.ca/23754/la-redaction-et-la-communication/redaction-technique-et-scientifique/pages-liminaires/presentation-et-mise-en-page-de-lepigraphe
+
 ### Commentaires généraux
+
+La longueur des paragraphes est parfois inégale, ce qui rompt la connexion entre les idées et la fluidité de la lecture. Il serait idéal de réunir les paragraphes qui présentent des informations qui sont dans le même ordre d'idées.
