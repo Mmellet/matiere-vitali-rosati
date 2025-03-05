@@ -1,7 +1,7 @@
 ## Feuille de route
 
 Informations de base:
-* Titre du texte Matière de Vitali-Rosati
+* Le livre révisé est *C'est la matière qui pense* de Vitali-Rosati
 * Nom de la réviseuse: Alexandra Venne
 * Date de la révision: Mardi 4 mars 2025
 
@@ -13,7 +13,7 @@ Commentaire 2: Dans le chapitre 3, la citation à la ligne 26 qui est séparée 
 #### Pour le chapitre 1, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
 
 Voici la ressource pour la première citation ( « Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle est vraiment semblable à la peinture. »):
-* Trémolières, F. (2025) Critique de l’écriture et « enseignement oral ». Dans *Encyclopaedia Universalis* France. Récupéré le 3 mars 2025 de https://www.universalis.fr/encyclopedie/phedre-platon/2-critique-de-l-ecriture-et-enseignement-oral/
+* Trémolières, F. (2025) Critique de l’écriture et « enseignement oral ». Dans *Encyclopaedia Universalis* France. Récupéré le 3 mars 2025 de (https://www.universalis.fr/encyclopedie/phedre-platon/2-critique-de-l-ecriture-et-enseignement-oral/)
 
 Je ne retrouve pas cette citation sur Internet: « Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art ». 
 
