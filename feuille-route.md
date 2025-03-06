@@ -19,7 +19,7 @@ Réviseure : Coraline Bouleau
 Ce passage me semble être une excellente accroche pour introduire la matière, après la citation commmentée de Phèdre. Cependant, je suggère un remaniement de la phrase afin qu'elle soit davantage séquencée, par exemple avec une modification de la ponctuation : 
 >Dans le dialogue -- connu pour sa critique de l'écriture, et plus généralement de la matière --, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps (de l'immatérialité du λόγος opposée à la matérialité de la γραφὴ), Platon, par le choix d'un adjectif, nous révèle une conception bien plus complexe que le dualisme immatérialiste.
 
-* Media do not exist : mettre le titre en entier.
+* Pour la référence *Media do not exist* (Larrue et Vitali-Rosati, 2019), je suggère de mettre le titre en entier : [Media do not exist : performativity and mediating conjunctures](https://umontreal.scholaris.ca/items/99528460-1527-4635-ab02-ca67958d73da)
 * Large Language Models pourquoi majuscule ?
 * Commentaire 3
 ### Sources consultées
