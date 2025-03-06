@@ -12,8 +12,11 @@ Suggestion de fusionner deux phrases : "L'hypothèse que je voudrais démontrer 
 \
 Chapitre 2  
 Recommandation de couper la première phrase à "physique quantique" et de reprendre en ajoutant "Il s'agit de...". Cela rend la phrase plus facile à lire, moins longue.  
+Modification de la date de l'expérience, 1922.  
 Suggestion de remplacement "pour" qui devient "afin de", plus élégant.  
 Suggestion d'intervertir "et donc que" au lieu de "et que donc", pour que cela doit plus fluide.  
+"Adjoint en 1920" Question à l'auteur : Est-ce une volonté de mettre la décennie ou est-ce une erreur de date et faut-il mettre 1922 ?  
+
 \
 Chapitre 3  
 Recommandation de couper la phrase à "Derrida" car elle est trop longue et on a du mal à suivre la pensée.    
@@ -25,4 +28,5 @@ Suggestion de retirer "un dispositif" qui est déjà présent dans la phrase et 
 
 ###Sources consultées  
 Le Larousse, dictionnaire en ligne :  https://www.larousse.fr/   
-Wikipédia, la page dédiée à Phèdre de Platon : https://fr.wikipedia.org/wiki/Ph%C3%A8dre_(Platon)
+Wikipédia, la page dédiée à Phèdre de Platon : https://fr.wikipedia.org/wiki/Ph%C3%A8dre_(Platon)  
+Culture Sciences Chimie : https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/chimie-quantique-modelisation/monde-quantique-experience-de-stern-et
