@@ -40,12 +40,12 @@ Je ne trouve pas cette citation: «Roi, qu'as-tu fais \ ? Tu as permis à un gre
 
 Je ne trouve pas de ressource autre que vous pour confirmer la véracité de cette citation: « L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et terrible) semble être presque une expression figée en grec. ».
 
-Je considère que les paragraphes commençants respectivement aux lignes 34 et 36 ne sont pas des faits, mais plutôt l’interprétation de l’auteur. Je n’ai donc pas de sources pour confirmer les propos qu’on y retrouve.
+Je considère que les paragraphes commençants respectivement aux lignes 34 et 36 ne sont pas des faits, mais plutôt l’interprétation de l’auteur. Je n’ai donc pas de ressources pour confirmer les propos qu’on y retrouve.
 
 Ce texte montre que Socrate se disait possédé par des Nymphes ou Muses comme c'est écrit dans le chapitre 1:
 * Lefka, A. (2001). La floraison du *logos* platonicien au sein de la *phusis* : le *Phèdre* et les *Lois*. In E. Delruelle & V. Pirenne-Delforge (éds.), *Kêpoi* (1‑). Presses universitaires de Liège. <https://doi.org/10.4000/books.pulg.1093>
 
-Je considère que les paragraphes commençants respectivement aux lignes 40, 42 et 44 ne sont pas constitués de faits, mais plutôt de propos liés à l’hypothèse de l’auteur et à son analyse de ce dont il parlait plus tôt dans le texte, donc je n’ai pas de sources pour appuyer ce qu'ils contiennent.
+Je considère que les paragraphes commençants respectivement aux lignes 40, 42 et 44 ne sont pas constitués de faits, mais plutôt de propos liés à l’hypothèse de l’auteur et à son analyse de ce dont il parlait plus tôt dans le texte, donc je n’ai pas de ressources pour appuyer ce qu'ils contiennent.
 
 Voici un texte expliquant la théorie de McGann sur l’importance de la matérialité sur le texte. Ça montre que l'auteur a bel et bien écrit sur la matérialité, comme c'est écrit dans le dernier paragraphe du chapitre 1.
 * Kiernan, K. (2013, 25 septembre). *La condition McGann*. POSTMODERN CULTURE: JOURNAL OF INTERDISCIPLINARY THOUGHT ON CONTEMPORARY CULTURES. <https://www.pomoculture.org/2013/09/25/la-condition-mcgann/>
@@ -85,7 +85,7 @@ Dans cette ressource on confirme le contenu de l’anecdote de l'expérience de 
 Voici ce que j’ai trouvé sur la théorie des atomes de Bohr mentionnée par vous dans le chapitre 2:
 * S.a. (S.d.). *L’histoire du modèle atomique*. Alloprof. <https://www.alloprof.qc.ca/fr/eleves/bv/sciences/l-histoire-du-modele-atomique-s1109>
 
-Je ne trouve pas de source qui indique quelle était l'hypothèse partagée par Borh et Stern.
+Je ne trouve pas de ressource qui indique quelle était l'hypothèse partagée par Borh et Stern.
 
 La ressource ci-dessous présente l’idée de Barad qui veut qu’il faut repenser ce qui est inclu dans l’équipement de l’expérience (tel que mentionné dans le chapitre 2 par vous):
 * The Editors. (2021). Cutting both ways. *e-flux*. Criticism. <https://www.e-flux.com/criticism/401098/cutting-both-ways>
@@ -93,7 +93,7 @@ La ressource ci-dessous présente l’idée de Barad qui veut qu’il faut repen
 L'article ci-dessous confirme que l’expérience de Stern et Gerlach démontre l’effet du spin, tel que mentionné dans le chapitre 2 par vous:
 * Westlund, P.-O. et Wennersström, H. (2011). The Stern-Gerlach experiment and the effects of spin relaxation. *Phys. Chem. Chem. Phys. 14*, 1677-1684. <https://www.researchgate.net/profile/Perolof-Westlund/publication/51919768_The_Stern-Gerlach_experiment_and_the_effects_of_spin_relaxation/links/53fb6cee0cf2dca8fffe6d42/The-Stern-Gerlach-experiment-and-the-effects-of-spin-relaxation.pdf>
 
-À mon avis, les paragraphes qui commencent respectivement aux lignes 19 et 21 sont des interprétations de l’auteur, donc je n'ai pas trouvé de sources pour appuyer les propos qui s'y trouvent.
+À mon avis, les paragraphes qui commencent respectivement aux lignes 19 et 21 sont des interprétations de l’auteur, donc je n'ai pas trouvé de ressources pour appuyer les propos qui s'y trouvent.
 
 La ressource ci-dessous mène à un aperçu d’un texte de Karen Barad sur comment la matter matters, ce qui confirme qu'elle a écrit sur le sujet (tel que mentionné par vous dans son chapitre 2).
 * Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. *Signs*, 28(3), 801–831. <https://doi.org/10.1086/345321>
@@ -101,37 +101,37 @@ La ressource ci-dessous mène à un aperçu d’un texte de Karen Barad sur comm
 #### Pour le chapitre 3, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
 
 Voici un texte complémentaire au chapitre 3 qui parle de post-structuralisme:
-* Wagner, F. (2004). Du structuralisme au post-structuralisme. *Études littéraires, 36*(2), 105–126. https://doi.org/10.7202/012906ar
+* Wagner, F. (2004). Du structuralisme au post-structuralisme. *Études littéraires, 36*(2), 105–126. <https://doi.org/10.7202/012906ar>
 
 Voici la ressource qui confirme la véracité de cette citation de Samuel Archibald: « Le texte, tel qu'il se conçoit depuis 50 ans, est un objet pour ainsi dire purement sémiotique, un objet virtuel construit au-dessus et au-delà de toute matérialité »:
-* Archibald, S. (2008). *Le texte et la technique. La lecture à l’heure des nouveaux médias*.  [Thèse, Université du Québec à Montréal] Archipel. https://archipel.uqam.ca/902/1/D1635.pdf
+* Archibald, S. (2008). *Le texte et la technique. La lecture à l’heure des nouveaux médias*.  [Thèse, Université du Québec à Montréal] Archipel. <https://archipel.uqam.ca/902/1/D1635.pdf>
 
-La ressource ci-dessous mène au livre de Drucker. Sans l’avoir lu au complet, il semble effectivement apporter des questionnements sur le lien entre la matière et le sens des textes tel que mentionné par Vitali-Rosati.
-* Drucker, J. (1994). *The Visible Word: Experimental Typography and Modern Art, 1909-1923*. The University of Chicago Press. https://monoskop.org/images/b/b0Drucker_Johanna_The_Visible_Word_Experimental_Typography_and_Modern_Art_1909-1923_1994.pdf
+La ressource ci-dessous mène au livre de Drucker. Sans l’avoir lu au complet, il semble effectivement apporter des questionnements sur le lien entre la matière et le sens des textes tel que mentionné par vous dans le chapitre 3.
+* Drucker, J. (1994). *The Visible Word: Experimental Typography and Modern Art, 1909-1923*. The University of Chicago Press. <https://monoskop.org/images/b/b0Drucker_Johanna_The_Visible_Word_Experimental_Typography_and_Modern_Art_1909-1923_1994.pdf>
 
-On retrouve dans cet article la définition de Kristeva de l’intertextualité (qui est dites peu incarnée par Vitali-Rosati):
-* Dupont, J., et Walezak, É. (2010). L’intertextualité (1‑). Presses universitaires de Perpignan. https://books.openedition.org/pupvd/31992?lang=fr
+On retrouve dans cet article la définition de Kristeva de l’intertextualité (qui est dites peu incarnée par vous):
+* Dupont, J., et Walezak, É. (2010). L’intertextualité (1‑). Presses universitaires de Perpignan. <https://books.openedition.org/pupvd/31992?lang=fr>
 
-La ressource ci-dessous confirme que Derrida parle du texte *Phèdre* dans *La Pharmacie de Platon* tel que mentionné par Vitali-Rosati dans le chapitre 3:
-* Taylor, G. W. (2020). Jeux d’Érôs dans « La Pharmacie de Platon » de Jacques Derrida. Dans C. Chollier, A.- Élisabeth Halpern et A. Trouvé (éds.), *Du jeu dans la théorie de la lecture* (1‑). Éditions et Presses universitaires de Reims. https://doi.org/10.4000/books.epure.2258
+La ressource ci-dessous confirme que Derrida parle du texte *Phèdre* dans *La Pharmacie de Platon* tel que mentionné par vous dans le chapitre 3:
+* Taylor, G. W. (2020). Jeux d’Érôs dans « La Pharmacie de Platon » de Jacques Derrida. Dans C. Chollier, A.- Élisabeth Halpern et A. Trouvé (éds.), *Du jeu dans la théorie de la lecture* (1‑). Éditions et Presses universitaires de Reims. <https://doi.org/10.4000/books.epure.2258>
 
-Je ne trouve pas dans mes recherches l'information voulant que Derrida critique l’immatérialité phallocentrique de Platon tel que mentionné par Vitali-Rosati dans le chapitre 3.
+Je ne trouve pas dans mes recherches l'information voulant que Derrida critique l’immatérialité phallocentrique de Platon tel que mentionné par vous dans le chapitre 3.
 
 Je retrouve dans la ressource ci-dessous la citation de Derrida: « un texte reste d'ailleurs toujours imperceptible ».
-* Manzari, F. (2018, 11 mai). Écriture derridienne: l’exemple de la digression dans une stratégie scripturaire antilogocentrique. *HAL: open science*. https://hal.science/hal-01790324/document
+* Manzari, F. (2018, 11 mai). Écriture derridienne: l’exemple de la digression dans une stratégie scripturaire antilogocentrique. *HAL: open science*. <https://hal.science/hal-01790324/document>
 
-Ce qui se trouve dans les paragraphes qui commencent respectivement aux lignes 11, 13 et 15 me semble venir de la tête de Vitali-Rosati, donc je n'ai pas cherché à trouver des ressources pour soutenir ces propos. 
+Ce qui se trouve dans les paragraphes qui commencent respectivement aux lignes 11, 13 et 15 me semble venir de la tête de l'auteur, donc je n'ai pas cherché à trouver des ressources pour soutenir ces propos. 
 
-Ce texte du site « Les libraires » ne dit pas comme Vitali-Rosati que le livre *Illusions perdues* amène les réflexions les plus profondes sur le monde de l’impression, mais il confirme tout de même qu'un des personnages principaux de ce roman est imprimeur. 
-* S.a. (S.d.). *Illusions perdues*. Les libraires. https://www.leslibraires.ca/livres/illusions-perdues-honore-de-balzac-9782070309894.html?srsltid=AfmBOopsV4vwuMVVS9tkAV_WFnYXfB74XgV-GWyA0Qz9B9UOkaovvKB0
+Ce texte du site « Les libraires » ne dit pas comme vous que le livre *Illusions perdues* amène les réflexions les plus profondes sur le monde de l’impression, mais il confirme tout de même qu'un des personnages principaux de ce roman est imprimeur. 
+* S.a. (S.d.). *Illusions perdues*. Les libraires. <https://www.leslibraires.ca/livres/illusions-perdues-honore-de-balzac-9782070309894.html?srsltid=AfmBOopsV4vwuMVVS9tkAV_WFnYXfB74XgV-GWyA0Qz9B9UOkaovvKB0>
 
-On retrouve avec la ressource ci-dessous le texte de Souchier sur Balzac. Il s’y trouve aussi la citation « La dimension visuelle de l’écriture n’est pas réductible à sa dimension linguistique non plus qu’à la dimension matérielle de la forme ou de son support, par exemple. » qui est mentionnée par Vitali-Rosati.
-* Souchier, E. (2015) . Le carnaval typographique de Balzac. Premiers éléments pour une théorie de l’irréductibilité sémiotique. *Communication & langages*, N° 185(3), 3-22. https://doi.org/10.3917/comla.185.0003.
+On retrouve avec la ressource ci-dessous le texte de Souchier sur Balzac. Il s’y trouve aussi la citation « La dimension visuelle de l’écriture n’est pas réductible à sa dimension linguistique non plus qu’à la dimension matérielle de la forme ou de son support, par exemple. » qui est mentionnée par vous dans le chapitre 3.
+* Souchier, E. (2015) . Le carnaval typographique de Balzac. Premiers éléments pour une théorie de l’irréductibilité sémiotique. *Communication & langages*, N° 185(3), 3-22. <https://doi.org/10.3917/comla.185.0003.>
 
 Voici la ressource qui vient confirmer la présence de ces deux citations dans le livre *Illusions perdues* de Balzac:
 1. Citation 1: « Ce Séchard était un ancien compagnon pressier, que dans leur argot typographique les ouvriers chargés d’assembler les lettres appellent un ours. Le mouvement de va-et-vient, qui ressemble assez à celui d’un ours en cage, par lequel les pressiers se portent de l’encrier à la presse et de la presse à l’encrier, leur a sans doute valu ce sobriquet. En revanche, les ours ont nommé les compositeurs des singes, à cause du continuel exercice qu’ils font pour attraper les lettres dans les cent cinquante-deux petites cases où elles sont contenues. »
 2. Citation 2: « l’ours solitaire était incapable de se transformer en singe ; car, en sa qualité d’imprimeur, il ne sut jamais ni lire ni écrire. »
-* Ressource: Balzac, H. (S.d.) *Illusions perdues*. Bibliothèque électronique du Québec. https://beq.ebooksgratuits.com/balzac/Balzac-35.pdf
+* Ressource: Balzac, H. (S.d.) *Illusions perdues*. Bibliothèque électronique du Québec. <https://beq.ebooksgratuits.com/balzac/Balzac-35.pdf>
 
 Les paragraphes commençant respectivement aux lignes 21 et 23 ainsi que les quatre derniers paragraphe du chapitre 3 sont composés d’analyses et de réflexions de l’auteur, donc je n'ai pas cherché des ressources venant confirmer les propos qui s’y trouvent.
 
