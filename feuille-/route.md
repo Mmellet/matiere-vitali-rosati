@@ -1,4 +1,10 @@
 ## feuille de route
+*C'est la matière qui pense*
+
+Tracy Alain
+
+4 mars 2025
+
 
 ### Ressources
 
