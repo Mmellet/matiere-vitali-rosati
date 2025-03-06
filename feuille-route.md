@@ -10,7 +10,7 @@ Réviseure : Coraline Bouleau
 
 ### Commentaires généraux
 * Notamment dans le chapitre 1, je questionne l'usage du "--" pour signifier une incise. Je suggère d'utiliser seulement un tiret court "-".
-* Faire attention à l'usage de termes et notions scientifiques non-expliqués, par exemple *Large Language Models* (chapitre 1) ; *spin* dans le chapitre 2. Je suggère une relecture attentive pour la vulgarisation des termes. Suggestions de ressources scientifiques :
+* Faire attention à l'usage de termes et notions scientifiques non-expliqués, par exemple *Large Language Models* (chapitre 1) ; *spin* (chapitre 2) ; *hyperouranion* (chapitre 3) Je suggère une relecture attentive pour la vulgarisation des termes. Suggestions de ressources scientifiques :
 * Pour l'ensemble des indications "Ma traduction", je suggère de les mettre en notes de bas de page.
 
 #### Concernant le chapitre 1
@@ -39,6 +39,12 @@ Je suggère de remplacer les points de suspension, par exemple par "et plus larg
 Mon salaire était trop bas pour me permettre d'acheter de bons cigares, alors je fumais de mauvais cigares. Ceux-ci contenaient beaucoup de soufre, et mon souffle sur la plaque a transformé l'argent en sulfure d'argent, qui est d'un noir de jais et donc facilement visible. C'était comme développer une pellicule photographique.» _Ma traduction_.].
 
 * Commentaire 3
+
+#### Concernant le chapitre 3
+* Concernant le passage suivant :
+hyperuranion
+hyperouranion (cf. commentaires généraux)
+
 ### Sources consultées
 
 Beugnet, M., & Hibberd, L. (2020). Absorbed in experience: new perspectives on immersive media Introduction. Screen, 61(4), 586-593
