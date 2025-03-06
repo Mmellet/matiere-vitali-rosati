@@ -16,5 +16,5 @@ Par conséquent, l'interprétation selon laquelle une personne brillante -- ici 
 
 Le dispositif d'observation n'est pas idéal -- dans le sens de quelque chose dont la matérialité n'est qu'un accident car ce qui compte n'est que la structure formelle\ : le dispositif est la matière et c'est cette matière complexe, qui comprend des éléments comme le sulfure d'argent et comme le niveau de reconnaissance économique d'un jeune professeur, c'est cette matière complexe qui fait émerger une idée. La théorie est un agencement matériel d'une série d'éléments.
 
-Barad résume tout cela avec la phrase\ : _matter matters_. C'est ce que je veux dire ici quand j'affirme\ : c'est la matière qui pense.
+Ainsi, Barad résume tout cela avec la phrase\ : _matter matters_. C'est ce que je veux dire ici quand j'affirme\ : c'est la matière qui pense.
 
