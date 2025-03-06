@@ -26,7 +26,18 @@ Ce passage me semble être une excellente accroche pour introduire la matière, 
 Je suggère de remplacer les points de suspension, par exemple par "et plus largement, de qui pense". Il serait également judicieux d'expliciter brièvement la notion de de *Large Language Models* (cf. commentaires généraux).
 
 * Pour la référence *Media do not exist* (Larrue et Vitali-Rosati, 2019), je suggère de mettre le titre en entier : [Media do not exist : performativity and mediating conjunctures](https://umontreal.scholaris.ca/items/99528460-1527-4635-ab02-ca67958d73da)
-* Large Language Models pourquoi majuscule ?
+
+#### Concernant le chapitre 2
+* Il serait intéressant d'apporter davantage de contexte concernant certains éléments, par exemple préciser en quelques mots qui étaient Niels Bohr, Otto Stern et Walther Gerlach.
+* Concernant le passage qui suit, je suggère de fluidifier la hiérarchisation des informations et d'apporter un peu de contexte en déplaçant comme ceci la note de bas de page. Ainsi, il y aurait une note de bas de page concernant l'origine du texte, et une autre concernant la traduction. Cela permettrait d'éviter toute confusion.
+
+>Stern, pour réaliser l'expérience, s'adresse à son collègue Walther Gerlach. L'expérience est difficile et délicate à mettre en place, et cela demande plusieurs nuits de travail à Gerlach. À la fin, les deux chercheurs arrivent à produire ce qu'ils souhaitent, mais en regardant la plaque de verre, ils ne voient rien. Voici le récit de Stern^[Ce texte est reconstruit par Herschbach suite à une conversation privée avec Stern qui a eu lieu en 1960 et cité dans @friedrich_stern_2003.]\ :
+
+>(...)
+
+>My salary was too low to afford good cigars, so I smoked bad cigars. These had a lot of sulfur in them, so my breath on the plate turned the silver into silver sulfide, which is jet black, so easily visible. It was like developing a photographic film.^[«Après avoir évacué le vide, Gerlach retira la plaque du détecteur. Mais il ne voyait aucune trace du faisceau d'atomes d'argent et me tendit la plaque. Avec Gerlach qui regardait par-dessus mon épaule pendant que j'examinais attentivement la plaque, nous fumes surpris de voir émerger progressivement la trace du faisceau... . . Nous comprimes enfin ce qui s'était passé. J'étais alors l'équivalent d'un professeur adjoint.
+Mon salaire était trop bas pour me permettre d'acheter de bons cigares, alors je fumais de mauvais cigares. Ceux-ci contenaient beaucoup de soufre, et mon souffle sur la plaque a transformé l'argent en sulfure d'argent, qui est d'un noir de jais et donc facilement visible. C'était comme développer une pellicule photographique.» _Ma traduction_.].
+
 * Commentaire 3
 ### Sources consultées
 
