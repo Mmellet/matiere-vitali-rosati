@@ -1,7 +1,7 @@
 ## Feuille de route
 
 Informations de base:
-* Le livre révisé est *C'est la matière qui pense* de Vitali-Rosati
+* Le livre révisé est *C'est la matière qui pense* de Marcello Vitali-Rosati
 * Nom de la réviseuse: Alexandra Venne
 * Date de la révision: Mardi 4 mars 2025
 
