@@ -7,14 +7,15 @@ Vous utilisez beaucoup d'exemples issus de domaines qui s'éloignent de l'éditi
 
 ### Sources consultées 
 
-Traduction du grec ancien au français :
-https://fr.wiktionary.org/wiki/γραφή
+Traduction du grec ancien au français :  
+« γραφή », *Wikitionnaire*, [En ligne], https://fr.wiktionary.org/wiki/γραφή (Page consultée le 7 mars 2025).
+« λόγος », *Wikitionnaire*, [En ligne], https://fr.wiktionary.org/wiki/λόγος (Page consultée le 7 mars 2025).
 
 Pour l'ajout d'un schéma sur l'expérience de Stern :  
-https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Stern_et_Gerlach  
+« Expérience de Stern et Gerlach », *Wikipédia*, [En ligne], https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Stern_et_Gerlach (Page consultée le 6 mars 2025).
 
 Date de l'expérience (deuxième source pour l'appui) :  
-https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/chimie-quantique-modelisation/monde-quantique-experience-de-stern-et
+DEMIRDJIAN, Hagop. « Monde quantique : Expérience de Stern et Gerlach », *Culture Science Chimie*, [En ligne], 15 septembre 2009, https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/chimie-quantique-modelisation/monde-quantique-experience-de-stern-et (Page consultée le 6 mars 2025).
 
 Schéma de la communication  
-Roman Jacobson, « Closing statements : Linguistics and Poetics », Style in langage, T.A. Sebeok, New-York, 1960. Pour la traduction de Nicolas Ruwet : « Linguistique et poétique », Essais de linguistique générale, Éditions de Minuit, Paris, 1963.
+JAKOBSON, Roman. *Essais de linguistique générale*, Traduction de N. Ruwet, Paris, Éditions de Minuit, 1963, 260 p.
