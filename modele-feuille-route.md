@@ -11,3 +11,6 @@ https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Stern_et_Gerlach
 
 Date de l'expérience (deuxième source pour l'appui) :  
 https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/chimie-quantique-modelisation/monde-quantique-experience-de-stern-et
+
+Schéma de la communication  
+Roman Jacobson, « Closing statements : Linguistics and Poetics », Style in langage, T.A. Sebeok, New-York, 1960. Pour la traduction de Nicolas Ruwet : « Linguistique et poétique », Essais de linguistique générale, Éditions de Minuit, Paris, 1963.
