@@ -6,6 +6,10 @@ Vous utilisez beaucoup d'exemples issus de domaines qui s'éloignent de l'éditi
 
 
 ### Sources consultées 
+
+Traduction du grec ancien au français :
+https://fr.wiktionary.org/wiki/γραφή
+
 Pour l'ajout d'un schéma sur l'expérience de Stern :  
 https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Stern_et_Gerlach  
 
