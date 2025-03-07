@@ -43,15 +43,20 @@ Mon salaire était trop bas pour me permettre d'acheter de bons cigares, alors j
 #### Concernant le chapitre 3
 * Je questionne la francisation du terme *hyperuranion*. En effet, dans le texte il est noté "hyperouranion", qu'il serait d'ailleurs intéressant de brièvement définir (cf. commentaires généraux). Cependant, je n'ai pas trouvé de dictionnaire en français pour ce terme, mis à part l'indication sur [Wikidata](https://www.wikidata.org/wiki/Q3801572), où "Hyperuranion" est utilisé en français et en espagnol. J'ai donc recherché ce terme dans des articles scientifiques, et j'ai retrouvé l'utilisation de "hyperuranion" dans quelques-uns en langue française (Sfectu, 2022a, p.6 ; Sfectu et al., 2022b, p.25, p.35). J'ai également lu le terme "hyperuranionique" (Nijhuis, 2018, p.324), et non "hyperouranionique". 
 
-**Bibliographie**
-Sfetcu, N. (2022a). La philosophie de Platon.
-Sfetcu, N. (2022b). *Platon, La République: De la justice–Dialectique et éducation*. MultiMedia Publishing.
-Nijhuis, M. (2018). *Le voile prismatique. Éléments pour une théorie libidinale des images* (Doctoral dissertation, Université Sorbonne Paris Cité).
-
 ### Sources consultées
+
+Suggestions de lecture 
 
 Beugnet, M., & Hibberd, L. (2020). Absorbed in experience: new perspectives on immersive media Introduction. Screen, 61(4), 586-593
 Bordeaux, M. C. (2014). Pour un réexamen de la notion d’usage: la dimension culturelle de
 l’expérience. Lendemains-Études comparées sur la France, (154-155), 76-100.
 Jauréguiberry, F., & Proulx, S. (2011). Usages et enjeux des technologies de communication. Érès.
+
+**Bibliographie**
+Sfetcu, N. (2022a). La philosophie de Platon.
+
+Sfetcu, N. (2022b). *Platon, La République: De la justice–Dialectique et éducation*. MultiMedia Publishing.
+
+Nijhuis, M. (2018). *Le voile prismatique. Éléments pour une théorie libidinale des images* (Doctoral dissertation, Université Sorbonne Paris Cité).
+
 
