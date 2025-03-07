@@ -17,7 +17,9 @@
 3. Le chapitre repose sur l'expérience Stern-Gerlach, qui est mentionnée tout au long du texte et sert donc de fil conducteur à la démonstration. En revanche, l'ordre de certains paragraphes ne permet pas de maintenir ce fil conducteur. Je propose donc de revoir l'organisation des paragraphes pour assurer une bonne logique de lecture, et donc, une parfaite compréhension du texte par le lecteur. La modification a été faite dans le texte.
 
 ### Chapitre 3
+1. La mise en relation des théories platoniciennes avec l'édition, pour en faire ressortir les aspects matériels et immatériels, est intéressante. Cependant, pour des termes tels que "Hyperouranion", il faut veiller à ajouter une définition. De plus, je suggère la suppression du "o". D'après mes lectures, le terme est surtout trouvable en anglais avec la graphie "Hyperuranion". J'ai tout de même trouvé quelques mentions du même terme, avec la même graphie, en français (voir les sources consultées). On peut également retrouver les termes "hyperuranium", "royaume platonicien" ou "topos hyperuranios". Ce dernier est probablement plus juste car il est directement issu du grec et permet de clarifier la définition (avec topos, on comprend qu'il s'agit d'un lieu). J'ai supprimé le "o", mais je vous laisse le soin d'étudier les autres propositions, qui pourraient potentiellement clarifier le texte.
 
+2. Ce chapitre permet de faire le lien entre les deux premiers et le monde de l'édition. Les idées sont claires, cependant, l'organisation des paragraphes pourrait être fluidifiée. Je propose de modifier le fil conducteur de la manière suivante : d'abord, parler de la matérialité de l'édition pour faire le lien avec la physique, et donc le chapitre précédent. Cela permettrait d'arriver aux hiérarchies du milieu éditorial et de découler sur les citations de Balzac. Enfin,on retrouverait le retour au cigare et l'introduction de la théorie de l'édition. Les modifications ont déjà été faites dans le texte. 
 
 ## Sources consultées
 ### Chapitre 1
@@ -48,3 +50,19 @@
 
 5. Monde Quantique : Expérience de Stern et Gerlach sur le site Culture Sciences Chimie\
    [lien](https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/chimie-quantique-modelisation/monde-quantique-experience-de-stern-et)
+
+### Chapitre 3
+1. Bescherelle de Conjugaison en ligne\
+   [lien](https://conjugaison.bescherelle.com)
+
+2. Dictionnaire Larousse en ligne\
+   [lien](https://www.larousse.fr)
+
+3. Débunkage des concepts platoniques (ainsi que des archétypes jungiens) sur le forum Reddit\
+   [lien](https://www.reddit.com/r/PowerScaling/comments/1htrvqz/platonic_concepts_debunk_along_with_jung/?tl=fr&rdt=52495)
+
+4. Hyperuranion sur le site Wikipédia\
+   [lien](https://en.wikipedia.org/wiki/Hyperuranion)
+
+5. *La philosophie de Platon*, de Nicolae Sfetcu, sur le site PhilArchives\
+   [lien](https://philarchive.org/archive/NICLPD-13)
