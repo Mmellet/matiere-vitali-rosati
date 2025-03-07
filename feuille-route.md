@@ -10,7 +10,7 @@ Réviseure : Coraline Bouleau
 
 ### Commentaires généraux
 * Notamment dans le chapitre 1, je questionne l'usage du "--" pour signifier une incise. Je suggère d'utiliser seulement un tiret court "-".
-* Faire attention à l'usage de termes et notions scientifiques non-expliqués, par exemple *Large Language Models* (chapitre 1) ; *spin* (chapitre 2) ; *hyperouranion* (chapitre 3) Je suggère une relecture attentive pour la vulgarisation des termes. Suggestions de ressources scientifiques :
+* Faire attention à l'usage de termes et notions scientifiques non-expliqués, par exemple *Large Language Models* (chapitre 1) ; *spin* (chapitre 2) ; "hyperouranion" (chapitre 3) Je suggère une relecture attentive pour la vulgarisation des termes. Suggestions de ressources scientifiques :
 * Pour l'ensemble des indications "Ma traduction", je suggère de les mettre en notes de bas de page.
 
 #### Concernant le chapitre 1
