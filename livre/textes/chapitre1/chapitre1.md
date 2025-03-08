@@ -1,9 +1,11 @@
->δεινὸν γάρ που, ὦ Φαῖδρε, τοῦτ᾽ ἔχει γραφή, καὶ ὡς ἀληθῶς ὅμοιον ζωγραφίᾳ^[«\ Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle est vraiment semblable à la peinture.\ » _Ma traduction_. Mais ce qu'il faut surtout retenir de ce passage est l'anastrophe -- difficile à rendre en français dans cette phrase. δεινὸν, terrible<!-- guillemets? -->, placé en début de phrase, acquiert ainsi un poids très particulier<!-- Reformulation pour mettre en évidence l'anastrophe dont il est question -->.]. (`\Plato[Phèdre]{275}[d]`{=latex})
-
 \lettrine{D}ans le dialogue connu pour sa critique de l'écriture et plus généralement de la matière, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος opposée à la matérialité de la γραφὴ <!-- Les termes grecs n'ont-ils pas été inversés par rapport à leur définition? L'inversion des genres (masculin et féminin) dans le deuxième segment porte à confusion en ce sens, mais il se pourrait que les mots grecs n'aient pas le même genre qu'en français. -->, Platon, par le choix d'un adjectif, nous révèle une conception bien plus complexe que le dualisme immatérialiste. <!-- Pour alléger le texte, l'opposition pourrait n'être mise en évidence qu'une seule fois, avec les termes grecs placés entre parenthèses à côté du terme francophone leur correspondant (ou l'inverse), quoique la formulation déjà présente est élégante. -->
 
 !contenuadd(./blogVitaliRosati)
 !contenuadd(./idCA4)
+
+>δεινὸν γάρ που, ὦ Φαῖδρε, τοῦτ᾽ ἔχει γραφή, καὶ ὡς ἀληθῶς ὅμοιον ζωγραφίᾳ^[«\ Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle est vraiment semblable à la peinture.\ » _Ma traduction_.
+
+Ce qu'il faut surtout retenir de ce passage est l'anastrophe -- difficile à rendre en français dans cette phrase. δεινὸν, « terrible », placé en début de phrase, acquiert ainsi un poids très particulier<!-- Reformulation pour mettre en évidence l'anastrophe dont il est question -->.]. (`\Plato[Phèdre]{275}[d]`{=latex})
 
 Pour le philosophe du monde des idées, l'écriture est δεινός, « terrible ». Elle n'est pas γἑλοιος, « ridicule »<!-- Uniformisation de la présentation des définitions -->, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (τέχνη ἄτεχνος) des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L'écriture est quelque chose de très sérieux donc, quelque chose qui peut faire peur.
 
