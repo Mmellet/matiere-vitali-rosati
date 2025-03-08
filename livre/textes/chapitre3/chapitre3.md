@@ -32,7 +32,9 @@ Si l'édition ne peut qu'être considérée comme une pratique, car elle touche 
 
 C'est le moment de repenser au cigare de Stern\ : et si le mouvement de va-et-vient de l'ours avait en réalité un rôle fondamental dans l'émergence du sens\ ? Et si la naissance des idées ne se faisait pas, en réalité, dans la tête des élites, mais dans l'ensemble d'interactions matérielles où la réflexion du grand philosophe ou du grand romancier n'avait finalement pas plus de poids que la structuration des cent cinquante-deux cases des presses balzaciennes -- ou du format docx auquel nous avons réduit nos chaînes de production actuelles\ ?
 
-Si cela était vrai, il faudrait alors regarder l'édition d'un autre \oe il et ne plus la considérer comme une pratique, mais comme une théorie. 
+Si cela était vrai, il faudrait alors regarder l'édition d'un autre œil et ne plus la considérer comme une pratique, mais comme une théorie. 
+
+<!-- attention à la bonne orthographe des mots, ici "œil" -->
 
 La théorie de l'édition est l'approche nécessaire pour comprendre de quelle manière le sens émerge d'un contexte matériel particulier. Selon ce point de vue, il n'y a plus de hiérarchie parce qu'il n'y a plus une séparation entre matière et immatérialité. Et non seulement il n'y a plus une hiérarchie qui classe les êtres humains (le grand auteur en haut et la petite secrétaire en bas), mais il n'y a plus de hiérarchie qui sépare ce qui peut être produit par l'humain de ce qui est produit par un format, la composition d'une encre, la coupe d'une feuille de papier, l'électricité qui fait tourner un processeur. C'est la matière qui pense.
 
