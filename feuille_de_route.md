@@ -7,7 +7,9 @@
 
 2. L'usage des termes grecs dans le corps du texte en français donne une cohérence avec les citations utilisées et apporte un aspect scientifique, sérieux au texte. En revanche, il faut veiller à ce que chacun des termes utilisés soit accompagné d'une traduction dès sa première apparition dans le texte. J'ai ajouté un commentaire lorsque j'ai remarqué l'absence de traduction.
 
-3. Egalement en lien avec l'ajout des traductions des termes grecs, il faut veiller à harmoniser leur introduction en choisissant les mêmes ponctuations. L'usage des ":" est plus courant à travers le texte, j'ai donc conservé cette ponctuation. 
+3. Egalement en lien avec l'ajout des traductions des termes grecs, il faut veiller à harmoniser leur introduction en choisissant les mêmes ponctuations. L'usage des "()" est plus courant à travers le texte, j'ai donc conservé cette ponctuation.
+
+4. Comme mentionné plus haut, l'usage des termes grecs dans le texte donne de la crédibilité et rapproche le discours des écrits grecs sur lesquels il s'appuie. Cependant, afin de distinguer davantage ces termes, je propose de les mettre en italique dans le texte, notamment parce qu'il s'agit de termes provenant d'une autre langue. La modification a été réalisée dans le texte. 
 
 ### Chapitre 2
 1. L'expérience Stern-Gerlach est un bon exemple et apporte une complément à la réflexion avec une anecdote importante pour la physique moderne. Toutefois, la date de l'expérience ne semble pas correcte. D'après plusieurs sources, disponibles dans la section "sources consultées", du document,l'expérience a eu lieu en 1922. La modification dans le texte a déjà été faite.
