@@ -20,11 +20,13 @@ Suggestion d'intervertir "et donc que" au lieu de "et que donc", pour que cela d
 
 \
 Chapitre 3  
+Recommandation d'ajouter une note de bas de page pour préciser ce qu'est la "doxa".  
 Suggestion de reformuler "Le texte est, lui aussi, idéalisé" pour rendre plus fluide et compréhensible.  
 Recommandation de reformulation : "Il existerait un texte idéal" au lieu de "Il y aurait quelque chose comme un texte idéal" pour rendre le texte moins lourd.  
 Recommandation de couper la phrase à "Derrida" car elle est trop longue et on a du mal à suivre la pensée.    
 Modification "hyperuranion".  
 Suggestion de retirer "un dispositif" qui est déjà présent dans la phrase et évite la répétition avec la phrase suivante également.  
+Recommandation de supprimer "un texte" car déjà répété deux fois dans la même phrase.  
 Recommandation de lier les phrases : "Il est possible de trouver la figure du «\ grand éditeur\ » -- encore une fois, toujours au masculin; mais cet éditeur aura très probablement peu souvent à toucher une presse, ou à corriger une coquille." pour plus de fluidité dans la lecture et ne pas couper l'idée.  
 Suggestion de suppression du deuxième "elle" dans "elle ne demande pas -- ou elle semble ne pas demander" pour éviter la répétition.  
 Recommandation de couper la phrase à "hiérarchisé dans une pyramide." et de reprendre avec "À son sommet,..." car la phrase est trop longue.  
@@ -35,4 +37,6 @@ Recommandation de couper la phrase à "hiérarchisé dans une pyramide." et de r
 Le Larousse, dictionnaire en ligne : [lien](https://www.larousse.fr/)   
 Site internet de l'auteur : [lien](https://vitalirosati.com/)  
 Wikipédia, la page dédiée à Phèdre de Platon : [lien](https://fr.wikipedia.org/wiki/Ph%C3%A8dre_(Platon))  
-Culture Sciences Chimie, l'expérience de  : [lien](https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/chimie-quantique-modelisation/monde-quantique-experience-de-stern-et)  
+Culture Sciences Chimie, l'expérience de Stern et Gerlach : [lien](https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/chimie-quantique-modelisation/monde-quantique-experience-de-stern-et)  
+Définition de Hyperuranion : [lien](https://en.wikipedia.org/wiki/Hyperuranion)  
+
