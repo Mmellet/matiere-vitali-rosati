@@ -2,12 +2,16 @@
 
 \lettrine{D}ans le dialogue connu pour sa critique de l'écriture et plus généralement de la matière, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος (raisonnement) opposée à la matérialité de la γραφὴ (écriture), Platon, par le choix d'un adjectif, nous révèle une conception bien plus complexe que le dualisme immatérialiste.
 
+<!-- Je propose la reformulation suivante pour plus de clarté: « Ce dialogue, connu pour sa critique de l'écriture et plus généralement de la matière, fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος (raisonnement) opposée à la matérialité de la γραφὴ (écriture). Platon, par le choix d'un adjectif -- δεινὸν (terrible) --, nous révèle un concept bien plus complexe que le dualisme immatérialiste. » -->
+
 !contenuadd(./blogVitaliRosati)
 !contenuadd(./idCA4)
 
+<!-- Je suggère une restructuration des paragraphes suivants (voir commentaires feuille de route point 2) -->
+
 Pour le philosophe du monde des idées, l'écriture est δεινός (terrible). Elle n'est pas γἑλοιος (ridicule), qualificatif qu'il a utilisé, quelques répliques plus tôt, pour parler de la rhétorique, τέχνη ἄτεχνος (l'art sans art), des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L'écriture est quelque chose de très sérieux donc, quelque chose qui peut faire peur.
 
-δεινός (terrible) est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour.
+δεινός (terrible) est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour. 
 
 Toujours avec une anastrophe il avait dit\ :
 
@@ -17,7 +21,9 @@ C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Char
 
 >αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex})
 
-Charybde est horrible car elle est monstrueuse et démesurée. Δεινός (terrible) est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré. Δεινός (terrible) est ce que devient celui qui a péché de ὕβρις (traduction).
+Charybde est horrible car elle est monstrueuse et démesurée. Δεινός (traduction) est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré. Δεινός (traduction) est ce que devient celui qui a péché de ὕβρις (traduction).
+
+<!-- Est-ce normal que le mot δεινόν soit écrit avec un delta majuscule dans ce paragraphe? -->
 
 Mais δεινός (terrible) est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour (δεινὸς γόης (traduction), `\Plato [Banquet]{203}[d]`{=latex}). L'amour dépasse aussi l'humain, mais parce qu'il est divin, ou mieux, qu'il est un dieu.
 
