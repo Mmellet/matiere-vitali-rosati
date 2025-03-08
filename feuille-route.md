@@ -14,3 +14,5 @@ https://www.universalis.fr/encyclopedie/electrons/4-le-spin-de-l-electron/
 
 https://www.alloprof.qc.ca/fr/eleves/bv/sciences/l-histoire-du-modele-atomique-s1109
 
+https://crisco4.unicaen.fr/des/
+
