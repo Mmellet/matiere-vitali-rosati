@@ -2,6 +2,10 @@
 
 ### Commentaires généraux
 
+Je recommande de noter les noms complets des auteurs la première fois qu'ils sont mentionnés dans le texte.
+
+Attention aux répétitions trop fréquentes des mots «texte», «idée» et «incarné / désincarné». J'ai suggéré quelques modifications.
+
 ### Sources consultées
 
 https://www.universalis.fr/encyclopedie/continu-et-discret/
