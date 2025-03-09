@@ -28,8 +28,10 @@ Cet adjectif, si complexe, semble mal adapté à qualifier l'écriture dans le c
 Dans la langue grecque δεινός est un terme ambigu, car il mélange son aspect négatif – horrible, terrible – avec une sorte d'admiration. Est horrible tout ce qui va au-delà des limites qui semblent être imposées à l'humain, qui les dépasse et qui, de cette manière, acquiert un aspect divin.^[J'ai dédié un texte à cet aspect inhumain de l'écriture [@vitali-rosati_quest-ce_2020].]
 Dépasser la mesure imposée pour les humains est une faute, mais aussi rend grand, admirable. L’homme qui pèche de ὕβρις devient finalement semblable à un dieu. Le blasphème est à la fois horrible, terrible et admirable, divin.
 
-(Commentaire paragraphe à rassembler, point)
-Hérodote utilise de cette manière l’adjectif, quand il parle d’un «\ homme terrible et sage\ » : ὦ βασιλεῦ, κοῖόν τι χρῆμα ἐποίησας, ἀνδρὶ Ἕλληνι δεινῷ τε καὶ σοφῷ δοὺς ἐγκτίσασθαι πόλιν ἐν Θρηίκῃ.^[«\ Roi, qu'as-tu fais\ ? Tu as permis à un Grec terrible et sage de construire une ville en Thrace…\ » Her. 5.23. _Ma traduction_.]
+(Commentaire paragraphe à rassembler, point à la fin de la citation crochet, citatio à mettre à part)
+Hérodote utilise de cette manière l’adjectif, quand il parle d’un «\ homme terrible et sage\ » : 
+>ὦ βασιλεῦ, κοῖόν τι χρῆμα ἐποίησας, ἀνδρὶ Ἕλληνι δεινῷ τε καὶ σοφῷ δοὺς ἐγκτίσασθαι πόλιν ἐν Θρηίκῃ.^[«\ Roi, qu'as-tu fais\ ? Tu as permis à un Grec terrible et sage de construire une ville en Thrace…\ » Her. 5.23. _Ma traduction_.]
+
 L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et terrible) semble être presque une expression figée en grec. 
 Mais alors, si l'écriture est δεινός, c'est parce qu'elle viole les limites qui lui sont données. Elle ne reste pas là, passive, inerte, matérielle, dépourvue de sens. Elle parle, elle dit quelque chose, elle porte du sens.
 
