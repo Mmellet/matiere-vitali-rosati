@@ -26,3 +26,7 @@
 **Pour le chapitre 2**
 
 *[Wikipédia : Niels Bohr]([http://a.com](https://fr.wikipedia.org/wiki/Niels_Bohr)
+
+**Pour le chapitre 3**
+
+[La philosophie de Platon]([http://a.com](https://philarchive.org/archive/NICLPD-13))
