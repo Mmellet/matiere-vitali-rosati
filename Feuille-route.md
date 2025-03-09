@@ -2,7 +2,10 @@
 
 ### Commentaires généraux
 
-- Pour la typographie, j'ai suivi les normes de l'Office québécois de la langue française.
+**Pour l'ensemble du texte :** 
+
+- Pour la typographie, j'ai suivi les normes de l'Office québécois de la langue française. J'ai, entre autres, fait des ajustements du côté des virgules.
+- Pour les autres corrections, j'ai ajusté certaines répétitions de mots et fait des propositions de reformulations légères à certains endroits.
 
 ### Sources consultées
 
