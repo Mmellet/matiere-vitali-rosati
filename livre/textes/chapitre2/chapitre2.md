@@ -33,4 +33,3 @@ Le dispositif d'observation n'est pas idéal -- puisque la matérialité n'est a
 Je suggère de remplacer «niveau de reconnaissance économique» par une expression plus simple comme «salaire», «valeur économique», «valeur socioéconomique», etc. Je vous laise choisir. -->
 
 Barad résume tout cela avec la phrase\ : _matter matters_. C'est ce que je veux dire ici quand j'affirme\ : c'est la matière qui pense.
-
