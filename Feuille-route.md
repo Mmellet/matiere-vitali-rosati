@@ -29,4 +29,4 @@
 
 **Pour le chapitre 3**
 
-[La philosophie de Platon]([http://a.com](https://philarchive.org/archive/NICLPD-13))
+[La philosophie de Platon]([http://a.com](https://philarchive.org/archive/NICLPD-13)
