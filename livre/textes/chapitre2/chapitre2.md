@@ -2,7 +2,7 @@
 
 \lettrine{P}our bien saisir l'enjeu théorique qui est au centre de ces questions, et en particulier le rôle de ce qui semble être trivialement matériel dans la production et l'émergence du sens, il est utile de s'arrêter sur une anecdote à propos d'une des expériences fondamentales pour la physique quantique, l'expérience de Otto Stern et Walther Gerlach, racontée par Bretislav Friedrich et Dudley Herschbach [@friedrich_stern_2003] et ensuite reprise par Karen Barad [@barad_meeting_2007, p. 161 et ss.].
 
-<!--suggestion de citer le plus tôt possible les prénoms et noms en entier des professionnels (Otto Stern, Walther Gerlach) pour ensuite avoir la possibilité de ne citer que leur nom-->
+<!--suggestion de citer le plus tôt possible les prénoms et noms en entier des professionnels (Otto Stern, Walther Gerlach) pour ensuite avoir la possibilité de ne citer que leur nom. Il n'est pas possible de ne citer que leur nom avant cela.-->
 
 L'expérience a été imaginée par Otto Stern pour vérifier une hypothèse de Niels Bohr sur la structure de l'atome. Selon Bohr, l'orientation du plan orbital des électrons autour du noyau de l'atome ne pourrait prendre que certaines valeurs discrètes. L'espace serait donc discret et non continu\ : c'est l'idée de la «\ quantification de l'espace\ ». Cette idée est évidemment contraire à l'idée d'espace continu et dense de la physique classique.
 
@@ -16,19 +16,25 @@ Mon salaire était trop bas pour me permettre d'acheter de bons cigares, alors j
 
 <!--cf note 6-->
 
-Ce texte vaut la peine d'être analysé attentivement car il met en crise de façon exemplaire l'idée d'une pensée immatérielle, idéale, abstraite de toute composante «\ bassement matérielle\ ».
-
-L'interprétation selon laquelle une personne brillante -- ici Stern -- a une idée géniale, la définit de façon formelle et abstraite et ensuite la démontre avec un dispositif aux frontières claires et bien définies, est complètement invalidée. L'idée, la théorie, sont le résultat d'une série de facteurs dont font partie les conditions économiques d'un professeur adjoint en 1921, le rapport entre le coût des cigares et la présence de soufre, la visibilité du sulfure d'argent sur du verre et l'invisibilité de l'argent, le travail d'une large communauté de recherche qui s'interroge sur des résultats expérimentaux pendant plusieurs décennies, etc.
+L'interprétation selon laquelle une personne brillante -- ici Stern -- a une idée géniale, la définit de façon formelle et abstraite, et ensuite la démontre avec un dispositif aux frontières claires et bien définies, est complètement invalidée. L'idée, la théorie, sont le résultat d'une série de facteurs dont font partie les conditions économiques d'un professeur adjoint en 1921, le rapport entre le coût des cigares et la présence de soufre, la visibilité du sulfure d'argent sur du verre et l'invisibilité de l'argent, le travail d'une large communauté de recherche qui s'interroge sur des résultats expérimentaux pendant plusieurs décennies, etc.
 
 <!--cf note 5 (1920 est 1921)-->
+
+<!--mettre ce paragraphe ici car il fait un résumé des événements de l'expérience et des éléments qui la compose, il doit se trouver à la suite du récit-->
 
 Le dispositif d'observation n'est pas idéal, la matérialité n'est qu'un accident, car ce qui compte n'est que la structure formelle\ : le dispositif est la matière et c'est cette matière complexe, qui comprend des éléments comme le sulfure d'argent et comme le niveau de reconnaissance économique d'un jeune professeur, c'est cette matière complexe qui fait émerger une idée. La théorie est un agencement matériel d'une série d'éléments.
 
 <!--aller à l'essentiel pour une meilleure compréhension , éviter "dans le sens de..."-->
 
+<!--placer ce paragraphe ici, il s'agit de la critique des éléments de l'expérience-->
+
+Ce texte vaut la peine d'être analysé attentivement car il met en crise de façon exemplaire l'idée d'une pensée immatérielle, idéale, abstraite de toute composante «\ bassement matériel\ ».
+
+<!--mettre ce paragraphe ici car il explique la raison de l'intérêt de cette expérience, ce qu'on peut en tirer--> 
+
 Comme le souligne Barad [@barad_meeting_2007 p. 165 et ss.], ce récit questionne l'idée d'un dispositif d'observation dont les limites et les frontières sont très nettement définies. Où commence l'instrument et où finit-il\ ? Le dispositif mis en place par Stern et Gerlach ne donne pas le résultat espéré. Le cigare doit faire partie du dispositif. Mais pas n'importe quel cigare\ : un mauvais cigare. Cela implique donc que même le salaire de Stern, et les raisons de ce salaire -- combien est payé un professeur adjoint -- font partie du dispositif d'observation. Par ailleurs, si on continue l'analyse, l'hypothèse de Stern n'était pas juste\ : en réalité ce que montre l'expérience, plus que la quantification de l'espace, c'est le fait que les électrons ont un spin. Cette expérience devient fondamentale dans les livres de physique seulement plusieurs années après, et justement en tant que démonstration du spin.
 
-<!--Mettre ce paragraphe (ci-dessus) ici, à la fin du chapitre, car il amène à la conclusion-->
+<!--Mettre ce paragraphe (ci-dessus) ici, à la fin du chapitre, car il amène à la conclusion de Karen Barad et de l'auteur ensuite-->
 
 Barad résume tout cela avec la phrase\ : _matter matters_. C'est ce que je veux dire ici quand j'affirme\ : c'est la matière qui pense.
 
