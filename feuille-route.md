@@ -1,4 +1,4 @@
-Margot Roy
+Révision Margot Roy
 
 ## Feuille de route : _C'est la matière qui pense_, 2024, Marcello Vitali-Rosati Chapitre 1, 2 et 3
 
@@ -8,15 +8,17 @@ Dans l’ensemble, la linguistique est très bien, il y a peu de fautes d’orth
 Les ressources sont citées, c’est primordial, avec les dates également des ouvrages. Cependant il est important de vérifier ces dates, ou les noms des auteurs mentionnés. Il est facile au moment de l’écriture de confondre un chiffre ou une lettre.
 Les citations sont introduites dans leur langue d’origine, que ce soit en grec ou en anglais et c’est important. Attention toutefois à bien indiquer les traductions en note de bas de page pour permettre au lecteur de suivre correctement le développement de la pensée du texte. Ces notes peuvent être imposantes, il s’agit là d’un essai savant, cependant il ne faut pas que des informations importantes pour le développement se dissimulent dans ces notes. 
 
-Dans l’ordre général il faut s’assurer que les éléments devant être en note de bas de page y figurent bien.  Pour cela il faudra juste penser à vérifier l’écriture en Markdown.
+Enfin, il faut seulement penser à la fin à vérifier que les éléments écrits en Markdown sont justes, pour permettre une bonne mise en forme du texte.
 
-Notes :
+Rappel de notes concernant les 3 chapitres :
 
-1. Vérifier le nom des auteurs cités
-2. “au-delà” s’écrit toujours avec un tiret
-3. Ajouter une traduction des termes en grec non expliqué ou défini en note de bas de page ou dans le texte directement.
-4. Mettre en note de bas de page
+1. Vérifier l’écriture des noms des auteurs cités ou l’écriture des titres des œuvres.
+2. L’expression “au-delà” s’écrit toujours avec un tiret.
+3. Ajouter une traduction ou une explication des termes écrits en grec, en anglais, ou des termes techniques, en note de bas de page.
+4. Mettre en note de bas de page.
 5. Vérifier les dates de publication des textes de références. Voir dans les ressources la preuve des dates de publications.
+6. Mettre en italique les citations de texte ainsi que les termes en langue étrangère (en grec, en anglais,...)
+7. Vérifier les numéros des citations de pages des œuvres.
 
 #### Chapitre 1
 
