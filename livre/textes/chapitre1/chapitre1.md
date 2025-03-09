@@ -1,4 +1,4 @@
->δεινὸν γάρ που, ὦ Φαῖδρε, τοῦτ᾽ ἔχει γραφή, καὶ ὡς ἀληθῶς ὅμοιον ζωγραφίᾳ^[«\ Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle ressemble vraiment à la peinture.\ » _Ma traduction_. Mais ce qu'il faut surtout retenir de ce passage est l'anastrophe -- difficile à rendre en français dans cette phrase. δεινὸν, terrible, c'est le premier mot qui acquiert ici un poid très particulier.]. (`\Plato[Phèdre]{275}[d]`{=latex})
+>δεινὸν γάρ που, ὦ Φαῖδρε, τοῦτ᾽ ἔχει γραφή, καὶ ὡς ἀληθῶς ὅμοιον ζωγραφίᾳ^[«\ Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle ressemble vraiment à la peinture.\ » _Ma traduction_. Mais ce qu'il faut surtout retenir de ce passage est l'-- anastrophe -- difficile à rendre en français dans cette phrase. δεινὸν, terrible, c'est le premier mot qui acquiert ici un poid très particulier.]. (`\Plato[Phèdre]{275}[d]`{=latex})
 
 \lettrine{D}ans le dialogue connu pour sa critique de l'écriture et, plus généralement, de la matière, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος opposée à la matérialité de la γραφὴ, Platon, par le choix d'un adjectif, nous révèle une conception bien plus complexe que le dualisme immatérialiste.
 
@@ -9,7 +9,7 @@ Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible
 
 >«\ Celui qui ne connaît pas la vérité mais qui poursuit l'opinion possède un art des discours bien ridicule et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.].
 
-L'écriture est terrible ou même horrible. L'écriture est quelque chose de très sérieux, donc quelque chose qui peut faire peur.
+L'écriture est terrible ou même horrible. L'écriture se veut quelque chose de très sérieux, donc quelque chose qui peut faire peur.
 
 δεινός représente un adjectif important dans le _Phèdre_ et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour.
 
