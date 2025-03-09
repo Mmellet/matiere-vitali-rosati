@@ -25,4 +25,4 @@
 
 **Pour le chapitre 2**
 
-[Wikipédia : Niels Bohr]([http://a.com](https://fr.wikipedia.org/wiki/Niels_Bohr))
+*[Wikipédia : Niels Bohr]([http://a.com](https://fr.wikipedia.org/wiki/Niels_Bohr)
