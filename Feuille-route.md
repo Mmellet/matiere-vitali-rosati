@@ -5,7 +5,9 @@
 **Pour l'ensemble du texte** 
 
 - Pour la typographie, j'ai suivi les normes de l'Office québécois de la langue française. J'ai, entre autres, fait des ajustements du côté des virgules.
-- Pour les autres corrections, j'ai ajusté certaines répétitions de mots et fait des propositions de reformulations légères à certains endroits.
+- Pour les autres corrections, j'ai surtout ajusté certaines répétitions de mots et fait des propositions de reformulations légères à certains endroits.
+- Attention à la répétition du mot JUSTEMENT.
+- La narration au JE ne revient qu'à certains endroits, ce qui peut détonner légèrement. Il y aurait lieu de revoir cet aspect.
 
 ### Sources consultées
 
