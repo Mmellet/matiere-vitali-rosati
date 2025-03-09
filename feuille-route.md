@@ -19,6 +19,7 @@ Réviseure : Coraline Bouleau
 
 #### Concernant le chapitre 2
 * Il serait intéressant d'apporter davantage de contexte concernant certains éléments, par exemple préciser en quelques mots qui étaient Niels Bohr, Otto Stern et Walther Gerlach.
+* Ma compréhension de l'expérience scientifique, menée par Stern et Gerlach, a été limitée. Je pense qu'il serait pertinent d'apporter davantage de contexte sur l'expérience en elle-même pour s'assurer que les profils les moins scientifiques puissent également en saisir les nuances.
 
 #### Concernant le chapitre 3
 * Je questionne la francisation du terme *hyperuranion*. En effet, dans le texte il est noté "hyperouranion", qu'il serait d'ailleurs intéressant de brièvement définir (cf. commentaires généraux). Cependant, je n'ai pas trouvé de dictionnaire en français pour ce terme, mis à part l'indication sur [Wikidata](https://www.wikidata.org/wiki/Q3801572), où "Hyperuranion" est utilisé en français et en espagnol. J'ai donc recherché ce terme dans des articles scientifiques, et j'ai retrouvé l'utilisation de "hyperuranion" dans quelques-uns en langue française (Sfectu, 2022a, p.6 ; Sfectu et al., 2022b, p.25, p.35). J'ai également lu le terme "hyperuranionique" (Nijhuis, 2018, p.324), et non "hyperouranionique". 
