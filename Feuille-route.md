@@ -9,6 +9,8 @@
 
 ### Sources consultées
 
+*[La pharmacie de Platon]([http://a.com](https://devenir-dimanche.org/wp-content/uploads/2015/11/derrida-la-pharmacie-de-platon-1968.pdf)
+
 *[OQLF : La typographie]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique/la-typographie)
 
 *[OQLF : Majuscules]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/majuscules)
