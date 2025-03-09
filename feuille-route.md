@@ -6,9 +6,11 @@
 
 
 #### Sources consultées : 
-- [Centre National de Ressources Textuelles et Lexicales. (n.d.). Immatérialisme. CNRTL.](https://www.cnrtl.fr/definition/immatérialisme)
-- [Wikipédia. (n.d.). Dualisme (philosophie de l'esprit).](https://fr.wikipedia.org/wiki/Dualisme_(philosophie_de_l%27esprit)#:~:text=Le%20dualisme%20de%20substance%20est,matérielle%20ne%20peut%20pas%20penser.)
-- [Centre National de Ressources Textuelles et Lexicales. (n.d.). Anastrophe. CNRTL.](https://www.cnrtl.fr/definition/anastrophe#:~:text=GRAMM.,l'ordre%20habituel%20des%20mots.)
+- [Centre National de Ressources Textuelles et Lexicales. (n.d.). _Immatérialisme_. CNRTL.](https://www.cnrtl.fr/definition/immatérialisme)
+- [Wikipédia. (n.d.). _Dualisme_ (philosophie de l'esprit).](https://fr.wikipedia.org/wiki/Dualisme_(philosophie_de_l%27esprit)#:~:text=Le%20dualisme%20de%20substance%20est,matérielle%20ne%20peut%20pas%20penser.)
+- [Centre National de Ressources Textuelles et Lexicales. (n.d.). _Anastrophe_. CNRTL.](https://www.cnrtl.fr/definition/anastrophe#:~:text=GRAMM.,l'ordre%20habituel%20des%20mots.)
+- [Wikipédia. (2024, 1er mars). _Large language model_. Wikipédia.](https://en.wikipedia.org/wiki/Large_language_model)
+- [IBM. (2023, 15 septembre). _An overview of large language models_. IBM Community.](https://www.ibm.com/think/topics/large-language-models)
 
 ### Chapitre 2
 - On comprend assez bien le lien entre l'anecdote de la physique quantique et le propos que vous voulez démontrer. Cependant, pour une personne qui n'y connaîtrait rien en physique, l'anecdote serait assez difficile à suivre. Je propose d'intégrer à votre récit des schémas de l'expérience qui aiderait à la compréhension du texte. Ils pourraient être placés soit dans le corps du texte, ou bien en annexe du livre.
@@ -16,7 +18,9 @@
 
 ### Chapitre 3 
 
-
+#### Sources consultées : 
+- [Wikipédia. (2024, 1er mars). _Hyperuranion_. Wikipédia.](https://en.wikipedia.org/wiki/Hyperuranion#:~:text=The%20hyperuranion%20or%20topos%20hyperuranios,real%20things%20are%20collected%20together.)
+- [L'Encyclopédie canadienne.(2014, 7 mars). _Librairies_. L'Encyclopédie canadienne.](https://www.thecanadianencyclopedia.ca/fr/article/librairies)
 
 ### Commentaires généraux
 #### Les traductions : 
