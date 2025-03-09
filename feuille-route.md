@@ -22,9 +22,34 @@ Rappel de notes concernant les 3 chapitres :
 
 #### Chapitre 1
 
+Ce chapitre est bien structuré, les paragraphes suivent une logique, ils sont bien organisés. Il y a seulement un endroit où il faut regrouper les informations traitant de Socrate, mais dans l’ensemble c’est très bien. 
+Certaines phrases ont besoin d’être reformulées et organisées, mais très peu de changements sont à apporter. 
+Les modifications les plus importantes à apporter dans ce texte concernent la mise en italique des éléments cités, et la traduction des mots grecs ou anglais. Le lecteur doit toujours pouvoir se référer aux notes de bas de page, il ne doit pas se perdre dans la compréhension de la pensée développée dans le texte. 
+Autrement, il faut veiller à la véracité des informations citées, comme par exemple ici les dates des œuvres. Cela peut porter atteinte à la crédibilité du propos.
+
 #### Chapitre 2
 
 #### Chapitre 3
 
 
 ### Ressources
+
+#### Chapitre 1
+
+* Le mot "poids" est invariable :
+  [lien](https://www.lalanguefrancaise.com/orthographe/un-poid-ou-un-poids)
+* L'expression "au-delà" :
+  [lien](https://www.larousse.fr/dictionnaires/francais/au-del%C3%A0_de/6379)
+* Règle pour placer un adverbe dans une phrase :
+[lien](https://dictionnaire.lerobert.com/guide/placedeladverbe#:~:text=L'adverbe%20modifie%20un%20adjectif%20qualificatif&text=%2C%20il%20se%20place%20g%C3%A9n%C3%A9ralement%20devant,a%20un%20%C3%A9quipement%20particuli%C3%A8rement%20performant.&text(beaucoup%2C%20moins%2C%20peu%2C%20si%2C%20tr%C3%A8s%E2%80%A6).)
+* Règle pour formuler une question :
+  [lien](https://global-exam.com/blog/fr/general-french-structure-question/)
+* Emploi de l'italique :
+  [lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/24397/la-typographie/mise-en-relief/italique/emploi-de-litalique-pour-lescitations#:~:text=On%20peut%20notamment%20employer%20l,%C2%AB%20Thank%20you%20so%20much!%20%C2%BB)
+  
+
+#### Chapitre 2
+  
+
+
+#### Chapitre 3
