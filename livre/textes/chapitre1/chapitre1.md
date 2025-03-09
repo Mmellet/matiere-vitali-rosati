@@ -38,11 +38,11 @@ L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et
 
 Mais alors, si l'écriture est δεινός, c'est parce qu'elle viole les limites qui lui sont données. Elle ne reste pas là, passive, inerte, matérielle, dépourvue de sens. Elle parle, elle dit quelque chose, elle porte du sens.
 
-Voilà pourquoi l'écriture est loin d'être ridicule. Elle fait peur justement en questionnant une idée qui semblerait évidente à un lecteur superficiel du _Phèdre_\ : celle selon laquelle la pensée et le sens seraient des productions de l'humain ou, du moins, de ce que l'humain a de plus élevé, à savoir son âme, son côté immatériel. Et pourtant, on constate sans cesse dans le fameux dialogue que cette idée ne fonctionne pas. Ce n'est jamais l'être humain qui pense. La pensée est toujours ailleurs.
+Voilà pourquoi l'écriture est loin d'être ridicule. Elle fait peur justement en questionnant une idée qui semblerait évidente à un lecteur superficiel du _Phèdre_\ : celle selon laquelle<!-- Pour éviter l'euphonie CELLE SELON LAQUELLE, on pourrait changer pour CELLE QUI AVANCE QUE --> la pensée et le sens seraient des productions de l'humain ou, du moins, de ce que l'humain a de plus élevé, à savoir son âme, son côté immatériel. Et pourtant, on constate sans cesse dans le fameux dialogue que cette idée ne fonctionne pas. Ce n'est jamais l'être humain qui pense. La pensée est toujours ailleurs.
 
 Socrate n'arrête pas de le répéter\ : ce n'est pas lui qui produit ses discours\. Ce sont les dieux du lieu, les Nymphes (`\Plato{238}[d]`{=latex}), les Muses (`\Plato{262}[d]`{=latex}), mais jamais lui.
 
-L'hypothèse que je voudrais démontrer est que cet ailleurs est justement la matière. Je voudrais donc démontrer que c'est la matière qui pense -- même dans le _Phèdre_ de Platon.
+L'hypothèse que je voudrais démontrer est que cet ailleurs correspond<!-- ai retiré la répétion de EST --> justement à la matière. Je voudrais donc démontrer que c'est la matière qui pense -- même dans le _Phèdre_ de Platon.
 
 Si cette hypothèse se révèle correcte, il devient nécessaire de revoir toute notre conception de l'émergence du sens. Si la matière pense\ : quelle est la place de toutes ces activités et de toutes ces composantes matérielles -- et pour cela considérées systématiquement comme triviales et banales -- qui ont pourtant un rôle fondamental dans la production du sens\? Plus en particulier\ : quelle est la place des différentes activités éditoriales\? Du choix d'un format -- papier ou numérique -- aux activités de relecture, de révision, de mise en forme, de composition et de fabrication...\? Quelle est la place des logiciels, des algorithmes, des supports\?
 
