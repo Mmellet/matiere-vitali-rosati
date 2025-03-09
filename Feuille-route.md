@@ -9,6 +9,10 @@
 - Attention à la répétition du mot JUSTEMENT.
 - La narration au JE ne revient qu'à certains endroits, ce qui peut détonner légèrement. Il y aurait lieu de revoir cet aspect.
 
+**Pour la présentation des chapites**  
+
+- J'ai remarqué que seul le chapitre 2 a un titre. Il pourait être bien d'en donner aux deux autres.
+
 ### Sources consultées
 
 **Pour l'ensemble du texte** 
