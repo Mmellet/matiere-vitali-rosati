@@ -2,20 +2,22 @@
 
 \lettrine{D}ans le dialogue connu pour sa critique de l'écriture et plus généralement de la matière, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος (raisonnement) opposée à la matérialité de la γραφὴ (écriture), Platon, par le choix d'un adjectif, nous révèle une conception bien plus complexe que le dualisme immatérialiste.
 
-<!-- Je propose la reformulation suivante pour plus de clarté: « Ce dialogue, connu pour sa critique de l'écriture et plus généralement de la matière, fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος (raisonnement) opposée à la matérialité de la γραφὴ (écriture). Platon, par le choix d'un adjectif -- δεινὸν (terrible) --, nous révèle un concept bien plus complexe que le dualisme immatérialiste. » -->
+<!-- Je propose la reformulation suivante pour plus de clarté: « Ce dialogue, connu pour sa critique de l'écriture et plus généralement de la matière, fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος (raisonnement) opposée à la matérialité de la γραφὴ (écriture). Platon, par le choix d'un adjectif, nous révèle un concept bien plus complexe que le dualisme immatérialiste. » -->
 
 !contenuadd(./blogVitaliRosati)
 !contenuadd(./idCA4)
 
-<!-- Je suggère une restructuration des paragraphes suivants (voir commentaires feuille de route point 2) -->
+Pour le philosophe du monde des idées, l'écriture est δεινός (traduction). Elle n'est pas γἑλοιος (ridicule), qualificatif qu'il a utilisé, quelques répliques plus tôt, pour parler de la rhétorique, τέχνη ἄτεχνος (l'art sans art), des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L'écriture est quelque chose de très sérieux donc, quelque chose qui peut faire peur.
 
-Pour le philosophe du monde des idées, l'écriture est δεινός (terrible). Elle n'est pas γἑλοιος (ridicule), qualificatif qu'il a utilisé, quelques répliques plus tôt, pour parler de la rhétorique, τέχνη ἄτεχνος (l'art sans art), des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L'écriture est quelque chose de très sérieux donc, quelque chose qui peut faire peur.
-
-δεινός (terrible) est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour. 
+δεινός (traduction) est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour. 
 
 Toujours avec une anastrophe il avait dit\ :
 
 >δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν^[«\ Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire.\ » _Ma traduction_.]`(\Plato [Phèdre]{242}[d])`{=latex}
+
+<!-- Je suggère cette restructuration des paragraphes précédents : 
+
+δεινός (traduction) est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait d'ailleurs déjà utilisé pour caractériser son propre discours contre l'amour. Pour Platon, philosophe du monde des idées, l'écriture est δεινός (terrible). Elle n'est pas γἑλοιος (ridicule), qualificatif qu'il a utilisé, quelques répliques plus tôt, pour parler de la rhétorique, τέχνη ἄτεχνος (l'art sans art), des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L'écriture est quelque chose de très sérieux donc, quelque chose qui peut faire peur. Toujours avec une anastrophe il avait dit : -->
 
 C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Charybde\ :
 
@@ -25,7 +27,7 @@ Charybde est horrible car elle est monstrueuse et démesurée. Δεινός (tra
 
 <!-- Est-ce normal que le mot δεινόν soit écrit avec un delta majuscule dans ce paragraphe? -->
 
-Mais δεινός (terrible) est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour (δεινὸς γόης (traduction), `\Plato [Banquet]{203}[d]`{=latex}). L'amour dépasse aussi l'humain, mais parce qu'il est divin, ou mieux, qu'il est un dieu.
+Mais δεινός (traduction) est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour (δεινὸς γόης (traduction), `\Plato [Banquet]{203}[d]`{=latex}). L'amour dépasse aussi l'humain, mais parce qu'il est divin, ou mieux, qu'il est un dieu.
 
 Cet adjectif, si complexe, semble mal adapté à qualifier l'écriture dans le cadre du paradigme opposant une matière passive et donc inoffensive à une immatérialité active et productrice^[La critique de l'écriture de _Phèdre_ a fait l'objet de plusieurs études et elle est, évidemment, au centre de _La pharmacie de Platon_ [@derrida_pharmacie_1968]. L'analyse de Derrida, sur laquelle je reviendrai, a aussi comme objectif de questionner l'idée selon laquelle Platon condamnerait tout simplement l'écriture comme quelque chose de négatif.]. Dans la langue grecque δεινός est un terme ambigu car il mélange son aspect négatif -- horrible, terrible -- avec une sorte d'admiration. Est horrible ce qui va au-delà des limites qui semblent être imposées à l'humain, qui les dépasse et qui, de cette manière, acquiert un aspect divin^[J'ai dédié un texte à cet aspect inhumain de l'écriture [@vitali-rosati_quest-ce_2020].].
 
@@ -35,7 +37,7 @@ Hérodote utilise de cette manière l’adjectif, quand il parle d’un «\ homm
 
 L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et terrible) semble être presque une expression figée en grec. 
 
-Mais alors, si l'écriture est δεινός (terrible), c'est parce qu'elle viole les limites qui lui sont données. Elle ne reste pas là, passive, inerte, matérielle, dépourvue de sens. Elle parle, elle dit quelque chose, elle porte du sens.
+Mais alors, si l'écriture est δεινός (traduction), c'est parce qu'elle viole les limites qui lui sont données. Elle ne reste pas là, passive, inerte, matérielle, dépourvue de sens. Elle parle, elle dit quelque chose, elle porte du sens.
 
 Voilà pourquoi l'écriture est loin d'être ridicule. Elle fait peur justement parce qu'elle questionne une idée qui semblerait évidente à un lecteur superficiel du _Phèdre_\ : celle selon laquelle la pensée et le sens seraient des productions de l'humain ou du moins de ce que l'humain a de plus élevé, à savoir son âme, son côté immatériel. Et pourtant on constate sans cesse, dans le fameux dialogue, que cette idée ne fonctionne pas. Ce n'est jamais l'être humain qui pense. La pensée est toujours ailleurs.
 
