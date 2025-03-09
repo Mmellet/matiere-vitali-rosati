@@ -6,7 +6,10 @@
 
 ### Sources consultées
 
-*[La typographie]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique/la-typographie)
-[Lien]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/majuscules)
-[Lien]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/mise-en-relief)
-[Lien]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/espacement)
+*[OQLF : La typographie]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique/la-typographie)
+
+*[OQLF : Majuscules]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/majuscules)
+
+*[OQLF : Mise en relief]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/mise-en-relief)
+
+*[OQLF : Espacement]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/espacement)
