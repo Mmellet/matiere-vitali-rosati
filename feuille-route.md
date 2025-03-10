@@ -4,7 +4,7 @@
 Mettre en italique les mots en grec car ce sont des mots cités d'une autre langue.  
 \
 Chapitre 1  
-Suggestion de modification de l'ordre de la première phrase pour mieux saisir le contexte et le sujet de la phrase, Platon. Cela donnerait : "Platon, par le choix d'un adjectif, dans le dialogue connu pour sa critique de l'écriture et plus généralement de la matière, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος opposée à la matérialité de la γραφὴ, nous révèle une conception bien plus complexe que le dualisme immatérialiste."  
+Suggestion de modification de l'ordre de la première phrase pour mieux saisir le contexte et le sujet de la phrase, Platon. Cela donnerait : "Platon, par le choix d'un adjectif, dans le dialogue connu pour sa critique de l'écriture et plus généralement de la matière, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du *λόγος* opposée à la matérialité de la *γραφὴ*, nous révèle une conception bien plus complexe que le dualisme immatérialiste."  
 Ajouter les traductions des deux mots en grec dans la même phrase.  
 Suggestion d'ajouter une note de bas de page pour préciser le philosophe auquel il y a référence, Platon.  
 Recommandation de remplacer "L'écriture" par "Elle", pour reprendre le sujet et éviter trop de répétitions.  
