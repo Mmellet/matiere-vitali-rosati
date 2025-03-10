@@ -6,7 +6,7 @@
 \lettrine{P}our bien saisir l'enjeu théorique qui est au centre de ces questions et en particulier le rôle de ce qui semble être trivialement matériel dans la production et l'émergence du sens, il est utile de s'arrêter sur une anecdote à propos d'une des expériences fondamentales pour la physique quantique\ : l'expérience de Stern et Gerlach, racontée par Bretislav Friedrich et Dudley Herschbach [@friedrich_stern_2003] et ensuite reprise par Karen Barad [@barad_meeting_2007, p. 161 et ss.].
 L'expérience a été imaginée par Otto Stern pour vérifier une hypothèse de Niels Bohr sur la structure de l'atome. Selon Bohr, l'orientation du plan orbital des électrons autour du noyau de l'atome ne pourrait prendre que certaines valeurs discrètes. L'espace serait donc discret et non continu\ : c'est l'idée de la «\ quantification de l'espace\ ». Cette idée est évidemment contraire à l'idée d'espace continu et dense de la physique classique.
 
-<!--C'est en 1922 que Stern imagine une expérience-->
+<!--C'est en 1922 que Stern imagine une expérience et non en 1921-->
 <!--Pour raccourcir la dernière phrase, on pourrait metre un point après "discrète" et mettre une majuscule à "sinon"-->
 <!--Le mot "champ" ne prend pas de "s"-->
 <!--On peut peut-être supprimer le mot "donc" pour alléger la phrase-->
