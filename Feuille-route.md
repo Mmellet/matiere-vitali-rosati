@@ -23,7 +23,7 @@
 
 ### Commentaire généraux chapitre 2
   
-* Il vous faut surveiller la véracités des informations données. L'expérience de Stern et Gerlach a été réalisé en 1922 et non en 1921. 
+* Il vous faut surveiller la véracité des informations données. L'expérience de Stern et Gerlach a été réalisé en 1922 et non en 1921. 
 
 
 ### Commentaire généraux chapitre 3
