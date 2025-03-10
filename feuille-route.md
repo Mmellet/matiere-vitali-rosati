@@ -41,6 +41,8 @@ Ces changements portent essentiellement sur la fin du chapitre.
 
 #### Chapitre 3
 
+Dans ce chapitre il s’agit encore une fois de veiller à la vérification des dates citées et de mettre en note de bas de pages des termes techniques nécessitant une explication. Il est nécessaire de revoir des structures de phrases et de paragraphes. Certaines phrases sont trop longues, il y a un risque que le lecteur se perde dans la réflexion. 
+Enfin, il faut bien organiser les paragraphes ensemble, il faut les hiérarchiser. Certains doivent obligatoirement se trouver à la suite d’une explication, d’une idée développée. La structuration est primordiale pour une bon développement d’idées.
 
 ### Ressources
 
@@ -54,4 +56,19 @@ Ces changements portent essentiellement sur la fin du chapitre.
   [lien](https://global-exam.com/blog/fr/general-french-structure-question/)
 * Emploi de l'italique :
   [lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/24397/la-typographie/mise-en-relief/italique/emploi-de-litalique-pour-lescitations#:~:text=On%20peut%20notamment%20employer%20l,%C2%AB%20Thank%20you%20so%20much!%20%C2%BB)
-  
+* Biographie de Otto Stern
+  [lien](https://www.techno-science.net/glossaire-definition/Otto-Stern.html#:~:text=Otto%20Stern%20(17%20f%C3%A9vrier%201888,du%20moment%20magn%C3%A9tique%20du%20proton%20%C2%BB.  ) 
+* Karen Barad - *Meeting the Universe Halfway*, 2007
+  [lien](https://www.dukeupress.edu/meeting-the-universe-halfway)   
+* Johanna Drucker - *The Visible Word*, 1994
+[lien](https://monoskop.org/images/b/b0/Drucker_Johanna_The_Visible_Word_Experimental_Typography_and_Modern_Art_1909-1923_1994.pdf) 
+* Jacques Derrida - *La Pharmacie de Platon*, 1968
+[lien](https://www.librairie-faustroll.com/librairie-en-ligne/7530-derrida-jacques-la-pharmacie-de-platon-tel-quel-avril-1968-edition-originale-tire-a-part-envoi-autographe-signe-a-marcelin-pleynet.html)
+* L'hyperuranion
+[lien](https://dbpedia.org/page/Hyperuranion)
+* Emmanuël Souchier - *Le carnaval typographique de Balzac*, 2015
+  [lien](https://lc.em-normandie.fr/Default/doc/CAIRN/d6d33f3906fc926d897ef7bb0103d85b/le-carnaval-typographique-de-balzac-premiers-elements-pour-une-theorie-de-l-irreductibilite-semiotiq?_lg=fr-FR)
+* Marshall McLuhan - *Understanding media : the extensions of man*, 1964
+  [lien](https://catalogue.nla.gov.au/catalog/713471)
+* Samuel Archibald - *Le texte et la technique : La lecture à l’heure des nouveaux medias*, 2008
+[lien](https://archipel.uqam.ca/902/1/D1635.pdf)
