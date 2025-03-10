@@ -10,7 +10,7 @@ Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible
 
 δεινός est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour.
 
-Toujours avec une anastrophe il avait dit\ :
+Toujours avec une anastrophe, il avait dit\ :
 
 >δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν^[«\ Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire.\ » _Ma traduction_.]`(\Plato [Phèdre]{242}[d])`{=latex}
 
@@ -19,11 +19,11 @@ C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Char
 >αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex})
 
 
-Charybde est horrible car elle est monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré. Δεινός est ce que devient celui qui a péché de ὕβρις.
+Charybde est horrible, car elle est monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré. Δεινός est ce que devient celui qui a péché de ὕβρις.
 
 Mais δεινός est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour (δεινὸς γόης, `\Plato [Banquet]{203}[d]`{=latex}). L'amour dépasse aussi l'humain, mais parce qu'il est divin, ou mieux, qu'il est un dieu.
 
-Cet adjectif, si complexe, semble mal adapté à qualifier l'écriture dans le cadre du paradigme opposant une matière passive et donc inoffensive à une immatérialité active et productrice^[La critique de l'écriture de _Phèdre_ a fait l'objet de plusieurs études et elle est, évidemment, au centre de _La pharmacie de Platon_ [@derrida_pharmacie_1968]. L'analyse de Derrida, sur laquelle je reviendrai, a aussi comme objectif de questionner l'idée selon laquelle Platon condamnerait tout simplement l'écriture comme quelque chose de négatif.]. Dans la langue grecque δεινός est un terme ambigu car il mélange son aspect négatif -- horrible, terrible -- avec une sorte d'admiration. Est horrible ce qui va au delà des limites qui semblent être imposées à l'humain, qui les dépasse et qui, de cette manière, acquiert un aspect divin^[J'ai dédié un texte à cet aspect inhumain de l'écriture [@vitali-rosati_quest-ce_2020].].
+Cet adjectif, si complexe, semble mal adapté à qualifier l'écriture dans le cadre du paradigme opposant une matière passive et donc inoffensive à une immatérialité active et productrice^[La critique de l'écriture de _Phèdre_ a fait l'objet de plusieurs études et elle est, évidemment, au centre de _La pharmacie de Platon_ [@derrida_pharmacie_1968]. L'analyse de Derrida, sur laquelle je reviendrai, a aussi comme objectif de questionner l'idée selon laquelle Platon condamnerait tout simplement l'écriture comme quelque chose de négatif.]. Dans la langue grecque δεινός est un terme ambigu, car il mélange son aspect négatif -- horrible, terrible -- avec une sorte d'admiration. Est horrible ce qui va au delà des limites qui semblent être imposées à l'humain, qui les dépasse et qui, de cette manière, acquiert un aspect divin^[J'ai dédié un texte à cet aspect inhumain de l'écriture [@vitali-rosati_quest-ce_2020].].
 
 Dépasser la mesure imposée pour les humains est une faute, mais aussi rend grand, admirable. L’homme qui pèche de ὕβρις devient finalement semblable à un dieu. Le blasphème est à la fois horrible, terrible et admirable, divin.
 
@@ -33,7 +33,7 @@ L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et
 
 Mais alors, si l'écriture est δεινός, c'est parce qu'elle viole les limites qui lui sont données. Elle ne reste pas là, passive, inerte, matérielle, dépourvue de sens. Elle parle, elle dit quelque chose, elle porte du sens.
 
-Voilà pourquoi l'écriture est loin d'être ridicule. Elle fait peur justement parce qu'elle questionne une idée qui semblerait évidente à un lecteur superficiel du _Phèdre_\ : celle selon laquelle la pensée et le sens seraient des productions de l'humain ou du moins de ce que l'humain a de plus élevé, à savoir son âme, son côté immatériel. Et pourtant on constate sans cesse, dans le fameux dialogue, que cette idée ne fonctionne pas. Ce n'est jamais l'être humain qui pense. La pensée est toujours ailleurs.
+Voilà pourquoi l'écriture est loin d'être ridicule. Elle fait peur justement, parce qu'elle questionne une idée qui semblerait évidente à un lecteur superficiel du _Phèdre_\ : celle selon laquelle la pensée et le sens seraient des productions de l'humain ou du moins de ce que l'humain a de plus élevé, à savoir son âme, son côté immatériel. Et pourtant on constate sans cesse, dans le fameux dialogue, que cette idée ne fonctionne pas. Ce n'est jamais l'être humain qui pense. La pensée est toujours ailleurs.
 
 Socrate n'arrête pas de le répéter\ : ce n'est pas lui qui produit ses discours\ ; ce sont les dieux du lieu, les Nymphes (`\Plato{238}[d]`{=latex}), les Muses (`\Plato{262}[d]`{=latex}), mais jamais lui.
 
