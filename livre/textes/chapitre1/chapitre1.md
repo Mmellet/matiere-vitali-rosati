@@ -1,26 +1,26 @@
->δεινὸν γάρ που, ὦ Φαῖδρε, τοῦτ᾽ ἔχει γραφή, καὶ ὡς ἀληθῶς ὅμοιον ζωγραφίᾳ^[«\ Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle est vraiment semblable à la peinture.\ » _Ma traduction_. Mais ce qu'il faut surtout retenir de ce passage est l'anastrophe -- difficile à rendre en français dans cette phrase. δεινὸν, terrible, c'est le premier mot qui acquiert ici un poid très particulier.]. (`\Plato[Phèdre]{275}[d]`{=latex})
+>δεινὸν γάρ που, ὦ Φαῖδρε, τοῦτ᾽ ἔχει γραφή, καὶ ὡς ἀληθῶς ὅμοιον ζωγραφίᾳ^[«\ Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle est vraiment semblable à la peinture.\ » _Ma traduction_. Mais ce qu'il faut surtout retenir de ce passage est l'anastrophe -- difficile à rendre en français dans cette phrase. δεινὸν, terrible, c'est le premier mot qui acquiert ici un poid très particulier.]. (\Plato[Phèdre]{275}[d]{=latex})
 
 \lettrine{D}ans le dialogue connu pour sa critique de l'écriture et plus généralement de la matière, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος opposée à la matérialité de la γραφὴ, Platon, par le choix d'un adjectif, nous révèle une conception bien plus complexe que le dualisme immatérialiste. 
 
 !contenuadd(./blogVitaliRosati)
 !contenuadd(./idCA4)
 
-  Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible. Elle n'est pas γἑλοιος -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (τέχνη ἄτεχνος) des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L’écriture est donc un sujet très sérieux, voire inquiétant. <!-- J’ai évité la répétition de « quelque chose » et remplacé « faire peur » par « inquiétant» pour donner un ton plus académique et fluide à la phrase. -->
+  Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible. Elle n'est pas γἑλοιος -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (τέχνη ἄτεχνος) des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ».  *Ma traduction* \Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L’écriture est donc un sujet très sérieux, voire inquiétant. <!-- J’ai évité la répétition de « quelque chose » et remplacé « faire peur » par « inquiétant» pour donner un ton plus académique et fluide à la phrase. -->
 
   δεινός est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour.
 
   Toujours avec une anastrophe il avait dit\ :
 
->δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν^[«\ Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire.\ » _Ma traduction_.] *Ma traduction*`(\Plato [Phèdre]{242}[d])`{=latex}
+>δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν^[«\ Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire.\ » _Ma traduction_.] (\Plato [Phèdre]{242}[d])`{=latex}
 
   C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Charybde\ :
 
->αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex})
+>αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] *Ma traduction*(\Homer[Odyssée]{12}[260]{=latex})
 
 
   Charybde est horrible car elle est monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré. Δεινός est ce que devient celui qui a péché de ὕβρις.
 
-  Mais δεινός est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour (δεινὸς γόης, `\Plato [Banquet]{203}[d]`{=latex}). L'amour dépasse aussi l'humain, mais parce qu'il est divin, ou mieux, qu'il est un dieu.
+  Mais δεινός est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour (δεινὸς γόης, \Plato [Banquet]{203}[d]{=latex}). L'amour dépasse aussi l'humain, mais parce qu'il est divin, ou mieux, qu'il est un dieu.
 
   Cet adjectif, à la fois complexe et ambigu, semble mal adapté pour qualifier l’écriture, surtout dans le cadre du paradigme qui oppose la matière passive, inoffensive, à une immatérialité active et productive <!-- J’ai ajouté une virgule et modifié légèrement la structure pour rendre la phrase plus fluide, tout en soulignant davantage le contraste entre « matière passive » et « immatérialité active ».-->^[La critique de l'écriture de _Phèdre_ a fait l'objet de plusieurs études et elle est, évidemment, au centre de _La pharmacie de Platon_ [@derrida_pharmacie_1968]. L'analyse de Derrida, sur laquelle je reviendrai, a aussi comme objectif de questionner l'idée selon laquelle Platon condamnerait tout simplement l'écriture comme quelque chose de négatif.].<!-- Cette note de bas de page, puisqu'elle ne représente pas une traduction ou une explication, pourrait être retirée. -->  Dans la langue grecque δεινός est un terme ambigu car il mélange son aspect négatif -- horrible, terrible -- avec une sorte d'admiration. Est horrible ce qui va au delà des limites qui semblent être imposées à l'humain, qui les dépasse et qui, de cette manière, acquiert un aspect divin^[J'ai dédié un texte à cet aspect inhumain de l'écriture [@vitali-rosati_quest-ce_2020].].<!-- De s'inclure et de parler au « je » dans un texte commme celui-ci, je ne sais pas si c'est la meilleure chose à faire. --> 
 
@@ -34,7 +34,7 @@
 
   Voilà pourquoi l'écriture est loin d'être ridicule. Elle fait peur justement parce qu'elle questionne une idée qui semblerait évidente à un lecteur superficiel du _Phèdre_\ : celle selon laquelle la pensée et le sens seraient des productions de l'humain ou du moins de ce que l'humain a de plus élevé, à savoir son âme, son côté immatériel. Et pourtant on constate sans cesse, dans le fameux dialogue, que cette idée ne fonctionne pas. Ce n'est jamais l'être humain qui pense. La pensée est toujours ailleurs.
 
-  Socrate n'arrête pas de le répéter\ : ce n'est pas lui qui produit ses discours\ ; ce sont les dieux du lieu, les Nymphes (`\{238}[d]`{=latex}), les Muses (`\{262}[d]`{=latex}), mais jamais lui.
+  Socrate n'arrête pas de le répéter\ : ce n'est pas lui qui produit ses discours\ ; ce sont les dieux du lieu, les Nymphes (\{238}[d]{=latex}), les Muses (\{262}[d]{=latex}), mais jamais lui.
 
   L'hypothèse que je voudrais démontrer est que cet ailleurs est justement la matière. Je voudrais donc démontrer que c'est la matière qui pense -- même dans le _Phèdre_ de Platon.
 
