@@ -38,3 +38,5 @@
 *[La philosophie de Platon]([http://a.com](https://philarchive.org/archive/NICLPD-13/)
 
 [GitHub Pages](https://pages.github.com/)
+
+[La philosophie de Platon]([https://pages.github.com](https://philarchive.org/archive/NICLPD-13/)
