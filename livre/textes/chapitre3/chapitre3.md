@@ -14,7 +14,7 @@ Cette idéologie, quelque peu caricaturée, je l'admets, met au sommet d'une pyr
 
 <!--Attention à l'emplacement des mots dans la phrase "Le texte est aussi..."-->
 
-<!--Préciser qui est Kristeva en note de bas de page par exemple-->
+<!--Préciser qui est Kristeva, en note de bas de page par exemple, elle n'est pas mentionné avant ce passage-->
 
 Cette idéologie se concrétise dans un dispositif d'attribution de valeur symbolique, un dispositif social et culturel dont l'objectif ultime est de produire des hiérarchies, des concentrations de pouvoir, des distinctions de classe. Un dispositif qui crée donc des élites et des subalternes. La distinction entre élite et subalterne se fait justement sur la base du niveau de matérialité de leurs tâches et de leurs compétences\ : du côté de l'immatérialité, et du «\ texte toujours imperceptible\ », se trouve l'élite, qui ne manipule rien, qui pense, d'une pensée idéale dont les idées demeurent dans l'hyperuranion. Ce sont les mains blanches et lisses, le genre toujours masculin, possiblement une barbe, une cravate, un mépris pour tout ce qui est vilement matériel. De l'autre côté, se trouve celles et ceux qui touchent un texte tout à fait perceptible, un texte qui salit les mains et les abime, un texte qui ne semble pas demander de la pensée, mais de l'action. Et ces personnes sont souvent des femmes, ou des pauvres. D'un côté la théorie et l'élite, de l'autre la pratique et les subalternes.
 
@@ -44,13 +44,13 @@ L'édition ne demande pas -- ou ne semble pas demander -- de la théorie. C'est 
 
 <!--Il est possible de réduire le paragraphes ci-dessus favorisant ainsi la lecture, il répète des informations par rapport au paragraphe au-dessus de lui-->
 
-<!--Pour une meilleure compréhension du paragraphe ci-dessous, il est recommandé d'inclure à la suite de "coquille" la partie "Il est aussi vrai que ce monde [...] il n'y a plus de sens en jeu"-->
+<!--Pour une meilleure compréhension du paragraphe ci-dessous, il est recommandé d'inclure ci-dessus à la suite de " corriger une coquille" la partie "Il est aussi vrai que ce monde [...] il n'y a plus de sens en jeu"-->
 
 Si l'édition ne peut qu'être considérée comme une pratique, car elle touche à la matérialité du texte, à la matière dans laquelle hélas la pensée est contrainte de s'incarner, c'est le moment de repenser au cigare de Stern\ : et si le mouvement de va-et-vient de l'*Ours* avait en réalité un rôle fondamental dans l'émergence du sens\ ? Et si la naissance des idées ne se faisait pas, en réalité, dans la tête des élites, mais dans l'ensemble d'interactions matérielles où la réflexion du grand philosophe, ou du grand romancier, n'avait finalement pas plus de poids que la structuration des cent cinquante-deux cases des presses balzaciennes -- ou du format docx auquel nous avons réduit nos chaînes de production actuelles\ ? 
 
 <!--Ours est une référence au texte de Balzac, il doit être en italique-->
 
-<!--Pour une meilleure lecture et compréhension de cette partie, je recommande de regrouper les deux paragraphes ensemble, et de retirer une partie entièrement pour l'insérer plus haut dans un autre paragraphe "Si l'édition" et "c'est le moment" sont liés ensemble--> 
+<!--Pour une meilleure lecture et compréhension de cette partie, je recommande de regrouper les deux paragraphes ensemble, et de retirer une partie entièrement pour l'insérer plus haut dans un autre paragraphe (vu précédemment) "Si l'édition" et "c'est le moment" sont liés ensemble--> 
 
 Si cela était vrai, il faudrait alors regarder l'édition d'un autre œil et ne plus la considérer comme une pratique, mais comme une théorie. 
 
