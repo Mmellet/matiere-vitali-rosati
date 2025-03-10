@@ -26,7 +26,7 @@
 * Il vous faut surveiller la véracité des informations données. L'expérience de Stern et Gerlach a été réalisé en 1922 et non en 1921. 
 
 
-### Commentaire généraux chapitre 3
+### Commentaire généraux chapitre 3 (Révision fait le 9 mars 2025 par Sophie Chauvel-Gobin)
 
 * Il vous faut surveiller la bonne orthographe des termes employés. Par exemple, hyperouranion est incorrect. Hyperuranion est correct.
   
