@@ -1,6 +1,8 @@
 ##Feuille de route
 
 ###Commentaires généraux  
+Mettre en italique les mots en grec car ce sont des mots cités d'une autre langue.  
+\
 Chapitre 1  
 Suggestion de modification de l'ordre de la première phrase pour mieux saisir le contexte et le sujet de la phrase, Platon. Cela donnerait : "Platon, par le choix d'un adjectif, dans le dialogue connu pour sa critique de l'écriture et plus généralement de la matière, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος opposée à la matérialité de la γραφὴ, nous révèle une conception bien plus complexe que le dualisme immatérialiste."  
 Ajouter les traductions des deux mots en grec dans la même phrase.  
@@ -33,13 +35,15 @@ Chapitre 3
 Recommandation d'ajouter une note de bas de page pour préciser ce qu'est la "doxa".  
 Suggestion de reformuler "Le texte est, lui aussi, idéalisé" pour rendre plus fluide et compréhensible.  
 Recommandation de reformulation : "Il existerait un texte idéal" au lieu de "Il y aurait quelque chose comme un texte idéal" pour rendre le texte moins lourd.  
+Recommandation de préciser de quel texte on parle et le prénom de la personne dans "le texte de Kristeva" car ce nom n'a pas été évoqué avant.  
 Recommandation de couper la phrase à "Derrida" car elle est trop longue et on a du mal à suivre la pensée.    
-Modification "hyperuranion".  
 Suggestion de retirer "un dispositif" qui est déjà présent dans la phrase et évite la répétition avec la phrase suivante également.  
+Correction "hyperuranion" et recommandation d'ajouter une note en bas de page pour définir ce que c'est.  
 Recommandation de supprimer "un texte" car déjà répété deux fois dans la même phrase.  
 Recommandation de lier les phrases : "Il est possible de trouver la figure du «\ grand éditeur\ » -- encore une fois, toujours au masculin; mais cet éditeur aura très probablement peu souvent à toucher une presse, ou à corriger une coquille." pour plus de fluidité dans la lecture et ne pas couper l'idée.  
 Suggestion de suppression du deuxième "elle" dans "elle ne demande pas -- ou elle semble ne pas demander" pour éviter la répétition.  
 Recommandation de couper la phrase à "hiérarchisé dans une pyramide." et de reprendre avec "À son sommet,..." car la phrase est trop longue.  
+Recommandation de déplacer "en réalité" après "Et si" pour faciliter la lecture et la compréhension du passage.  
 
 
 
