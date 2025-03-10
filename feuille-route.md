@@ -3,18 +3,18 @@
 Informations de base:
 * Le livre révisé est *C'est la matière qui pense* de Marcello Vitali-Rosati
 * Nom de la réviseuse: Alexandra Venne
-* Date de la révision: Jeudi 6 mars 2025
+* Date de la fin de la révision: Lundi 10 mars 2025
 
-Commentaire 1: Dans le chapitre 1, les citations séparées du bloc du texte pourrait rester dans le texte entre guillemets puisqu'elles ne dépassent pas trois lignes. 
+Commentaire 1: Dans le chapitre 1, les citations séparées du bloc du texte pourraient rester dans le texte entre guillemets puisqu'elles ne dépassent pas trois lignes. 
 
 Commentaire 2: Dans le chapitre 3, la citation à la ligne 26 qui est séparée du bloc du texte pourrait rester dans le texte entre guillemets puisqu'elle ne dépasse pas trois lignes.
 
-Commentaire 3: Je trouve que l'ordre des paragraphes dans les trois chapitres est logique. Les propos s'enchaînent de manière fluide et je trouve que dans la grande majorité du texte les idées amenées sont bien vulgarisées. J'ai rédigé quelques commentaires aux endroits où je proposais des reformulations de phrases, parfois pour changer des mots, parfois pour restructurer les phrases, parfois pour séparer des phrases en deux phrases et parfois pour changer les signes de ponctuation dans les phrases. Le but de mes interventions est de vous aider à faciliter la lecture du texte pour un public cible universitaire. D'ailleurs, certains passages me semblaient pouvoir être développés davantage pour aider la compréhension du texte par le lecteur. À chaque fois, j'ai mis un commentaire pour vous faire part de ma suggestion. Au final, le texte est très bien, les points que je propose d'améliorer ne sont que des détails!
+Commentaire 3: Je trouve que l'ordre des paragraphes dans les trois chapitres est logique. Les propos s'enchaînent de manière fluide et je trouve que dans la grande majorité du texte les idées amenées sont bien vulgarisées. J'ai rédigé quelques commentaires aux endroits où je proposais des reformulations de phrases (parfois pour changer des mots, parfois pour restructurer les phrases, parfois pour séparer des phrases en deux phrases et parfois pour changer les signes de ponctuation dans les phrases). Le but de mes interventions est de vous aider à faciliter la lecture du texte pour un public cible universitaire. D'ailleurs, certains passages me semblaient pouvoir être développés davantage pour aider la compréhension du texte par le lecteur. À chaque fois, j'ai mis un commentaire pour vous faire part de mes suggestions. Au final, le texte est très bien, les points que je propose d'améliorer ne sont que des détails!
 
 ### Ressources
 #### Pour le chapitre 1, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
 
-Voici la ressource qui confirme la véracité de la première citation ( « Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle est vraiment semblable à la peinture. »):
+Voici la ressource qui confirme l'exactitude de la première citation ( « Ce qu'a de terrible l'écriture, Phèdre, est aussi qu'elle est vraiment semblable à la peinture. »):
 * Trémolières, F. (2025) Critique de l’écriture et « enseignement oral ». Dans *Encyclopaedia Universalis* France. Récupéré le 3 mars 2025 de <https://www.universalis.fr/encyclopedie/phedre-platon/2-critique-de-l-ecriture-et-enseignement-oral/>
 
 Je ne retrouve pas cette citation sur Internet: « Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art ». 
@@ -22,7 +22,7 @@ Je ne retrouve pas cette citation sur Internet: « Celui qui ne connaît pas la 
 Je n’arrive pas non plus à trouver si Socrate a vraiment utilisé le qualificatif δεινός dans son discours contre l’amour.
 
 Dans le chapitre 1 de votre texte, les propos de Socrate sont traduits ainsi: « Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire. ». Dans la traduction de Léon Robin que j'ai trouvé en ligne, la traduction des propos de Socrate est : « Épouvantable, Phèdre, épouvantable est le discours dont tu t’es chargé, aussi bien que celui que tu m’as forcé de prononcer… ». Ça revient plus ou moins au même. Voici ma ressource:
-* Ressource: Phèdre et Socrate. (1933). *Platon tome IV*. (L. Robin, trad.) Éditions Les Belles Lettres. <https://fr.wikisource.org/wiki/Phèdre_(trad._Robin)>
+* Phèdre et Socrate. (1933). *Platon tome IV*. (L. Robin, trad.) Éditions Les Belles Lettres. <https://fr.wikisource.org/wiki/Phèdre_(trad._Robin)>
 
 Je ne trouve pas cette citation en ligne: « Après avoir fui les rochers et l'horrible Charybde...».
 
@@ -32,7 +32,7 @@ Voici une ressource qui explique un peu le rôle de Charybde dans la mythologie 
 Selon le site ci-dessous, Socrate voyait l’amour plus comme un démon que comme un dieu (alors que votre texte prétend qu'il le voit comme un dieu).
 * S.a. (S.d.). *Résumé du Banquet (page 2)*. Les Philosophes.fr : accélérateur de lecture. <https://www.les-philosophes.fr/platon/philosophe-antique/platon-banquet/Page-2.html>
 
-Selon la ressource ci-dessous, on comprend bien que Derrida commente dans son texte *La pharmacie de Platon* la vision de l’écriture de Platon, mais on ne sait pas si son commentaire est positif ou négatif alors que dans votre texte il prend position.
+Selon la ressource ci-dessous, on comprend bien que Derrida commente dans son texte *La Pharmacie de Platon* la vision de l’écriture de Platon, mais on ne sait pas si son commentaire est positif ou négatif alors que dans votre texte il prend position.
 * Librairie Gallimard.(S.d.). *Phèdre; La Pharmacie de Platon*. Librairie Gallimard : Paris.  <https://www.librairie-gallimard.com/livre/9782080712684-phedre-la-pharmacie-de-platon-platon-jacques-derrida/>
 
 L'article ci-dessous vient confirmer que le mot δεινός est un terme ambigu comme c'est écrit dans le chapitre 1.
