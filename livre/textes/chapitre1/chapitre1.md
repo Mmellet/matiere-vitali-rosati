@@ -11,7 +11,7 @@ L'hypothèse que je voudrais démontrer est que cet ailleurs est justement la ma
 
 Toujours avec une anastrophe il avait dit\ :
 
->δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν^[« Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire. » _Ma traduction_.]`(\Plato [Phèdre]{242}[d])`{=latex}
+>δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν^[« Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire. » _Ma traduction.]`(\Plato [Phèdre]{242}[d])`{=latex}
 
 C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Charybde\ :
 
@@ -22,7 +22,7 @@ Charybde est horrible, car elle est monstrueuse et démesurée. Δεινός est
 
 Mais δεινός est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour (δεινὸς γόης, `\Plato [Banquet]{203}[d]`{=latex}). L'amour dépasse aussi l'humain, mais parce qu'il est divin, ou mieux, qu'il est un dieu.
 
-Cet adjectif, si complexe, semble mal adapté à qualifier l'écriture dans le cadre du paradigme opposant une matière passive et donc inoffensive à une immatérialité active et productrice [La critique de l'écriture de _Phèdre_ a fait l'objet de plusieurs études et elle est, évidemment, au centre de _La pharmacie de Platon_ [@derrida_pharmacie_1968]. L'analyse de Derrida, sur laquelle je reviendrai, a aussi comme objectif de questionner l'idée selon laquelle Platon condamnerait tout simplement l'écriture comme quelque chose de négatif. Dans la langue grecque δεινός est un terme ambigu, car il mélange son aspect négatif - horrible, terrible - avec une sorte d'admiration. Est horrible ce qui va au delà des limites qui semblent être imposées à l'humain, qui les dépasse et qui, de cette manière, acquiert un aspect divin^[J'ai dédié un texte à cet aspect inhumain de l'écriture [@vitali-rosati_quest-ce_2020].
+Cet adjectif, si complexe, semble mal adapté à qualifier l'écriture dans le cadre du paradigme opposant une matière passive et donc inoffensive à une immatérialité active et productrice [La critique de l'écriture de _Phèdre_ a fait l'objet de plusieurs études et elle est, évidemment, au centre de _La pharmacie de Platon_ [@derrida_pharmacie_1968]. L'analyse de Derrida, sur laquelle je reviendrai, a aussi comme objectif de questionner l'idée selon laquelle Platon condamnerait tout simplement l'écriture comme quelque chose de négatif. Dans la langue grecque δεινός est un terme ambigu, car il mélange son aspect négatif - horrible, terrible - avec une sorte d'admiration. Est horrible ce qui va au delà des limites qui semblent être imposées à l'humain, qui les dépasse et qui, de cette manière, acquiert un aspect divin [J'ai dédié un texte à cet aspect inhumain de l'écriture [@vitali-rosati_quest-ce_2020].
 
 Dépasser la mesure imposée pour les humains est une faute, mais aussi rend grand, admirable. L’homme qui pèche devient finalement semblable à un dieu. Le blasphème est à la fois horrible, terrible et admirable, divin.
 
