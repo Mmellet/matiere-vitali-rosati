@@ -1,6 +1,6 @@
 ## La théorie de l'édition
 
-\lettrine{M}ais qu'est-ce qu'un mauvais cigare a à voir avec l'édition\ ?
+\lettrine{M}ais qu'est-ce qu'un mauvais cigare a à voir avec l'édition?
 
 Le monde du texte a souvent été pensé sur la base des mêmes présupposés idéalistes -- ou plutôt «\ immatériels\ » -- qui caractérisent l'interprétation de la physique que nous venons de questionner. 
 
@@ -21,12 +21,12 @@ Le ton moqueur de ce passage exprime sans ambiguïté le peu de considération q
 Bien évidemment, même dans le monde des subalternes, il y a des hiérarchies, et Balzac s'amuse à en jouer\ :
 
 
->L’Ours solitaire était incapable de se transformer en Singe; car, en sa qualité d’imprimeur, il ne sut jamais ni lire ni écrire.<!-- J'ai enlevé l'espace devant le point-virgule conformément à la règle de l'Office québécois de la langue française. -->
+>L’Ours solitaire était incapable de se transformer en Singe; car, en sa qualité d’imprimeur, il ne sut jamais ni lire ni écrire.<!-- Source manquante -->
 
 
 Si l'édition ne peut qu'être considérée comme une pratique, car elle touche à la matérialité du texte, à la matière dans laquelle hélas la pensée est contrainte de s'incarner, il est aussi vrai que ce même monde de l'édition peut être hiérarchisé dans une pyramide au sommet de laquelle il y aura les personnes qui prennent des décisions, qui choisissent des manuscrits et une ligne éditoriale, qui peuvent faire un discours lors d'une soirée de lancement d'un livre. Ensuite viennent les réviseurs, les compositeurs, les graphistes, les imprimeurs. Et là on est convaincu qu'il n'y a plus de sens en jeu. 
 
-C'est le moment de repenser au cigare de Stern\ : et si le mouvement de va-et-vient de l'Ours <!-- Ajout d'une majuscule pour l'uniformisation avec la citation puisque l'expression vient de là --> avait en réalité un rôle fondamental dans l'émergence du sens\ ? Et si la naissance des idées ne se faisait pas, en réalité, dans la tête des élites, mais dans l'ensemble d'interactions matérielles où la réflexion du grand philosophe ou du grand romancier n'avait finalement pas plus de poids que la structuration des cent cinquante-deux cases des presses balzaciennes -- ou du format docx auquel nous avons réduit nos chaînes de production actuelles\ ?
+C'est le moment de repenser au cigare de Stern\ : et si le mouvement de va-et-vient de l'Ours <!-- Ajout d'une majuscule pour l'uniformisation avec la citation --> avait en réalité un rôle fondamental dans l'émergence du sens? Et si la naissance des idées ne se faisait pas, en réalité, dans la tête des élites, mais dans l'ensemble d'interactions matérielles où la réflexion du grand philosophe ou du grand romancier n'avait finalement pas plus de poids que la structuration des cent cinquante-deux cases des presses balzaciennes -- ou du format docx auquel nous avons réduit nos chaînes de production actuelles?
 
 Si cela était vrai, il faudrait alors regarder l'édition d'un autre \oeil et ne plus la considérer comme une pratique, mais comme une théorie. 
 
