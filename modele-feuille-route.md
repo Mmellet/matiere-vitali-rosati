@@ -8,7 +8,9 @@ Les mots en grec, les longues citations, traductions et notes de bas de page peu
 La matière est mal mise en contexte au début. Il manque de contextualisation, d'explications claires. La question est introduite de façon trop ambigue. 
 On mélange la science, la philosophie, la physique et les études littéraires, en seulement trois chapitres. Tout cela fait un rendu très dense. 
 Les chapitres sont compacts, mais courts. Cela peut être autant une qualité qu'un défaut. Il faudrait mettre de côté la concision, au profit de l'expansion. Pour enlever de la densité, il faudrait rajouter des phrases, expliquer davantage, mettre en contexte, revenir en arrière, faire des liens. 
-Les paragraphes sont généralement bien coupés et équilibrés. Les informations ne sont pas obsolètes ou incorrectes. Le rythme est bien respecté, avec beaucoup de ponctuation comme la virgule ou les tirets. Cela peut toutefois créer des sous-phrases complexes. Il faut y faire attention. 
+Les paragraphes sont généralement bien coupés et équilibrés. Les informations ne sont pas obsolètes ou incorrectes. Le rythme est bien respecté, avec beaucoup de ponctuation, comme la virgule ou les tirets. Cela peut toutefois créer des sous-phrases complexes. Il faut y faire attention. 
 Il faudrait aussi revoir le style bibliographique, et s'assurer que toutes les sources sont dans le texte. 
 ### Sources consultées 
+Présentation cours 24 février 
+Présentation cours 17 février 
 
