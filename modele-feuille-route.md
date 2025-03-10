@@ -3,10 +3,10 @@
 
 ### Commentaires généraux 
 Le texte est bien écrit, dans une langue académique et professionnelle. Le ton est respecté de manière relativement fluide tout au long des chapitres. Toutefois, certaines phrases sont parfois dures à comprendre, et il faut les relire plusieurs fois pour arriver à en saisir le sens. 
-Dans un même chapitre, les informations font écho entre elles, on comprend le propos. Par contre, le chapitre 1 ne fait pas vraimnent de lien avec les deux chapitres suivants. Il y a un manque de cohérence. Le premier chapitre est le plus important, c'est le premier accès des lecteurs au texte. Dès le premier chapitre, les propos sont très nichés, très littéraires, alors que les deux autres chapitres sont déjà plus compréhensibles. 
+Dans un même chapitre, les informations font écho entre elles, on comprend le propos. Par contre, le chapitre 1 ne fait pas vraiment de lien avec les deux chapitres suivants. Il y a un manque de cohérence. Le premier chapitre est le plus important, c'est le premier accès des lecteurs au texte. Dès le premier chapitre, les propos sont très nichés, très littéraires, alors que les deux autres chapitres sont déjà plus compréhensibles, particulièrement le troisième. 
 Les mots en grec, les longues traductions et les longues notes de bas de page peuvent refroidir un lecteur moins expérimenté. Le public cible est clairement un public érudit, mais cela ne veut pas dire que le texte doit pour autant être trop complexe. 
 La matière est mal mise en contexte au début. Il manque de contextualisation, d'explications claires. La question est introduite de façon trop ambigue. 
-On mélange la science, la philosophie, la physique, la littérature. Tout cela fait un rendu très dense. 
+On mélange la science, la philosophie, la physique et les études littéraires. Tout cela fait un rendu très dense. 
 Toutefois, les chapitres sont denses, mais courts. Cela peut être autant une qualité qu'un défaut. Pour enlever de la densité, il faudrait alonger les phrases, expliquer davantage, mettre en contexte, revenir en arrière, faire des liens. 
 ### Sources consultées 
 
