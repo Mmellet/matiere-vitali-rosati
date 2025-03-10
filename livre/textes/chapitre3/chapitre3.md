@@ -4,21 +4,23 @@
 
 Le monde du texte a souvent été pensé sur la base des mêmes présupposés idéalistes -- ou plutôt «\ immatériels\ » -- qui caractérisent l'interprétation de la physique que nous venons de questionner. 
 
-Cette idéologie, quelque peu caricaturée, je l'admets, met au sommet d'une pyramide symbolique le sens et la pensée qui seraient immatériels -- comme le *λόγος* de la _doxa_ platonicienne. Le texte aussi est idéalisé et pensé comme abstrait de son incarnation matérielle. Il y aurait quelque chose comme un texte idéal. Cette idée abstraite du texte est par ailleurs très présente dans ce qu'on pourrait appeler la _doxa_ post-structuraliste^[Sur ce sujet, cf. l'analyse de @archibald_texte_2008. Analyse bien résumée par cette phrase, que je partage\ : «\ Le texte, tel qu'il se conçoit depuis 50 ans, est un objet pour ainsi dire purement sémiotique, un objet virtuel construit au-dessus et au-delà de toute matérialité\ » p. 5. C'est aussi la critique développée par @drucker_visible_1994 qui, en analysant les expériences de typographie expérimentale dans les mouvements artistiques du début du XX^e^ siècle note que la tradition philosophique et linguistique française n'arrive pas à prendre en compte la contribution de la matière dans la production du sens.]\ : le texte de Kristeva avec une idée d'intertextualité très peu incarnée, mais même le texte, et l'écriture, de Derrida qui, malgré sa critique de l'immatérialité phallocentrique de Platon, s'empresse de souligner -- justement dans la _Pharmacie de Platon_ [@derrida_pharmacie_1968] où il propose son analyse du _Phèdre_ -- que «\ un texte reste d'ailleurs toujours imperceptible\ » en donnant finalement une idée d'écriture fortement désincarnée.
+Cette idéologie, quelque peu caricaturée, je l'admets, met au sommet d'une pyramide symbolique le sens et la pensée qui seraient immatériels -- comme le *λόγος* de la _doxa_ platonicienne. Le texte est aussi idéalisé et pensé comme abstrait de son incarnation matérielle. Il y aurait quelque chose, comme un texte idéal. Cette idée abstraite du texte est par ailleurs très présente dans ce qu'on pourrait appeler la _doxa_ post-structuraliste^[Sur ce sujet, cf. l'analyse de @archibald_texte_2008. Analyse bien résumée par cette phrase, que je partage\ : «\ Le texte, tel qu'il se conçoit depuis 50 ans, est un objet pour ainsi dire purement sémiotique, un objet virtuel construit au-dessus et au-delà de toute matérialité\ » p. 5. C'est aussi la critique développée par @drucker_visible_1994 qui, en analysant les expériences de typographie expérimentale dans les mouvements artistiques du début du XX^e^ siècle note que la tradition philosophique et linguistique française n'arrive pas à prendre en compte la contribution de la matière dans la production du sens.]\ : le texte de Kristeva avec une idée d'intertextualité très peu incarnée, mais même le texte, et l'écriture, de Derrida qui, malgré sa critique de l'immatérialité phallocentrique de Platon, s'empresse de souligner -- justement dans la _Pharmacie de Platon_ [@derrida_pharmacie_1968] où il propose son analyse du _Phèdre_ -- que «\ un texte reste d'ailleurs toujours imperceptible\ » en donnant finalement une idée d'écriture fortement désincarnée.
 
 <!--cf note 5 : 2009 est 2008, 1996 est 1994-->
 
-<!--cf note 6 et note 7 (ici p.20 est p.5)-->
+<!--cf note 6 et note 4 pour le terme grec--> 
 
-Cette idéologie se concrétise dans un dispositif d'attribution de valeur symbolique, un dispositif social et culturel dont l'objectif ultime est de produire des hiérarchies, des concentrations de pouvoir, des distinctions de classe. Un dispositif qui crée donc des élites et des subalternes. La distinction entre élite et subalterne se fait justement sur la base du niveau de matérialité de leurs tâches et de leurs compétences\ : du côté de l'immatérialité, et du «\ texte toujours imperceptible\ », se trouve l'élite, qui ne manipule rien, qui pense, d'une pensée idéale dont les idées demeurent dans l'hyperuranion. Les mains blanches et lisses, le genre toujours masculin, possiblement une barbe, une cravate, un mépris pour tout ce qui est vilement matériel. De l'autre côté, se trouve celles et ceux qui touchent un texte tout à fait perceptible, un texte qui salit les mains et les abime, un texte qui ne semble pas demander de la pensée, mais de l'action. Et ces personnes sont souvent des femmes, ou des pauvres. D'un côté la théorie et l'élite, de l'autre la pratique et les subalternes.
+<!--cf note 7 (ici p.20 est p.5)-->
+
+<!--Attention à l'emplacement des mots dans la phrase "Le texte est aussi..."-->
+
+<!--Préciser qui est Kristeva en note de bas de page par exemple-->
+
+Cette idéologie se concrétise dans un dispositif d'attribution de valeur symbolique, un dispositif social et culturel dont l'objectif ultime est de produire des hiérarchies, des concentrations de pouvoir, des distinctions de classe. Un dispositif qui crée donc des élites et des subalternes. La distinction entre élite et subalterne se fait justement sur la base du niveau de matérialité de leurs tâches et de leurs compétences\ : du côté de l'immatérialité, et du «\ texte toujours imperceptible\ », se trouve l'élite, qui ne manipule rien, qui pense, d'une pensée idéale dont les idées demeurent dans l'hyperuranion. Ce sont les mains blanches et lisses, le genre toujours masculin, possiblement une barbe, une cravate, un mépris pour tout ce qui est vilement matériel. De l'autre côté, se trouve celles et ceux qui touchent un texte tout à fait perceptible, un texte qui salit les mains et les abime, un texte qui ne semble pas demander de la pensée, mais de l'action. Et ces personnes sont souvent des femmes, ou des pauvres. D'un côté la théorie et l'élite, de l'autre la pratique et les subalternes.
 
 <!--Bien écrire les termes techniques notamment ici "hyperuranion" et cf note 3 pour ce terme-->
 
-<!--suggestion d'ajouter une expression démonstrative comme par exemple "se trouve", dans l'explication des élites et des subalternes dans les deux dernières phrases, permettant une fluidité de lecture-->
-
-L'édition est, en bonne partie, du côté de la pratique. En bonne partie, dis-je, car certains aspects du métier ont certes été idéalisés, sacralisés même. Il est possible de trouver la figure du «\ grand éditeur\ » -- encore une fois, toujours au masculin. Mais cet éditeur aura très probablement peu souvent à toucher une presse, ou à corriger une coquille.
-
-L'édition dans son aspect matériel, dans sa composante qui touche aux supports (comme la composition, la révision, l'impression) est pratique, elle ne demande pas -- ou elle semble ne pas demander, car c'est justement cette idée que je vais essayer de renverser -- de la théorie.
+<!--Suggestion d'ajouter une expression démonstrative comme par exemple "se trouve", dans l'explication des élites et des subalternes dans les deux dernières phrases, permettant une fluidité de lecture-->
 
 Les premières pages d'_Illusions perdues_, un roman qui propose une des réflexions les plus profondes sur le monde de l'impression^[À propos de Balzac et de sa réflexion sur le rôle de l'édition dans la production de sens, cf. @souchier_carnaval_2015 qui justement en fait un des points de départ de son analyse qui porte à développer la notion d'«\ irréducibilité sémiotique\ »\ : «\ La dimension visuelle de l’écriture n’est pas réductible à sa dimension linguistique non plus qu’à la dimension matérielle de la forme ou de son support, par exemple.\ »], mettent justement en scène ce dispositif de production des élites et des subalternes en représentant le petit monde qui tourne autour des presses mécaniques.
 
@@ -30,17 +32,29 @@ Le ton moqueur de ce passage exprime sans ambiguïté le peu de considération q
 
 Bien évidemment, même dans le monde des subalternes, il y a des hiérarchies, et Balzac s'amuse à en jouer\ :
 
-
 >*l’Ours solitaire était incapable de se transformer en Singe ; car, en sa qualité d’imprimeur, il ne sut jamais ni lire ni écrire.* 
+
 <!--cf note 6-->
 
-Si l'édition ne peut qu'être considérée comme une pratique, car elle touche à la matérialité du texte, à la matière dans laquelle hélas la pensée est contrainte de s'incarner, il est aussi vrai que ce même monde de l'édition peut être hiérarchisé dans une pyramide au sommet de laquelle il y aura les personnes qui prennent des décisions, qui choisissent des manuscrits et une ligne éditoriale, qui peuvent faire un discours lors d'une soirée de lancement d'un livre. Ensuite viennent les réviseurs, les compositeurs, les graphistes, les imprimeurs. Et là on est convaincu qu'il n'y a plus de sens en jeu. 
+<!--Mettre tout ce passage concernant Balzac à la suite de l'explication de la différence entre les élites et les subalternes. Il s'agit d'un exemple, d'une illustration de cette explication, ces paragraphes doivent se suivre-->
 
-C'est le moment de repenser au cigare de Stern\ : et si le mouvement de va-et-vient de l'ours avait en réalité un rôle fondamental dans l'émergence du sens\ ? Et si la naissance des idées ne se faisait pas, en réalité, dans la tête des élites, mais dans l'ensemble d'interactions matérielles où la réflexion du grand philosophe ou du grand romancier n'avait finalement pas plus de poids que la structuration des cent cinquante-deux cases des presses balzaciennes -- ou du format docx auquel nous avons réduit nos chaînes de production actuelles\ ?
+L'édition est, en bonne partie, du côté de la pratique. En bonne partie, dis-je, car certains aspects du métier ont certes été idéalisés, sacralisés même. Il est possible de trouver la figure du «\ grand éditeur\ » -- encore une fois, toujours au masculin. Mais cet éditeur aura très probablement peu souvent à toucher une presse, ou à corriger une coquille. Il est aussi vrai que ce même monde de l'édition peut être hiérarchisé dans une pyramide au sommet de laquelle il y aura les personnes qui prennent des décisions, qui choisissent des manuscrits et une ligne éditoriale, qui peuvent faire un discours lors d'une soirée de lancement d'un livre. Ensuite viennent les réviseurs, les compositeurs, les graphistes, les imprimeurs. Et là on est convaincu qu'il n'y a plus de sens en jeu.
+
+L'édition ne demande pas -- ou ne semble pas demander -- de la théorie. C'est justement cette idée que je vais essayer de renverser 
+
+<!--Il est possible de réduire le paragraphes ci-dessus favorisant ainsi la lecture, il répète des informations par rapport au paragraphe au-dessus de lui-->
+
+<!--Pour une meilleure compréhension du paragraphe ci-dessous, il est recommandé d'inclure à la suite de "coquille" la partie "Il est aussi vrai que ce monde [...] il n'y a plus de sens en jeu"-->
+
+Si l'édition ne peut qu'être considérée comme une pratique, car elle touche à la matérialité du texte, à la matière dans laquelle hélas la pensée est contrainte de s'incarner, c'est le moment de repenser au cigare de Stern\ : et si le mouvement de va-et-vient de l'*Ours* avait en réalité un rôle fondamental dans l'émergence du sens\ ? Et si la naissance des idées ne se faisait pas, en réalité, dans la tête des élites, mais dans l'ensemble d'interactions matérielles où la réflexion du grand philosophe, ou du grand romancier, n'avait finalement pas plus de poids que la structuration des cent cinquante-deux cases des presses balzaciennes -- ou du format docx auquel nous avons réduit nos chaînes de production actuelles\ ? 
+
+<!--Ours est une référence au texte de Balzac, il doit être en italique-->
+
+<!--Pour une meilleure lecture et compréhension de cette partie, je recommande de regrouper les deux paragraphes ensemble, et de retirer une partie entièrement pour l'insérer plus haut dans un autre paragraphe "Si l'édition" et "c'est le moment" sont liés ensemble--> 
 
 Si cela était vrai, il faudrait alors regarder l'édition d'un autre œil et ne plus la considérer comme une pratique, mais comme une théorie. 
 
-<!--attention à la bonne orthographe des mots, ici "œil"-->
+<!--Attention à la bonne orthographe des mots, ici "œil"-->
 
 La théorie de l'édition est l'approche nécessaire pour comprendre de quelle manière le sens émerge d'un contexte matériel particulier. Selon ce point de vue, il n'y a plus de hiérarchie parce qu'il n'y a plus une séparation entre matière et immatérialité. Et non seulement il n'y a plus de hiérarchie qui classe les êtres humains (le grand auteur en haut et la petite secrétaire en bas), mais il n'y a plus de hiérarchie qui sépare ce qui peut être produit par l'humain de ce qui est produit par un format, la composition d'une encre, la coupe d'une feuille de papier, l'électricité qui fait tourner un processeur. C'est la matière qui pense.
 
