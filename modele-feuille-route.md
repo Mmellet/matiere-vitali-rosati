@@ -15,9 +15,21 @@ Ainsi, vous retrouverez des commentaires qui ont pour but d’accentuer votre vu
 * Nommer les prénoms et noms des différents acteurs
 * Nommer le métier de ces experts
 * Nommer l'auteur des oeuvres
+
 Cela renforce la compréhension du texte et contextualise rapidemdent vos idées. Il est ainsi plus facile de faire des liens entre les éléments et donc de rejoindre efficacement le lectorat. Sachant aussi que vous abordez principalement un aspect philosophique dans le premier chapitre et un aspect scientifique dans le second, il est important de faire ces précisions dès l'entrée en matière comme le lecteur est susceptible de ne pas connaître toutes les figures importantes de ces deux milieux distincts.
 
-2) 
+2) Vous nommez à certains passages des termes ou des expériences qui ne sont pas concrètement expliqués. Cela peut confondre le lecteur et rendre difficle la compréhension du texte. Je vous recommande de soit proposer une traduction du terme, ou encore, de proposer une définition simplifiée du terme.  Je pense notamment au : 
+   chapitre 01 
+* Large Language Models
+* Material turn
+* New Materialism
+
+  chapitre 02
+* Bassement Matérielle
+* Spin
+
+  chapitre 03
+* Hyperouranion
 
 ### Sources consultées 
 
