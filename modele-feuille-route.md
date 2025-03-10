@@ -21,16 +21,22 @@ Cela renforce la compréhension du texte et contextualise rapidemdent vos idées
 2) Vous nommez à certains passages des termes ou des expériences qui ne sont pas concrètement expliqués. Cela peut confondre le lecteur et rendre difficle la compréhension du texte. Je vous recommande de soit proposer une traduction du terme, ou encore, de proposer une définition simplifiée du terme.  Je pense notamment au :
    
    **Chapitre 01** 
-* Large Language Models
-* Material turn
-* New Materialism
+* Large Language Models : Vous pourriez vous référer aux sources D). Exemple d'une reformulation : À l'époque des _Large Language Models_, des modèles avancés de langage qui emploient les technologies d'IA. 
+* Material turn : Pourrions-nous traduire ce terme à la théorie du tournant matériel? 
+* New Materialism :  Pourrions-nous traduire ce terme au nouveau matérialisme ? Au néo-matérialisme ? Vous pourriez vous référer à la source E).
 
   **Chapitre 02**
-* Bassement Matérielle
-* Spin
+* Bassement Matérielle : Ce terme me semble difficle à trouver. Une vérification de ce terme serait à mon avis pertinent. 
+* Spin : Vous pourriez vous référer à la source E). Exemple d'une reformulation : [...] en tant que démonstration du spin, qui se définit par le mouvement de rotation de l'électron.
 
   **Chapitre 03**
-* Hyperouranion
+* Hyperuranion : Pourriez-vous approffondir la définition de ce terme?
 
 ### Sources consultées 
 
+A) Citation longue : [Lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/23206/la-redaction-et-la-communication/bibliographie-et-citations/citations/citation-longue)
+B) Citation courte : [Lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/23375/la-ponctuation/guillemets/guillemets-dans-les-citations)
+C) La virgule avec car : [Lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/23447/la-ponctuation/virgule/la-virgule-avec-car)
+D) Large Language Models : [Lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26570880/grand-modele-de-langage) ou [Lien](https://www.hpe.com/ca/fr/what-is/large-language-model.html)
+E) New Materialism : [Lien](https://www.erudit.org/fr/revues/cs/2022-n4-cs07915/1098601ar.pdf)
+F) Spin : [Lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8360610/spin-de-lelectron)
