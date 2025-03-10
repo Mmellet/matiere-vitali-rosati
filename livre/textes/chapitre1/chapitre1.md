@@ -16,8 +16,7 @@ Toujours avec une anastrophe il avait dit\ :
 
 C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Charybde\ :
 
->αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex})
-
+>αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex}) <!-- Il n'y a pas de mention pour le traducteur dans cette citation -->
 
 Charybde est horrible car elle est monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré. Δεινός est ce que devient celui qui a péché de ὕβρις.
 
@@ -27,7 +26,11 @@ Cet adjectif, si complexe, semble mal adapté à qualifier l'écriture dans le c
 
 Dépasser la mesure imposée pour les humains est une faute, mais aussi rend grand, admirable. L’homme qui pèche de ὕβρις devient finalement semblable à un dieu. Le blasphème est à la fois horrible, terrible et admirable, divin.
 
-Hérodote utilise de cette manière l’adjectif, quand il parle d’un «\ homme terrible et sage\ »: ὦ βασιλεῦ, κοῖόν τι χρῆμα ἐποίησας, ἀνδρὶ Ἕλληνι δεινῷ τε καὶ σοφῷ δοὺς ἐγκτίσασθαι πόλιν ἐν Θρηίκῃ^[«\ Roi, qu'as-tu fais\ ? Tu as permis à un grec terrible et sage de construire une ville en Thrace…\ » Her. 5.23. _Ma traduction_.]
+Hérodote utilise de cette manière l’adjectif, quand il parle d’un «\ homme terrible et sage\ »:
+
+>ὦ βασιλεῦ, κοῖόν τι χρῆμα ἐποίησας, ἀνδρὶ Ἕλληνι δεινῷ τε καὶ σοφῷ δοὺς ἐγκτίσασθαι πόλιν ἐν Θρηίκῃ^[«\ Roi, qu'as-tu fais\ ? Tu as permis à un grec terrible et sage de construire une ville en Thrace…\ » Her. 5.23. _Ma traduction_.]
+
+<!-- J'ai mis la phrase en grec précédente en citation longue car les autres phrases traduites sont en citation longue également. -->
 
 L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et terrible) semble être presque une expression figée en grec. 
 
