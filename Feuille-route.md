@@ -1,7 +1,7 @@
 ## Feuille de route
 
 
-### Commentaire généraux sur les trois chapitres
+### Commentaire généraux sur les trois chapitres (Révision fait le 9 mars 2025 par Sophie Chauvel-Gobin)
 
 * Il vous faut surveiller la disposition de vos paragraphes. Pour une meilleure compréhension du texte, certains paragraphes peuvent être rassemblés et d'autres séparés.
 
@@ -12,7 +12,7 @@
 * Pour fluidifier la lecture de votre texte, il est préférable d'utiliser des vigules. Pour de plus amples informations, vous pouvez consulter le site de l'Office québécois de la langue française <https://vitrinelinguistique.oqlf.gouv.qc.ca/23443/la-ponctuation/virgule/les-roles-de-la-virgule>
   
     
-### Commentaires chapitre 1
+### Commentaires chapitre 1 (Révision fait le 9 mars 2025 par Sophie Chauvel-Gobin)
  
 * Il vous faut surveiller les répétitions dans le corps de votre texte, qui peuvent donner un effet de redondance au lecteur.
   
@@ -21,7 +21,7 @@
 * Comme vous l'aviez fait auparavant, il est préférable, pour les citations plus ou moins longues, de les détacher du corps du texte en effectuant un retour à la ligne et en effectuant le codage recquis. De plus, une citation se termine toujours par un point.
   
 
-### Commentaire généraux chapitre 2
+### Commentaire généraux chapitre 2 (Révision fait le 9 mars 2025 par Sophie Chauvel-Gobin)
   
 * Il vous faut surveiller la véracité des informations données. L'expérience de Stern et Gerlach a été réalisé en 1922 et non en 1921. 
 
