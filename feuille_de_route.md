@@ -70,19 +70,31 @@
    [lien](https://umontreal.scholaris.ca/items/97c51cb9-a250-4e33-8579-1b7173292f0a)
 
 ### Chapitre 2
-1. Bescherelle de Conjugaison en ligne\
+1. Antoine, Charles. (2022). *Schrödinger à la plage : La physique quantique dans un transat*\
+   Lecture personnelle datant de 2023.
+
+2. Barad, Karen. (2007). *Meeting the Universe Halfway. Quantum Physics and the Entanglement of Matter and Meaning* sur le site *Duke University Press*\
+   [lien](https://www.dukeupress.edu/meeting-the-universe-halfway)
+
+3. Bescherelle de Conjugaison sur le site *Conjugaison Bescherelle*\
    [lien](https://conjugaison.bescherelle.com)
 
-2. Dictionnaire Larousse en ligne\
+4. Dictionnaire Larousse sur le site *Larousse*\
    [lien](https://www.larousse.fr)
 
-3. Expérience Stern-Gerlach sur Wikipédia\
+5. Expérience Stern-Gerlach sur le site *Wikipédia*\
    [lien](https://fr.wikipedia.org/wiki/Expérience_de_Stern_et_Gerlach#:~:text=L%27expérience%20de%20Stern%20et,Walther%20Gerlach%20en%20février%201922.&text=Elle%20consiste%20à%20faire%20passer,non%20uniforme%20de%20direction%20verticale.)
 
-4. Grand dictionnaire des terminologies de l'Office Québécois de la Langue Française (OQLF)\
+6. Friedrich, Bretislav et Dudley Herschbach. (2003). *Stern and Gerlach: How a Bad Cigar Helped Reorient Atomic Physics* sur le site *Physics Today*\
+   [lien](https://pubs.aip.org/physicstoday/article/56/12/53/632269/Stern-and-Gerlach-How-a-Bad-Cigar-Helped-Reorient)
+
+7. Friedrich, Bretislav et Dudley Herschbach. (2003). *Stern and Gerlach: How a Bad Cigar Helped Reorient Atomic Physics* sur le site *Research Gate*\
+   [lien](https://www.researchgate.net/publication/27277949_Stern_and_Gerlach_How_a_Bad_Cigar_Helped_Reorient_Atomic_Physics)
+
+8. Grand dictionnaire des terminologies sur le site *Office Québécois de la Langue Française (OQLF)*\
    [lien](https://vitrinelinguistique.oqlf.gouv.qc.ca)
 
-5. Monde Quantique : Expérience de Stern et Gerlach sur le site Culture Sciences Chimie\
+9. Monde Quantique : Expérience de Stern et Gerlach sur le site *Culture Sciences Chimie*\
    [lien](https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/chimie-quantique-modelisation/monde-quantique-experience-de-stern-et)
 
 ### Chapitre 3
