@@ -5,8 +5,7 @@
 !contenuadd(./blogVitaliRosati)
 !contenuadd(./idCA4)
 
-  Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible. Elle n'est pas γἑλοιος -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (τέχνη ἄτεχνος) des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L'écriture est quelque chose de très sérieux donc, quelque chose qui peut faire peur.
-
+  Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible. Elle n'est pas γἑλοιος -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (τέχνη ἄτεχνος) des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L’écriture est donc un sujet très sérieux, voire inquiétant. <!-- J’ai évité la répétition de « quelque chose » et remplacé « faire peur » par « inquiétant» pour donner un ton plus académique et fluide à la phrase. -->
 
   δεινός est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour.
 
@@ -39,7 +38,7 @@
 
   L'hypothèse que je voudrais démontrer est que cet ailleurs est justement la matière. Je voudrais donc démontrer que c'est la matière qui pense -- même dans le _Phèdre_ de Platon.
 
-  Si cette hypothèse se révèle correcte, il devient nécessaire de revoir toute notre conception de l'émergence du sens. Si la matière pense\ : quelle est la place de toutes ces activités et de toutes ces composantes matérielles -- et pour cela considérées systématiquement comme triviales et banales -- qui ont pourtant un rôle fondamental dans la production du sens\ ? <!--  On pourrait insérer un autre paragraphe ici, pour séparer ce bloc en deux. -->  Plus en particulier\ : quelle est la place des différentes activités éditoriales\ ? Du choix d'un format -- papier ou numérique -- aux activités de relecture, révision, mise en forme, composition, fabrication...\ ? Quelle est la place des logiciels, des algorithmes, des supports\ ?
+  Si cette hypothèse s'avère correcte, il devient crucial de repenser notre conception de l'émergence du sens.<!-- J’ai remplacé « revoir » par « repenser » pour une expression plus précise, et « se révèle » par « s'avère » pour une meilleure fluidité.-->   Si la matière pense\ : quelle est la place de toutes ces activités et de toutes ces composantes matérielles -- et pour cela considérées systématiquement comme triviales et banales -- qui ont pourtant un rôle fondamental dans la production du sens\ ? <!--  On pourrait insérer un autre paragraphe ici, pour séparer ce bloc en deux. -->  Plus en particulier\ : quelle est la place des différentes activités éditoriales\ ? Du choix d'un format -- papier ou numérique -- aux activités de relecture, révision, mise en forme, composition, fabrication...\ ? Quelle est la place des logiciels, des algorithmes, des supports\ ?
 
   À l'époque des _Large Language Models_, peut-être faut-il se poser de façon complètement renouvelée la question de qui produit le sens... de qui pense.
 
