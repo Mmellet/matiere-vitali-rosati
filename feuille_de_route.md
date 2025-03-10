@@ -10,6 +10,8 @@
 
 4. Comme mentionné plus haut, l'usage des termes grecs dans le texte donne de la crédibilité et rapproche le discours des écrits grecs sur lesquels il s'appuie. Cependant, afin de distinguer davantage ces termes, je propose de les mettre en italique dans le texte, notamment parce qu'il s'agit de termes provenant d'une autre langue. La modification a été réalisée dans le texte. 
 
+5. Les oeuvres citées permettent de crédibiliser la démonstration et donne du corps au texte. Cependant, il faut veiller à donner les titres complets des oeuvres et à en indiquer les bonnes dates de pbulication. Des commentaires ont été ajoutés pour guider les modifications à faire. Pour les bonnes dates, consultez la section "Sources consultées". 
+
 ### Chapitre 2
 1. L'expérience Stern-Gerlach est un bon exemple et apporte une complément à la réflexion avec une anecdote importante pour la physique moderne. Toutefois, la date de l'expérience ne semble pas correcte. D'après plusieurs sources, disponibles dans la section "sources consultées", du document,l'expérience a eu lieu en 1922. La modification dans le texte a déjà été faite.
 
@@ -17,10 +19,14 @@
 
 3. Le chapitre repose sur l'expérience Stern-Gerlach, qui est mentionnée tout au long du texte et sert donc de fil conducteur à la démonstration. En revanche, l'ordre de certains paragraphes ne permet pas de maintenir ce fil conducteur. Je propose donc de revoir l'organisation des paragraphes pour assurer une bonne logique de lecture, et donc, une parfaite compréhension du texte par le lecteur. La modification a été faite dans le texte.
 
+4. Les oeuvres citées permettent de crédibiliser la démonstration et donne du corps au texte. Cependant, il faut veiller à donner les titres complets des oeuvres et à en indiquer les bonnes dates de pbulication. Pour les bonnes dates, consultez la section "Sources consultées". 
+
 ### Chapitre 3
 1. La mise en relation des théories platoniciennes avec l'édition, pour en faire ressortir les aspects matériels et immatériels, est intéressante. Cependant, pour des termes tels que "Hyperouranion", il faut veiller à ajouter une définition. De plus, je suggère la suppression du "o". D'après mes lectures, le terme est surtout trouvable en anglais avec la graphie "Hyperuranion". J'ai tout de même trouvé quelques mentions du même terme, avec la même graphie, en français (voir les sources consultées). On peut également retrouver les termes "hyperuranium", "royaume platonicien" ou "topos hyperuranios". Ce dernier est probablement plus juste car il est directement issu du grec et permet de clarifier la définition (avec topos, on comprend qu'il s'agit d'un lieu). J'ai supprimé le "o", mais je vous laisse le soin d'étudier les autres propositions, qui pourraient potentiellement clarifier le texte.
 
-2. Ce chapitre permet de faire le lien entre les deux premiers et le monde de l'édition. Les idées sont claires, cependant, l'organisation des paragraphes pourrait être fluidifiée. Je propose de modifier le fil conducteur de la manière suivante : d'abord, parler de la matérialité de l'édition pour faire le lien avec la physique, et donc le chapitre précédent. Cela permettrait d'arriver aux hiérarchies du milieu éditorial et de découler sur les citations de Balzac. Enfin,on retrouverait le retour au cigare et l'introduction de la théorie de l'édition. Les modifications ont déjà été faites dans le texte. 
+2. Ce chapitre permet de faire le lien entre les deux premiers et le monde de l'édition. Les idées sont claires, cependant, l'organisation des paragraphes pourrait être fluidifiée. Je propose de modifier le fil conducteur de la manière suivante : d'abord, parler de la matérialité de l'édition pour faire le lien avec la physique, et donc le chapitre précédent. Cela permettrait d'arriver aux hiérarchies du milieu éditorial et de découler sur les citations de Balzac. Enfin,on retrouverait le retour au cigare et l'introduction de la théorie de l'édition. Les modifications ont déjà été faites dans le texte.
+
+3. Les oeuvres citées permettent de crédibiliser la démonstration et donne du corps au texte. Cependant, il faut veiller à donner les titres complets des oeuvres et à en indiquer les bonnes dates de pbulication. Pour les bonnes dates, consultez la section "Sources consultées". 
 
 ## Sources consultées
 ### Chapitre 1
@@ -33,40 +39,43 @@
 3. Chartier, Roger. (2016). *Matérialité du texte et attentes de lecture. Concordances ou discordances ?* sur le site *Erudit*\
    [lien](https://www.erudit.org/fr/revues/lumen/2017-v36-lumen02702/1037851ar/)
 
-4. Dictionnaire Larousse sur le site *Larousse*\
+4. Derrida, Jacques. (1968). *La pharmacie de Platon* sur le site *Devenir Dimanche*\
+   [lien](https://devenir-dimanche.org/wp-content/uploads/2015/11/derrida-la-pharmacie-de-platon-1968.pdf)
+
+5. Dictionnaire Larousse sur le site *Larousse*\
    [lien](https://www.larousse.fr)
 
-5. Drucker, Johanna. (1996). *The Visible Word Experimental Typography and Modern Art, 1909-1923* sur le site *Chicago, University of Press*\
+6. Drucker, Johanna. (1996). *The Visible Word Experimental Typography and Modern Art, 1909-1923* sur le site *Chicago, University of Press*\
    [lien](https://press.uchicago.edu/ucp/books/book/chicago/V/bo3631964.html)
 
-6. Grand dictionnaire des terminologies sur le site *Office Québécois de la Langue Française (OQLF)*\
+7. Grand dictionnaire des terminologies sur le site *Office Québécois de la Langue Française (OQLF)*\
    [lien](https://vitrinelinguistique.oqlf.gouv.qc.ca)
 
-7. *Grand Modèle de Langage* sur le site *Wikipédia*\
+8. *Grand Modèle de Langage* sur le site *Wikipédia*\
    [lien](https://fr.wikipedia.org/wiki/Grand_modèle_de_langage)
 
-8. Jeanneret, Yves. (2005). *L'énonciation éditoriale dans les écrits d'écran* sur le site *Persée*\
+9. Jeanneret, Yves. (2005). *L'énonciation éditoriale dans les écrits d'écran* sur le site *Persée*\
    [lien](https://www.persee.fr/doc/colan_0336-1500_2005_num_145_1_3351)
 
-9. *La théorie des formes de Platon* sur le site *Wikipédia*\
+10. *La théorie des formes de Platon* sur le site *Wikipédia*\
    [lien](https://fr.wikipedia.org/wiki/Théorie_des_formes)
 
-10. Larrue, Jean-Marc et Marcello Vitali-Rosati. (2019). *Media do not exist : performativity and mediating conjunctures* sur le site *Papyrus de l'Université de Montréal*\
+11. Larrue, Jean-Marc et Marcello Vitali-Rosati. (2019). *Media do not exist : performativity and mediating conjunctures* sur le site *Papyrus de l'Université de Montréal*\
    [lien](https://umontreal.scholaris.ca/items/99528460-1527-4635-ab02-ca67958d73da)
 
-11. McGann, Jerome. (1991). *The Textual Condition* sur le site *Princeton University Press*\
+12. McGann, Jerome. (1991). *The Textual Condition* sur le site *Princeton University Press*\
    [lien](https://press.princeton.edu/books/paperback/9780691015187/the-textual-condition?srsltid=AfmBOoonx759r9eB-Yv3427kiYE4buWSzXdQI2V3otKW1kCa5S5GZT7E)
 
-12. McLuhann, Marshall. (1964). *Understanding Media: The Extensions of Man* sur le site *MIT Press*\
+13. McLuhann, Marshall. (1964). *Understanding Media: The Extensions of Man* sur le site *MIT Press*\
    [lien](https://mitpress.mit.edu/9780262631594/understanding-media/)
 
-13. McLuhann, Marshall. (1964). *Understanding Media: The Extensions of Man* sur *Wikipédia*\
+14. McLuhann, Marshall. (1964). *Understanding Media: The Extensions of Man* sur *Wikipédia*\
    [lien](https://en.wikipedia.org/wiki/Understanding_Media)
 
-14. Vitali-Rosali, Marcello. (2016). *Qu'est-ce que l'éditorialisation ?* sur le site *Erudit*\
+15. Vitali-Rosali, Marcello. (2016). *Qu'est-ce que l'éditorialisation ?* sur le site *Erudit*\
    [lien](https://www.erudit.org/fr/revues/sp/2016-sp063/1043383ar/)
 
-15. Vitali-Rosali, Marcello. (2016). *Qu'est-ce que l'éditorialisation ?* sur le site *Papyrus de l'Université de Montréal*\
+16. Vitali-Rosali, Marcello. (2016). *Qu'est-ce que l'éditorialisation ?* sur le site *Papyrus de l'Université de Montréal*\
    [lien](https://umontreal.scholaris.ca/items/97c51cb9-a250-4e33-8579-1b7173292f0a)
 
 ### Chapitre 2
@@ -98,17 +107,26 @@
    [lien](https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/chimie-quantique-modelisation/monde-quantique-experience-de-stern-et)
 
 ### Chapitre 3
-1. Bescherelle de Conjugaison en ligne\
+1. Archibald, Samuel. (2009). *Le texte et la technique: La lecture à l'heure des médias numériques* sur le site *LesLibraires*\
+   [lien](https://www.leslibraires.ca/livres/le-texte-et-la-technique-la-samuel-archibald-9782923400556.html?srsltid=AfmBOorJMn7RiWjODhdB_1xu0rCGljzzwnXO4z9WjrorkJe-0Az7JbI5)
+
+3. Bescherelle de Conjugaison sur le site *Conjugaison Bescherelle*\
    [lien](https://conjugaison.bescherelle.com)
 
-2. Dictionnaire Larousse en ligne\
+4. Derrida, Jacques. (1968). *La pharmacie de Platon* sur le site *Devenir Dimanche*\
+   [lien](https://devenir-dimanche.org/wp-content/uploads/2015/11/derrida-la-pharmacie-de-platon-1968.pdf)
+
+5. Dictionnaire Larousse sur le site *Larousse*\
    [lien](https://www.larousse.fr)
 
-3. Débunkage des concepts platoniques (ainsi que des archétypes jungiens) sur le forum Reddit\
+6. *Débunkage des concepts platoniques (ainsi que des archétypes jungiens)* sur le site *Reddit*\
    [lien](https://www.reddit.com/r/PowerScaling/comments/1htrvqz/platonic_concepts_debunk_along_with_jung/?tl=fr&rdt=52495)
 
-4. Hyperuranion sur le site Wikipédia\
+7. Hyperuranion sur le site *Wikipédia*\
    [lien](https://en.wikipedia.org/wiki/Hyperuranion)
 
-5. *La philosophie de Platon*, de Nicolae Sfetcu, sur le site PhilArchives\
+8. Sfetcu, Nicolae. (2002).  *La philosophie de Platon*. Sur le site *PhilArchives*\
    [lien](https://philarchive.org/archive/NICLPD-13)
+
+9. Souchier, Emmanuël. (2015). *Le carnaval typographique de Balzac. Premiers éléments pour une théorie de l’irréductibilité sémiotique* sur le site *Cairn Info*\
+   [lien](https://shs.cairn.info/revue-communication-et-langages1-2015-3-page-3?lang=fr)
