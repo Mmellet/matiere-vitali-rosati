@@ -78,10 +78,10 @@ On voit dans l'article ci-dessous quelques théories de Karen Barad en lien avec
 
 #### Pour le chapitre 2, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
 
-La ressource ci-dessous traite de l'expérience effectuée par Stern et Gerlach mentionnée dans le chapitre 2. L'article confirme que Stern a eu l'idée de l'expérience en 1921 et que Bohr avait une théorie voulant que l'espace soit discret et non continu. À la page 56 de l'article, on peut retrouver la description détaillée de l'expérience et on retrouve même la citation en anglais mentionnée à la ligne 11 du chapitre 2. Dans ce texte, il est écrit que l’expérience n’a pas pris quelques nuits, mais bien plus d’une année à être accomplie. Sinon, cette source confirme que, tel que vous avez mentionné, les scientifiques n'ont rien vu au début sur leur plaque suite à l’expérience. On retrouve aussi dans ce texte le point de vue de Stern sur l'expérience.
+La ressource ci-dessous traite de l'expérience effectuée par Stern et Gerlach mentionnée dans le chapitre 2. L'article confirme que Stern a eu l'idée de l'expérience en 1921 et que Bohr avait une théorie voulant que l'espace soit discret et non continu. À la page 56 de l'article, on peut retrouver la description détaillée de l'expérience et on retrouve même la citation en anglais mentionnée à la ligne 11 du chapitre 2. Dans ce texte, il est écrit que l’expérience n’a pas pris quelques nuits, mais bien plus d’une année à être accomplie. Sinon, cette source confirme que, tel que vous l'avez mentionné, les scientifiques n'ont rien vu au début sur leur plaque suite à l’expérience. On retrouve aussi dans ce texte le point de vue de Stern sur l'expérience.
 * Friedrich, B. et Herschbach, D. (2003). Stern and Gerlach: How a Bad Cigar Helped Reorient Atomic Physics. *Physics Today*. p.53-59. <https://www.famaf.unc.edu.ar/~gcas/cuantica2/SG.pdf>
 
-Dans cette ressource on confirme le contenu de l’anecdote de l'expérience de Stern et Gerlach en plus du fait qu’elle a été reprise dans le livre datant de 2007 de Barad (tel que mentionné dans le chapitre 2 par vous):
+Dans cette ressource, on confirme le contenu de l’anecdote de l'expérience de Stern et Gerlach en plus du fait qu’elle a été reprise dans le livre datant de 2007 de Barad (tel que mentionné dans le chapitre 2 par vous):
 * Bachrach, A. et Dumit, J. (2024, 10 janvier). Sticking with Speculation: A practice in noticing attention. *HAL: open science*. <https://hal.science/hal-04384903v1/document>
 
 Voici ce que j’ai trouvé sur la théorie des atomes de Bohr mentionnée par vous dans le chapitre 2:
@@ -95,7 +95,7 @@ La ressource ci-dessous présente l’idée de Barad qui veut qu’il faut repen
 L'article ci-dessous confirme que l’expérience de Stern et Gerlach démontre l’effet du spin, tel que mentionné dans le chapitre 2 par vous:
 * Westlund, P.-O. et Wennersström, H. (2011). The Stern-Gerlach experiment and the effects of spin relaxation. *Phys. Chem. Chem. Phys. 14*, 1677-1684. <https://www.researchgate.net/profile/Perolof-Westlund/publication/51919768_The_Stern-Gerlach_experiment_and_the_effects_of_spin_relaxation/links/53fb6cee0cf2dca8fffe6d42/The-Stern-Gerlach-experiment-and-the-effects-of-spin-relaxation.pdf>
 
-À mon avis, les paragraphes qui commencent respectivement aux lignes 19 et 21 sont des interprétations de l’auteur, donc je n'ai pas trouvé de ressources pour appuyer les propos qui s'y trouvent.
+À mon avis, les paragraphes qui commencent respectivement aux lignes 19 et 21 sont des interprétations de votre part, donc je n'ai pas trouvé de ressources pour appuyer les propos qui s'y trouvent.
 
 La ressource ci-dessous mène à un aperçu d’un texte de Karen Barad sur comment la matter matters, ce qui confirme qu'elle a écrit sur le sujet (tel que mentionné par vous dans son chapitre 2).
 * Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. *Signs*, 28(3), 801–831. <https://doi.org/10.1086/345321>
@@ -105,7 +105,7 @@ La ressource ci-dessous mène à un aperçu d’un texte de Karen Barad sur comm
 Voici un texte complémentaire au chapitre 3 qui parle de post-structuralisme:
 * Wagner, F. (2004). Du structuralisme au post-structuralisme. *Études littéraires, 36*(2), 105–126. <https://doi.org/10.7202/012906ar>
 
-Voici la ressource qui confirme la véracité de cette citation de Samuel Archibald: « Le texte, tel qu'il se conçoit depuis 50 ans, est un objet pour ainsi dire purement sémiotique, un objet virtuel construit au-dessus et au-delà de toute matérialité »:
+La ressource ci-dessous confirme l'exactitude de cette citation de Samuel Archibald: « Le texte, tel qu'il se conçoit depuis 50 ans, est un objet pour ainsi dire purement sémiotique, un objet virtuel construit au-dessus et au-delà de toute matérialité ».
 * Archibald, S. (2008). *Le texte et la technique. La lecture à l’heure des nouveaux médias*.  [Thèse, Université du Québec à Montréal] Archipel. <https://archipel.uqam.ca/902/1/D1635.pdf>
 
 La ressource ci-dessous mène au livre de Drucker. Sans l’avoir lu au complet, il semble effectivement apporter des questionnements sur le lien entre la matière et le sens des textes tel que mentionné par vous dans le chapitre 3.
@@ -122,9 +122,9 @@ Je ne trouve pas dans mes recherches l'information voulant que Derrida critique 
 Je retrouve dans la ressource ci-dessous la citation de Derrida: « un texte reste d'ailleurs toujours imperceptible ».
 * Manzari, F. (2018, 11 mai). Écriture derridienne: l’exemple de la digression dans une stratégie scripturaire antilogocentrique. *HAL: open science*. <https://hal.science/hal-01790324/document>
 
-Ce qui se trouve dans les paragraphes qui commencent respectivement aux lignes 11, 13 et 15 me semble venir de la tête de l'auteur, donc je n'ai pas cherché à trouver des ressources pour soutenir ces propos. 
+Ce qui se trouve dans les paragraphes qui commencent respectivement aux lignes 11, 13 et 15 me semble venir de vous, donc je n'ai pas cherché à trouver des ressources pour soutenir les propos qui s'y retrouvent. 
 
-Ce texte du site « Les libraires » ne dit pas comme vous que le livre *Illusions perdues* amène les réflexions les plus profondes sur le monde de l’impression, mais il confirme tout de même qu'un des personnages principaux de ce roman est imprimeur. 
+Ce site ne dit pas comme vous que le livre *Illusions perdues* amène les réflexions les plus profondes sur le monde de l’impression, mais il confirme tout de même qu'un des personnages principaux de ce roman est imprimeur. 
 * S.a. (S.d.). *Illusions perdues*. Les libraires. <https://www.leslibraires.ca/livres/illusions-perdues-honore-de-balzac-9782070309894.html?srsltid=AfmBOopsV4vwuMVVS9tkAV_WFnYXfB74XgV-GWyA0Qz9B9UOkaovvKB0>
 
 On retrouve avec la ressource ci-dessous le texte de Souchier sur Balzac. Il s’y trouve aussi la citation « La dimension visuelle de l’écriture n’est pas réductible à sa dimension linguistique non plus qu’à la dimension matérielle de la forme ou de son support, par exemple. » qui est mentionnée par vous dans le chapitre 3.
