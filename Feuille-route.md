@@ -1,32 +1,37 @@
 ## Feuille de route
 
+_(Révision terminée le 10 mars 2025 par Sophie Chauvel-Gobin)_
 
-### Commentaire généraux sur les trois chapitres (Révision fait le 9 mars 2025 par Sophie Chauvel-Gobin)
+### Commentaires généraux sur les trois chapitres 
 
-* Il vous faut surveiller la disposition de vos paragraphes. Pour une meilleure compréhension du texte, certains paragraphes peuvent être rassemblés et d'autres séparés.
+* La majorité de vos paragraphes sont bien disposés. Néanmoins, certains pourraient être rassemblés ou séparés pour une meilleure compréhension du texte.
 
-* Il vous faut surveiller la longeur de vos phrases. Cela permettrait une lecture plus fluide pour le lecteur.
+* Il vous faut surveiller la longueur de vos phrases. Cela permettrait une lecture plus fluide pour le lecteur.
 
-* L'utilisation du tiret cadratin est préférable lorsque l'on souhaite isoler ou mettre en relief des informations dans le corps du texte. Pour de plus amples informations, vous pouvez consulter le site Le Robert en ligne <https://dictionnaire.lerobert.com/guide/tiret>
+* L'utilisation du tiret cadratin est préférable lorsque l'on souhaite isoler ou mettre en relief des informations dans le corps du texte. Pour de plus amples informations, vous pouvez consulter le site Le Robert en ligne\ : <https://dictionnaire.lerobert.com/guide/tiret>
 
-* Pour fluidifier la lecture de votre texte, il est préférable d'utiliser des vigules. Pour de plus amples informations, vous pouvez consulter le site de l'Office québécois de la langue française <https://vitrinelinguistique.oqlf.gouv.qc.ca/23443/la-ponctuation/virgule/les-roles-de-la-virgule>
-  
+* Pour fluidifier la lecture de votre texte, il est préférable d'utiliser des virgules ou autres signes de ponctuation. Pour de plus amples informations, vous pouvez consulter le site de l'Office québécois de la langue française\ : <https://vitrinelinguistique.oqlf.gouv.qc.ca/23443/la-ponctuation/virgule/les-roles-de-la-virgule> ainsi que le site USITO Le dictionnaire de l'UDS \: https://usito.usherbrooke.ca/articles/aides_%C3%A0_la_r%C3%A9daction/LesPrincipalesR%C3%A8glesDEmploiDeLaPonctuation>
     
-### Commentaires chapitre 1 (Révision fait le 9 mars 2025 par Sophie Chauvel-Gobin)
+### Commentaires chapitre 1
  
-* Il vous faut surveiller les répétitions dans le corps de votre texte, qui peuvent donner un effet de redondance au lecteur.
+* Il vous faut surveiller quelques répétitions dans le corps de votre texte, qui peuvent donner un effet de redondance à la lecture.
   
-* Il vous fait surveiller l'orthographe des auteurs ou professionnels que vous citez dans le corps de votre texte. Par exemple, Karend Barad est incorrect. Karen Barad est correct.
+* La majorité des auteurs ou professionnels cités sont correctement orthographiés dans votre texte. Néanmoins, certains ne le sont pas. Par exemple, Karend Barad est incorrect. Karen Barad est correct.
 
-* Comme vous l'aviez fait auparavant, il est préférable, pour les citations plus ou moins longues, de les détacher du corps du texte en effectuant un retour à la ligne et en effectuant le codage recquis. De plus, il y a un point à la fin de chaque citation.
+* Comme vous l'aviez fait auparavant, il est préférable, pour les citations plus ou moins longues, de les détacher du corps du texte en effectuant un retour à la ligne et en effectuant le codage requis. De plus, il y a un point à la fin de chaque citation.
+
+* Certains mots s'écrivent avec un trait d'union. Pour de plus amples informations, vous pouvez consulter le site de l'Office québécois de la langue française\ : <https://vitrinelinguistique.oqlf.gouv.qc.ca/23355/la-ponctuation/trait-dunion/le-trait-dunion-dans-les-unites-lexicales>
+
+### Commentaires chapitre 2 - Le mauvais cigare
   
-
-### Commentaire généraux chapitre 2 - Le mauvais cigare (Révision fait le 9 mars 2025 par Sophie Chauvel-Gobin)
+* Il vous faut surveiller la véracité des informations données. L'expérience de Stern et Gerlach a été réalisé en 1922 et non en 1921.
   
-* Il vous faut surveiller la véracité des informations données. L'expérience de Stern et Gerlach a été réalisé en 1922 et non en 1921. 
+* Certaines conjugaisons sont incorrectement orthographiés.
 
 
-### Commentaire généraux chapitre 3 (Révision fait le 9 mars 2025 par Sophie Chauvel-Gobin)
+### Commentaires chapitre 3 - La théorie de l'édition
 
 * Il vous faut surveiller la bonne orthographe des termes employés. Par exemple, hyperouranion est incorrect. Hyperuranion est correct.
+
+* Certains verbes doivent être écrits au conditionnel dans le corps du texte, car il y a l'emploi du "Si".
   
