@@ -37,6 +37,6 @@
 
 *[La philosophie de Platon]([https://pages.github.com](https://philarchive.org/archive/NICLPD-13/)
 
-[GitHub Pages](https://pages.github.com/)
+Merci pour ce beau mandat. N'hésitez pas à me consulter si vous avez des questions sur les corrections et les commentaires.
 
 
