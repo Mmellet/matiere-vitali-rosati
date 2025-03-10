@@ -20,16 +20,16 @@ Cela renforce la compréhension du texte et contextualise rapidemdent vos idées
 
 2) Vous nommez à certains passages des termes ou des expériences qui ne sont pas concrètement expliqués. Cela peut confondre le lecteur et rendre difficle la compréhension du texte. Je vous recommande de soit proposer une traduction du terme, ou encore, de proposer une définition simplifiée du terme.  Je pense notamment au :
    
-   chapitre 01 
+   **Chapitre 01** 
 * Large Language Models
 * Material turn
 * New Materialism
 
-  chapitre 02
+  **Chapitre 02**
 * Bassement Matérielle
 * Spin
 
-  chapitre 03
+  **Chapitre 03**
 * Hyperouranion
 
 ### Sources consultées 
