@@ -9,7 +9,7 @@
 
 * L'utilisation du tiret cadratin est préférable lorsque l'on souhaite isoler ou mettre en relief des informations dans le corps du texte. Pour de plus amples informations, vous pouvez consulter le site Le Robert en ligne <https://dictionnaire.lerobert.com/guide/tiret>
 
-* Pour fluidifier la lecture de votre texte, il est préférable d'utiliser des vigules. Poour de plus amples informations, vous pouvez consulter le site de l'Office québécois de la langue française <https://vitrinelinguistique.oqlf.gouv.qc.ca/23443/la-ponctuation/virgule/les-roles-de-la-virgule>
+* Pour fluidifier la lecture de votre texte, il est préférable d'utiliser des vigules. Pour de plus amples informations, vous pouvez consulter le site de l'Office québécois de la langue française <https://vitrinelinguistique.oqlf.gouv.qc.ca/23443/la-ponctuation/virgule/les-roles-de-la-virgule>
   
     
 ### Commentaires chapitre 1
