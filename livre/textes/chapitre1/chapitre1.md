@@ -1,13 +1,13 @@
->δεινὸν γάρ που, ὦ Φαῖδρε, τοῦτ᾽ ἔχει γραφή, καὶ ὡς ἀληθῶς ὅμοιον ζωγραφίᾳ^[«\ Ce qu'a de terrible l'écriture, Phèdre, c'est aussi qu'elle est vraiment semblable à la peinture.\ » _Ma traduction_. Mais ce qu'il faut surtout retenir de ce passage est l'anastrophe -- difficile de bien la rendre en français dans cette phrase. δεινὸν, terrible, c'est le premier mot qui acquiert ici un poids très particulier.]. (`\Plato[Phèdre]{275}[d]`{=latex})
+>δεινὸν γάρ που, ὦ Φαῖδρε, τοῦτ᾽ ἔχει γραφή, καὶ ὡς ἀληθῶς ὅμοιον ζωγραφίᾳ^[«\ Ce qu'a de terrible l'écriture, Phèdre, c'est aussi qu'elle est vraiment semblable à la peinture.\ » _Ma traduction_. Mais ce qu'il faut surtout retenir de ce passage est l'anastrophe -- difficile de bien la rendre en français dans cette phrase. δεινὸν, terrible, c'est le premier mot qui acquiert ici un poids très particulier.](`\Plato[Phèdre]{275}[d]`{=latex})
 
 \lettrine{D}ans le dialogue connu pour sa critique de l'écriture et plus généralement de la matière. Dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du λόγος opposée à la matérialité de la γραφὴ, Platon, par le choix d'un adjectif, nous révèle une conception bien plus complexe que le dualisme immatérialiste.
 
 !contenuadd(./blogVitaliRosati)
 !contenuadd(./idCA4)
 
-Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible. Elle n'est pas γἑλοιος -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (τέχνη ἄτεχνος) des sophistes.
->^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion, possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.].
-<!--Correction d'une citation longue. Le détachement des citations longues assure donc une lecture plus concise. Cela permet une harmonisation du corps du texte. Voir la ressource B) dans la feuille de route.-->
+Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible. Elle n'est pas γἑλοιος -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique des sophistes, l'art sans art (τέχνη ἄτεχνος).
+>^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion, possède un art des discours bien ridicule, et un art sans art. \ » `\Plato[Phèdre]{262b}[10])`{=latex}.]
+<!--Correction d'une citation longue. Le détachement des citations longues assure donc une lecture plus concise. Cela permet une harmonisation du corps du texte. Voir la source B) dans la feuille de route.-->
 
 L'écriture est terrible, ou même horrible. L'écriture est un acte sérieux donc, quelque chose qui peut faire peur.
 <!--Suggestion afin d'éviter la répétition du terme quelque chose, si cela n'était pas une décision intentionnelle et stylistique de votre part. Si le terme acte ne vous convient pas, il serait possible aussi d'employer notamment : geste, langage, moyen de communication-->
