@@ -5,7 +5,7 @@
 !contenuadd(./blogVitaliRosati)
 !contenuadd(./idCA4)
 
-Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible. Elle n'est pas γἑλοιος -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (τέχνη ἄτεχνος) des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L'écriture est quelque chose de très sérieux donc, quelque chose qui peut faire peur.
+Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible. Elle n'est pas γἑλοιος -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (τέχνη ἄτεχνος) des sophistes^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L'écriture est quelque chose de très sérieux, donc, quelque chose qui peut faire peur.
 
 
 δεινός est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour.
@@ -33,7 +33,7 @@ L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et
 
 Mais alors, si l'écriture est δεινός, c'est parce qu'elle viole les limites qui lui sont données. Elle ne reste pas là, passive, inerte, matérielle, dépourvue de sens. Elle parle, elle dit quelque chose, elle porte du sens.
 
-Voilà pourquoi l'écriture est loin d'être ridicule. Elle fait peur justement, parce qu'elle questionne une idée qui semblerait évidente à un lecteur superficiel du _Phèdre_\ : celle selon laquelle la pensée et le sens seraient des productions de l'humain ou du moins de ce que l'humain a de plus élevé, à savoir son âme, son côté immatériel. Et pourtant on constate sans cesse, dans le fameux dialogue, que cette idée ne fonctionne pas. Ce n'est jamais l'être humain qui pense. La pensée est toujours ailleurs.
+Voilà pourquoi l'écriture est loin d'être ridicule. Elle fait peur justement, parce qu'elle questionne une idée qui semblerait évidente à un lecteur superficiel du _Phèdre_\ : celle selon laquelle la pensée et le sens seraient des productions de l'humain ou du moins de ce que l'humain a de plus élevé, à savoir son âme, son côté immatériel. Et pourtant, on constate sans cesse, dans le fameux dialogue, que cette idée ne fonctionne pas. Ce n'est jamais l'être humain qui pense. La pensée est toujours ailleurs.
 
 Socrate n'arrête pas de le répéter\ : ce n'est pas lui qui produit ses discours\ ; ce sont les dieux du lieu, les Nymphes (`\Plato{238}[d]`{=latex}), les Muses (`\Plato{262}[d]`{=latex}), mais jamais lui.
 
