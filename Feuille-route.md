@@ -17,21 +17,20 @@
 
 **Pour l'ensemble du texte** 
 
-*[OQLF : La typographie]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique/la-typographie)
+*[OQLF : La typographie]([https://pages.github.com](http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique/la-typographie)/)
 
-*[OQLF : Majuscules]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/majuscules)
+*[[OQLF : Majuscules]([https://pages.github.com](http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/majuscules)/)
 
-*[OQLF : Mise en relief]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/mise-en-relief)
+*[OQLF : Mise en relief]([https://pages.github.com](http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/mise-en-relief)/)
 
-*[OQLF : Espacement]([http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/espacement)
+*[OQLF : Espacement]([https://pages.github.com](http://a.com](https://vitrinelinguistique.oqlf.gouv.qc.ca/la-typographie/espacement)/)
 
 **Pour le chapitre 1**
 
-*[La pharmacie de Platon]([http://a.com](https://devenir-dimanche.org/wp-content/uploads/2015/11/derrida-la-pharmacie-de-platon-1968.pdf)
+*[La pharmacie de Platon]([https://pages.github.com](http://a.com](https://devenir-dimanche.org/wp-content/uploads/2015/11/derrida-la-pharmacie-de-platon-1968.pdf)/)
 
 **Pour le chapitre 2**
 
-*[Wikipédia : Niels Bohr]([http://a.com](https://fr.wikipedia.org/wiki/Niels_Bohr)
 *[Wikipédia : Niels Bohr]([https://pages.github.com](http://a.com](https://fr.wikipedia.org/wiki/Niels_Bohr)/)
 
 **Pour le chapitre 3**
