@@ -17,6 +17,8 @@
 - Aussi, toujours dans l'optique de faciliter la compréhension de l'anecdote, j'ai fait quelques suppressions et simplifications syntaxiques dans certaines phrases, qui manquaient de légèreté. Ce ne sont que des propositions, libre à vous de les refuser ou de les remanier plus à votre goût.
 
 ### Chapitre 3 
+- Votre manière d'exprimer certaines idées peut parfois leur donner un caractère général ou absolu, alors qu'elles mériteraient d’être nuancées. Pour rendre votre propos plus solide et convaincant, je vous encourage à les étayer avec des références historiques ou philosophiques. Cela permettra d'éviter d'éventuels biais cognitifs et d'enrichir votre argumentation en lui apportant plus de profondeur et de crédibilité. Un commentaire a été rédigé pour chacun des passages concernés.
+- Attention à la structure syntaxique de vos phrases, qui peuvent parfois être fragmentées par l’usage fréquent de virgules et de tirets. Cela s’explique par la nature orale du discours retranscrit, mais ce qui fonctionne bien à l’oral peut nuire à la fluidité et à la clarté à l’écrit. Pour améliorer la lecture, j'ai dû reformuler certaines phrases afin de mieux enchaîner les idées.
 
 #### Sources consultées : 
 - [Wikipédia. (2024, 1er mars). _Hyperuranion_. Wikipédia.](https://en.wikipedia.org/wiki/Hyperuranion#:~:text=The%20hyperuranion%20or%20topos%20hyperuranios,real%20things%20are%20collected%20together.)
@@ -32,4 +34,4 @@
 3) Nom de l’auteur (Année). Titre en VO (Traduction personnelle).
        
 #### Les notes de bas de page :
-- À plusieurs reprises, certaines notes de bas de pages manqueraient de concision. Elles sont par moment tellement longues, à voir si elle ne pourrait pas bénéficier d'un paragraphe complet dans le développement principal du propos. 
+- Certaines notes de bas de page pourraient gagner en concision. Lorsqu'elles deviennent très longues, il pourrait être pertinent de les intégrer directement dans le développement principal du texte. Cela permettrait de mieux structurer l’information et d'améliorer la fluidité de la lecture.
