@@ -1,6 +1,5 @@
 # Feuille de route
 
-
 ## Commentaires généraux
 ### Chapitre 1
 1. La mention de plusieurs auteurs ayant utilisé le terme permet d'en saisir l'importance et la dualité, puisque ces utilisations n'ont pas le même sens. J'ai supprimé la double mention du discours contre l'amour de Socrate qui est confusante dans la structure du texte. Pour la clarté et la structure du texte, il faut réorganiser les paragraphes. Je propose la structure suivante : d'abord les utilisations du termes par les autres auteurs, qui font un lien avec la dualité mentionnée à la ligne précédente, et enfin, le terme rapporté à l'écriture par Platon, qui fait le lien avec la suite du chapitre. J'ai déjà fait la modification afin de donner un exemple.
@@ -25,17 +24,50 @@
 
 ## Sources consultées
 ### Chapitre 1
-1. Bescherelle de Conjugaison en ligne\
+1. Bescherelle de Conjugaison sur le site *Conjugaison Bescherelle*\
    [lien](https://conjugaison.bescherelle.com)
 
-2. Dictionnaire Larousse en ligne\
+2. Chartier, Roger. (2016). *Matérialité du texte et attentes de lecture. Concordances ou discordances ?* sur le site *Cairn Info*\
+   [lien](https://shs.cairn.info/revue-annales-2016-2-page-507?lang=fr)
+
+3. Chartier, Roger. (2016). *Matérialité du texte et attentes de lecture. Concordances ou discordances ?* sur le site *Erudit*\
+   [lien](https://www.erudit.org/fr/revues/lumen/2017-v36-lumen02702/1037851ar/)
+
+4. Dictionnaire Larousse sur le site *Larousse*\
    [lien](https://www.larousse.fr)
 
-3. Grand dictionnaire des terminologies de l'Office Québécois de la Langue Française (OQLF)\
+5. Drucker, Johanna. (1996). *The Visible Word Experimental Typography and Modern Art, 1909-1923* sur le site *Chicago, University of Press*\
+   [lien](https://press.uchicago.edu/ucp/books/book/chicago/V/bo3631964.html)
+
+6. Grand dictionnaire des terminologies sur le site *Office Québécois de la Langue Française (OQLF)*\
    [lien](https://vitrinelinguistique.oqlf.gouv.qc.ca)
 
-4. La théorie des formes de Platon, sur Wikipédia\
+7. *Grand Modèle de Langage* sur le site *Wikipédia*\
+   [lien](https://fr.wikipedia.org/wiki/Grand_modèle_de_langage)
+
+8. Jeanneret, Yves. (2005). *L'énonciation éditoriale dans les écrits d'écran* sur le site *Persée*\
+   [lien](https://www.persee.fr/doc/colan_0336-1500_2005_num_145_1_3351)
+
+9. *La théorie des formes de Platon* sur le site *Wikipédia*\
    [lien](https://fr.wikipedia.org/wiki/Théorie_des_formes)
+
+10. Larrue, Jean-Marc et Marcello Vitali-Rosati. (2019). *Media do not exist : performativity and mediating conjunctures* sur le site *Papyrus de l'Université de Montréal*\
+   [lien](https://umontreal.scholaris.ca/items/99528460-1527-4635-ab02-ca67958d73da)
+
+11. McGann, Jerome. (1991). *The Textual Condition* sur le site *Princeton University Press*\
+   [lien](https://press.princeton.edu/books/paperback/9780691015187/the-textual-condition?srsltid=AfmBOoonx759r9eB-Yv3427kiYE4buWSzXdQI2V3otKW1kCa5S5GZT7E)
+
+12. McLuhann, Marshall. (1964). *Understanding Media: The Extensions of Man* sur le site *MIT Press*\
+   [lien](https://mitpress.mit.edu/9780262631594/understanding-media/)
+
+13. McLuhann, Marshall. (1964). *Understanding Media: The Extensions of Man* sur *Wikipédia*\
+   [lien](https://en.wikipedia.org/wiki/Understanding_Media)
+
+14. Vitali-Rosali, Marcello. (2016). *Qu'est-ce que l'éditorialisation ?* sur le site *Erudit*\
+   [lien](https://www.erudit.org/fr/revues/sp/2016-sp063/1043383ar/)
+
+15. Vitali-Rosali, Marcello. (2016). *Qu'est-ce que l'éditorialisation ?* sur le site *Papyrus de l'Université de Montréal*\
+   [lien](https://umontreal.scholaris.ca/items/97c51cb9-a250-4e33-8579-1b7173292f0a)
 
 ### Chapitre 2
 1. Bescherelle de Conjugaison en ligne\
