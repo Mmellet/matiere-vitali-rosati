@@ -5,20 +5,16 @@
 !contenuadd(./blogVitaliRosati)
 !contenuadd(./idCA4)
 
-Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible. Elle n'est pas γἑλοιος -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (τέχνη ἄτεχνος) des sophistes
->^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.].
+Pour le philosophe du monde des idées, l'écriture est δεινός\ : terrible. Elle n'est pas γἑλοιος -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (τέχνη ἄτεχνος) des sophistes.
+>^[λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion, possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.].
+<!--Correction d'une citation longue. Le détachement des citations longues assure donc une lecture plus concise. Cela permet une harmonisation du corps du texte. Voir la ressource B) dans la feuille de route.-->
 
 L'écriture est terrible, ou même horrible. L'écriture est un acte sérieux donc, quelque chose qui peut faire peur.
 <!--Suggestion afin d'éviter la répétition du terme quelque chose, si cela n'était pas une décision intentionnelle et stylistique de votre part. Si le terme acte ne vous convient pas, il serait possible aussi d'employer notamment : geste, langage, moyen de communication-->
+δεινός est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour. Toujours avec une anastrophe il avait dit\ : « δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν^[«\ Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire.\ » _Ma traduction_.]`(\Plato [Phèdre]{242}[d])`{=latex}
 
-δεινός est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour. Toujours avec une anastrophe il avait dit\ :
-
->δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν^[«\ Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire.\ » _Ma traduction_.]`(\Plato [Phèdre]{242}[d])`{=latex}
-
-C’est aussi l’adjectif utilisé, par exemple, par Homère dans _L'Odyssée_ <!--Recommandation de mentionner le titre de l'oeuvre pour saisir plus facilement le contexte. Voir pour des précisions la feuille de route 01--> pour décrire Charybde\ :
-
->αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex})
-
+C’est aussi l’adjectif utilisé, par exemple, par Homère dans _L'Odyssée_ <!--Recommandation de mentionner le titre de l'oeuvre pour saisir plus facilement le contexte. Voir pour des précisions la feuille de route 01--> pour décrire Charybde\ : « αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex})
+<!--Correction de deux citations courtes. Voir la source B) dans la feuille de route.-->
 
 Charybde est horrible, car elle est monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre effroyable et débridé. Δεινός est ce que devient celui qui a pêché de ὕβρις.
 <!--Suggestions afin d'éviter une répétition si celle-ci n'était pas intentionnelle. Si cette proposition ne vous convient pas, il serait possible aussi d'employer les termes répugnant et exorbitant afin de décrire le monstre. Vous pourriez aussi prendre la décision d'enlever cette partie et conclure la phrase avec les frontières de l'humain, car vous mentionnez déjà les caractéristiques de Charybde une phrase plus tôt. Cela peut créer un effet de redondance à la lecture.-->
