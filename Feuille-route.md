@@ -32,11 +32,12 @@
 **Pour le chapitre 2**
 
 *[Wikipédia : Niels Bohr]([http://a.com](https://fr.wikipedia.org/wiki/Niels_Bohr)
+*[Wikipédia : Niels Bohr]([https://pages.github.com](http://a.com](https://fr.wikipedia.org/wiki/Niels_Bohr)/)
 
 **Pour le chapitre 3**
 
-*[La philosophie de Platon]([http://a.com](https://philarchive.org/archive/NICLPD-13/)
+*[La philosophie de Platon]([https://pages.github.com](https://philarchive.org/archive/NICLPD-13/)
 
 [GitHub Pages](https://pages.github.com/)
 
-[La philosophie de Platon]([https://pages.github.com](https://philarchive.org/archive/NICLPD-13/)
+
