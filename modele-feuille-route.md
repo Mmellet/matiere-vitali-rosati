@@ -7,7 +7,7 @@ Dans un même chapitre, les informations font écho entre elles, on comprend le 
 Les mots en grec, les longues citations, traductions et notes de bas de page peuvent refroidir un lecteur moins expérimenté. Le public cible est clairement un public érudit, mais cela ne veut pas dire que le texte doit pour autant être trop complexe. 
 La matière est mal mise en contexte au début. Il manque de contextualisation, d'explications claires. La question est introduite de façon trop ambigue. 
 On mélange la science, la philosophie, la physique et les études littéraires. Tout cela fait un rendu très dense. 
-Les chapitres sont denses, mais courts. Cela peut être autant une qualité qu'un défaut. Il faudrait mettre de côté la concision, au profit de l'expansion. Pour enlever de la densité, il faudrait alonger les phrases, expliquer davantage, mettre en contexte, revenir en arrière, faire des liens. 
-Les paragraphes sont généralement bien coupés. Les informations ne sont pas obsolètes ou incorrectes. Le rythme est bien respecté. 
+Les chapitres sont compacts, mais courts. Cela peut être autant une qualité qu'un défaut. Il faudrait mettre de côté la concision, au profit de l'expansion. Pour enlever de la densité, il faudrait rajouter des phrases, expliquer davantage, mettre en contexte, revenir en arrière, faire des liens. 
+Les paragraphes sont généralement bien coupés et équilibrés. Les informations ne sont pas obsolètes ou incorrectes. Le rythme est bien respecté, avec beaucoup de ponctuation comme la virgule ou les tirets. Cela peut toutefois créer des sous-phrases complexes.  
 ### Sources consultées 
 
