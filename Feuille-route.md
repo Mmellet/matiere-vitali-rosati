@@ -18,7 +18,7 @@
   
 * Il vous fait surveiller l'orthographe des auteurs ou professionnels que vous citez dans le corps de votre texte. Par exemple, Karend Barad est incorrect. Karen Barad est correct.
 
-* Comme vous l'aviez fait auparavant, il est préférable, pour les citations plus ou moins longues, de les détacher du corps du texte en effectuant un retour à la ligne et en effectuant le codage recquis.
+* Comme vous l'aviez fait auparavant, il est préférable, pour les citations plus ou moins longues, de les détacher du corps du texte en effectuant un retour à la ligne et en effectuant le codage recquis. De plus, il y a un point à la fin de chaque citation.
   
 
 ### Commentaire généraux chapitre 2 (Révision fait le 9 mars 2025 par Sophie Chauvel-Gobin)
