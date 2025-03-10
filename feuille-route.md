@@ -23,9 +23,9 @@ Correction date de McLuhan, 1964 pas 1966.
 Chapitre 2  
 Recommandation de couper la première phrase à "physique quantique" et de reprendre en ajoutant "Il s'agit de...". Cela rend la phrase plus facile à lire, moins longue.  
 Recommandation d'ajouter une phrase explicative ou une note de bas de page concernant "certaines valeurs discrètes" car ce n'est pas forcément explicite pour tous les lecteurs.  
-Modification de la date de l'expérience, 1922.  
+Correction de la date de l'expérience, 1922.  
 Suggestion de remplacement "pour" qui devient "afin de", plus élégant.  
-Suggestion d'intervertir "et donc que" au lieu de "et que donc", pour que cela doit plus fluide.  
+Suggestion d'intervertir "et donc que" au lieu de "et que donc", pour que cela soit plus fluide.  
 Recommandation d'ajouter une note de bas de page ou une phrase pour expliquer ce qu'est un "spin" dans la phrase comportant "les électrons ont un spin" car ce n'est pas forcément évident pour tout le monde.  
 "Adjoint en 1920" Question à l'auteur : Est-ce une volonté de mettre la décennie ou est-ce une erreur de date et faut-il mettre 1922 ?  
 Suggestion de déplacer le paragraphe commençant par "Le dispositif d'observation n'est pas idéal" afin de suivre les idées du texte et de garder une continuité dans les propos.  
