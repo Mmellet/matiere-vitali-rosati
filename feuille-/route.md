@@ -21,4 +21,4 @@ https://vitrinelinguistique.oqlf.gouv.qc.ca/23754/la-redaction-et-la-communicati
 
 La longueur des paragraphes est parfois inégale, ce qui rompt la connexion entre les idées et la fluidité de la lecture. Il serait idéal de réunir les paragraphes qui présentent des informations qui sont dans le même ordre d'idées.
 
-L'ajout de marqueurs de relation sert à établir des connexions entre les idées. Par exemple, en ajoutant un marqueur de relation, on indique qu'il s'agit d'une explication.
+L'ajout de marqueurs de relation sert à établir des connexions entre les idées. Par exemple, en ajoutant un marqueur de relation, on indique qu'il s'agit d'une explication. https://www.usherbrooke.ca/ssf/fileadmin/sites/ssf/documents/Antiplagiat/Marqueurs_de_relation-SM.pdf
