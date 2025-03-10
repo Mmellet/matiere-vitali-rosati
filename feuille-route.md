@@ -6,9 +6,7 @@
 
 2. L'adjectif δεινὸν est écrit de plusieurs façons différentes. Parfois δεινὸν, δεινός ou Δεινός, avec le delta majuscule. Je veux m'assurer que l'épellation et l'usage avaient été vérifiés à chaque fois.
 
-4. Je recommande de noter les noms complets des auteurs la première fois qu'ils sont mentionnés dans le texte.
-
-5. Attention aux répétitions trop fréquentes des mots «texte», «idée», «abstrait» et «incarné / désincarné». J'ai suggéré quelques modifications.
+4. Je recommande de noter les noms complets des auteurs, philosophes, scientifiques et autres la première fois qu'ils sont mentionnés dans le texte.
 
 ### Sources consultées
 
