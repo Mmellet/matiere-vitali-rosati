@@ -21,7 +21,7 @@
 * Comme vous l'aviez fait auparavant, il est préférable, pour les citations plus ou moins longues, de les détacher du corps du texte en effectuant un retour à la ligne et en effectuant le codage recquis. De plus, il y a un point à la fin de chaque citation.
   
 
-### Commentaire généraux chapitre 2 (Révision fait le 9 mars 2025 par Sophie Chauvel-Gobin)
+### Commentaire généraux chapitre 2 - Le mauvais cigare (Révision fait le 9 mars 2025 par Sophie Chauvel-Gobin)
   
 * Il vous faut surveiller la véracité des informations données. L'expérience de Stern et Gerlach a été réalisé en 1922 et non en 1921. 
 
