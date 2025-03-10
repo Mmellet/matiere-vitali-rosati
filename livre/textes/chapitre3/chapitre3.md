@@ -40,7 +40,7 @@ Bien évidemment, même dans le monde des subalternes, il y a des hiérarchies, 
 
 L'édition est, en bonne partie, du côté de la pratique. En bonne partie, dis-je, car certains aspects du métier ont certes été idéalisés, sacralisés même. Il est possible de trouver la figure du «\ grand éditeur\ » -- encore une fois, toujours au masculin. Mais cet éditeur aura très probablement peu souvent à toucher une presse, ou à corriger une coquille. Il est aussi vrai que ce même monde de l'édition peut être hiérarchisé dans une pyramide au sommet de laquelle il y aura les personnes qui prennent des décisions, qui choisissent des manuscrits et une ligne éditoriale, qui peuvent faire un discours lors d'une soirée de lancement d'un livre. Ensuite viennent les réviseurs, les compositeurs, les graphistes, les imprimeurs. Et là on est convaincu qu'il n'y a plus de sens en jeu.
 
-L'édition ne demande pas -- ou ne semble pas demander -- de la théorie. C'est justement cette idée que je vais essayer de renverser 
+L'édition ne demande pas -- ou ne semble pas demander -- de la théorie. C'est justement cette idée que je vais essayer de renverser. 
 
 <!--Il est possible de réduire le paragraphes ci-dessus favorisant ainsi la lecture, il répète des informations par rapport au paragraphe au-dessus de lui-->
 
