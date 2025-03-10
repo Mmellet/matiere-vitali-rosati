@@ -9,6 +9,8 @@ Commentaire 1: Dans le chapitre 1, les citations séparées du bloc du texte pou
 
 Commentaire 2: Dans le chapitre 3, la citation à la ligne 26 qui est séparée du bloc du texte pourrait rester dans le texte entre guillemets puisqu'elle ne dépasse pas trois lignes.
 
+Commentaire 3: Je trouve que l'ordre des paragraphes dans les trois chapitres est logique. Les propos s'enchaînent de manière fluide et je trouve que dans la grande majorité du texte les idées amenées sont bien vulgarisées. J'ai rédigé quelques commentaires aux endroits où je proposais des reformulations de phrases, parfois pour changer des mots, parfois pour restructurer les phrases, parfois pour séparer des phrases en deux phrases et parfois pour changer les signes de ponctuation dans les phrases. Le but de mes interventions est de vous aider à faciliter la lecture du texte pour un public cible universitaire. D'ailleurs, certains passages me semblaient pouvoir être développés davantage pour aider la compréhension du texte par le lecteur. À chaque fois, j'ai mis un commentaire pour vous faire part de ma suggestion. Au final, le texte est très bien, les points que je propose d'améliorer ne sont que des détails!
+
 ### Ressources
 #### Pour le chapitre 1, voici les résultats de mes recherches pour vérifier les faits présentés dans le texte:
 
