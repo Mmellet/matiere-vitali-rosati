@@ -19,7 +19,7 @@ C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Char
 >αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[«\ Après avoir fui les rochers et l'horrible Charybde...\ »] (`\Homer[Odyssée]{12}[260]`{=latex})
 
 
-Charybde est horrible, car elle est monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré. Δεινός est ce que devient celui qui a péché de ὕβρις.
+Charybde est horrible, car elle est monstrueuse et démesurée. Δεινός est l’adjectif qui signifie la terreur provoquée par la démesure. Charybde dépasse les limites, elle franchit les frontières de l’humain et devient un monstre horrible et démesuré. Δεινός est ce que devient celui qui a péché de ὕβρις. <!--Il faudrait inclure la traduction de tous les mots grecs. Le lecteur n'est pas forcément habile avec cette langue.--> 
 
 Mais δεινός est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour (δεινὸς γόης, `\Plato [Banquet]{203}[d]`{=latex}). L'amour dépasse aussi l'humain, mais parce qu'il est divin, ou mieux, qu'il est un dieu.
 
