@@ -9,5 +9,15 @@ D’ailleurs, l’enchaînement des chapitres que vous avez choisis est bien log
 
 Bref, ma révision s’est beaucoup basée sur ma compréhension que ce manifeste se veut être accessible. On discerne votre désir de bien vulgariser vos idées. Le défi est, selon moi, de trouver une balance équitable entre une langue académique et familière. Une balance entre des reformulations et des passages trop répétitifs. 
 
+Ainsi, vous retrouverez des commentaires qui ont pour but d’accentuer votre vulgarisation en tentant d’encore plus la simplifer pour permettre une grande accessiblité comme vous semblez le désirer. Je vous laisse avec deux précisions face à des modifications récurrentes qui proposent l’importance d’une meilleure contextualisation. Libre à vous de voir jusqu'où il est nécessaire d'adapter votre réflexion. Vos choix stylistiques m'ont toujours semblés en adéquation avec le but du mandat. Voici donc deux recommandations : 
+
+1) Vous abordez plusieurs milieux d'expertises, et ce, dès le premier chapitre. Afin de bien adapter le texte et de rendre la lecture digestible à son lectorat, il me semble important de bien nommer les différentes instances. C'est pourquoi, je recommande fortement de :
+* Nommer les prénoms et noms des différents acteurs
+* Nommer le métier de ces experts
+* Nommer l'auteur des oeuvres
+Cela renforce la compréhension du texte et contextualise rapidemdent vos idées. Il est ainsi plus facile de faire des liens entre les éléments et donc de rejoindre efficacement le lectorat. Sachant aussi que vous abordez principalement un aspect philosophique dans le premier chapitre et un aspect scientifique dans le second, il est important de faire ces précisions dès l'entrée en matière comme le lecteur est susceptible de ne pas connaître toutes les figures importantes de ces deux milieux distincts.
+
+2) 
+
 ### Sources consultées 
 
