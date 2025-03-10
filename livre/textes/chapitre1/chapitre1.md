@@ -9,7 +9,7 @@
 !contenuadd(./blogVitaliRosati)
 !contenuadd(./idCA4)
 
-Pour le philosophe du monde des idées, l'écriture est *δεινός*\ : terrible. Elle n'est pas *γἑλοιος*, -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (*τέχνη ἄτεχνος*) des sophistes ^[*λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται*. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L'écriture est quelque chose de très sérieux, donc quelque chose qui peut faire peur.
+Pour le philosophe du monde des idées, l'écriture est *δεινός*\ : terrible. Elle n'est pas *γἑλοιος*, -- ridicule --, qualificatif qu'il a utilisé, quelques répliques avant, pour parler de la rhétorique, l'art sans art (*τέχνη ἄτεχνος*) des sophistes^[*λόγων ἄρα τέχνην, ὦ ἑταῖρε, ὁ τὴν ἀλήθειαν μὴ εἰδώς, δόξας δὲ τεθηρευκώς, γελοίαν τινά, ὡς ἔοικε, καὶ ἄτεχνον παρέξεται*. «\ Celui qui ne connaît pas la vérité, mais qui poursuit l'opinion possède un art des discours bien ridicule, et un art sans art \ ». `\Plato[Phèdre]{262b}[10])`{=latex}.]. L'écriture est terrible, ou même horrible. L'écriture est quelque chose de très sérieux, donc quelque chose qui peut faire peur.
 <!--cf note 6-->
 
 *δεινός* est un adjectif important dans le _Phèdre_, et pour Platon en général.
@@ -19,7 +19,7 @@ Pour le philosophe du monde des idées, l'écriture est *δεινός*\ : terrib
 
 Toujours avec une anastrophe il avait dit\ :
 
->*δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν* ^[«\ Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire.\ » _Ma traduction_.]`(\Plato [Phèdre]{242}[d])`{=latex}
+>*δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν*^[«\ Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire.\ » _Ma traduction_.]`(\Plato [Phèdre]{242}[d])`{=latex}
 <!--cf note 6-->
 
 C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Charybde\ :
@@ -31,7 +31,7 @@ Charybde est horrible car elle est monstrueuse et démesurée. *Δεινός* es
 
 <!--cf note 3 et note 6-->
 
-Mais *δεινός* est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour et caractériser son propre discours contre l'amour. (*δεινὸς γόης*, `\Plato [Banquet]{203}[d]`{=latex}). "L'amour dépasse aussi l'humain, mais parce qu'il est divin, ou mieux, parce qu'il est un dieu."
+Mais *δεινός* est aussi l'adjectif utilisé par Socrate dans le _Banquet_ pour parler de l'amour et caractériser son propre discours contre l'amour. (*δεινὸς γόης*, `\Plato [Banquet]{203}[d]`{=latex}). L'amour dépasse aussi l'humain, mais parce qu'il est divin, ou mieux, parce qu'il est un dieu.
 
 <!--ajouter "parce que" pour la symétrie de la phrase et cf note 6-->
 
@@ -40,7 +40,7 @@ Dans la langue grecque, *δεινός* est un terme ambigu car il mélange son a
 
 <!--cf note 2, cf note 1 et cf note 6-->
 
-Dépasser la mesure imposée pour les humains est une faute, mais rend aussi grand, admirable. L’homme qui pèche de *ὕβρις* devient finalement semblable à un dieu. Le blasphème est à la fois horrible, terrible et admirable, divin. 
+Dépasser la mesure imposée pour les humains est une faute, mais rend aussi grand, admirable. L’homme qui pèche de *ὕβρις* devient finalement semblable à un dieu. Le blasphème est à la fois horrible et terrible, admirable et divin. 
 
 <!--cf note 3 et note 6-->
 
@@ -59,7 +59,7 @@ Voilà pourquoi l'écriture est loin d'être ridicule. Elle fait peur justement 
 
 Socrate n'arrête pas de le répéter\ : ce n'est pas lui qui produit ses discours\ ; ce sont les dieux du lieu, les *Nymphes* (`\Plato{238}[d]`{=latex}), les *Muses* (`\Plato{262}[d]`{=latex}), mais jamais lui.
 
-<!--mettre en italique les titres des œuvres-->
+<!--mettre en italique les références littéraires-->
 
 L'hypothèse que je voudrais démontrer, est que cet ailleurs est justement la matière, et donc que c'est la matière qui pense -- même dans le _Phèdre_ de Platon.
 
@@ -80,4 +80,4 @@ Or, puisque la production de pensée semble être la caractéristique sur laquel
 
 <!--cf note 4 pour les termes anglais : material turn, media do not exist, new materialism, material texts-->
 
-<!--Recommandation pour mettre des informations se trouvant dans la note de bas de page directement dans le développement même de l'essai, notamment la définition de l'approche de l'auteur, cette information doit être visible pour le lecteur--> 
+<!--Recommandation pour mettre des informations se trouvant dans la note de bas de page directement dans le développement même de l'essai, notamment la définition de l'approche de l'auteur, cette information est importante pour le lecteur--> 
