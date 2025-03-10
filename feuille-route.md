@@ -9,8 +9,8 @@ Réviseure : Coraline Bouleau
 ### Commentaires généraux
 * Questionnement sur l'usage du "--" pour signifier une incise. J'imagine que c'est lié à la syntaxe markdown. Le cas échéant, ce commentaire est à ignorer. Sinon, je suggère d'effectuer un remplacement par l'utilisation de tirets courts. 
 * La lecture est fluide et me semble accessible à un lectorat grand public. Cependant, je recommande de faire attention à l'usage des certaines notions techniques, parfois non expliquées. Par exemple : *Large Language Models* (chapitre 1) ; *spin* (chapitre 2) ; hyperouranion (chapitre 3). Je suggère une relecture attentive pour la vulgarisation des termes.
-* Pour l'ensemble des indications de traduction ("Ma traduction"), je suggère de les mettre en notes de bas de page. De plus, je pense qu'il serait preférable de ne pas mettre cette indication en italique pour éviter toute confusion. 
-* J'ai modifié certaines structures de phrase directement le texte, notamment la construction syntaxique de celles-ci et la ponctuation. Les modifications mineures ne sont pas accompagnées de commentaires.
+* Pour l'ensemble des mentions de traduction ("Ma traduction"), je suggère de les mettre en notes de bas de page. De plus, je pense qu'il serait preférable de ne pas mettre cette indication en italique pour éviter toute confusion. Enfin, il pourrait être judicieux d'indiquer cela d'une manière plus formelle (ex : Traduction de l'auteur). 
+* J'ai modifié certaines structures de phrase directement le texte, notamment la construction syntaxique de celles-ci et la ponctuation. Les modifications mineures ne sont pas accompagnées de commentaires, vous pouvez bien sûr choisir de les intégrer ou non. 
 
 #### Concernant le chapitre 1
 * Pour la référence *Media do not exist* (Larrue et Vitali-Rosati, 2019), je suggère de mettre le titre en entier : *[Media do not exist : performativity and mediating conjunctures](https://umontreal.scholaris.ca/items/99528460-1527-4635-ab02-ca67958d73da)*
