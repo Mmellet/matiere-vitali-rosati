@@ -27,27 +27,27 @@ Dans le chapitre 1 de votre texte, les propos de Socrate sont traduits ainsi: «
 Je ne trouve pas cette citation en ligne: « Après avoir fui les rochers et l'horrible Charybde...».
 
 Voici une ressource qui explique un peu le rôle de Charybde dans la mythologie grecque sans dire qu’elle est démesurée ou qu’elle franchit les frontières de l’humain comme dans votre texte:
-* Le réseau de diffusion des archives du Québec. (S.d.) *De coutume en culture*. RDAQ Le réseau de diffusion des archives du Québec. <https://rdaq.banq.qc.ca/expositions_virtuelles/coutumes_culture/decembre/mots_expressions/coutume_culture.html>
+* Le réseau de diffusion des archives du Québec. (S.d.) *De coutume en culture*. RDAQ Le réseau de diffusion des archives du Québec <https://rdaq.banq.qc.ca/expositions_virtuelles/coutumes_culture/decembre/mots_expressions/coutume_culture.html>
 
 Selon le site ci-dessous, Socrate voyait l’amour plus comme un démon que comme un dieu (alors que votre texte prétend qu'il le voit comme un dieu).
 * S.a. (S.d.). *Résumé du Banquet (page 2)*. Les Philosophes.fr : accélérateur de lecture. <https://www.les-philosophes.fr/platon/philosophe-antique/platon-banquet/Page-2.html>
 
 Selon la ressource ci-dessous, on comprend bien que Derrida commente dans son texte *La Pharmacie de Platon* la vision de l’écriture de Platon, mais on ne sait pas si son commentaire est positif ou négatif alors que dans votre texte il prend position.
-* Librairie Gallimard.(S.d.). *Phèdre; La Pharmacie de Platon*. Librairie Gallimard : Paris.  <https://www.librairie-gallimard.com/livre/9782080712684-phedre-la-pharmacie-de-platon-platon-jacques-derrida/>
+* Librairie Gallimard.(S.d.). *Phèdre; La Pharmacie de Platon*. Librairie Gallimard : Paris. <https://www.librairie-gallimard.com/livre/9782080712684-phedre-la-pharmacie-de-platon-platon-jacques-derrida/>
 
 L'article ci-dessous vient confirmer que le mot δεινός est un terme ambigu comme c'est écrit dans le chapitre 1.
 * Mastroianni, M. (2015). Trois *interpretationes* de l’«  Antigone  » de Sophocle. Gentien Hervet (1541), Georges Rataller (1550) et Jean Lalemant (1557). *Anabases*. [En ligne], 21 | 2015. p.61-77. URL: <http://journals.openedition.org/anabases/5229; DOI: https://doi.org/10.4000/anabases.5229>
 
 Je ne trouve pas cette citation: «Roi, qu'as-tu fais \ ? Tu as permis à un grec terrible et sage de construire une ville en Thrace…».
 
-Je ne trouve pas de ressource autre que vous pour confirmer la véracité de cette citation: « L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et terrible) semble être presque une expression figée en grec. ».
+Je ne trouve pas de ressource autre que vous pour confirmer l'exactitude de cette citation: « L’expression «\ σοφὸς καὶ δεινός ἀνήρ\ » (homme sage et terrible) semble être presque une expression figée en grec. ».
 
 Je considère que les paragraphes commençants respectivement aux lignes 34 et 36 ne sont pas des faits, mais plutôt l’interprétation de l’auteur. Je n’ai donc pas de ressources pour confirmer les propos qu’on y retrouve.
 
 Ce texte montre que Socrate se disait possédé par des Nymphes ou Muses comme c'est écrit dans le chapitre 1:
 * Lefka, A. (2001). La floraison du *logos* platonicien au sein de la *phusis* : le *Phèdre* et les *Lois*. In E. Delruelle & V. Pirenne-Delforge (éds.), *Kêpoi* (1‑). Presses universitaires de Liège. <https://doi.org/10.4000/books.pulg.1093>
 
-Je considère que les paragraphes commençants respectivement aux lignes 40, 42 et 44 ne sont pas constitués de faits, mais plutôt de propos liés à l’hypothèse de l’auteur et à son analyse de ce dont il parlait plus tôt dans le texte, donc je n’ai pas de ressources pour appuyer ce qu'ils contiennent.
+Je considère que les paragraphes commençant respectivement aux lignes 40, 42 et 44 ne sont pas constitués de faits, mais plutôt de propos liés à votre hypothèse et à votre analyse de ce dont vous parliez plus tôt dans le texte, donc je n’ai pas de ressources pour appuyer ce qu'ils contiennent.
 
 Voici un texte expliquant la théorie de McGann sur l’importance de la matérialité sur le texte. Ça montre que l'auteur a bel et bien écrit sur la matérialité, comme c'est écrit dans le dernier paragraphe du chapitre 1.
 * Kiernan, K. (2013, 25 septembre). *La condition McGann*. POSTMODERN CULTURE: JOURNAL OF INTERDISCIPLINARY THOUGHT ON CONTEMPORARY CULTURES. <https://www.pomoculture.org/2013/09/25/la-condition-mcgann/>
@@ -64,13 +64,13 @@ Cette ressource mène à la description du livre de Roger Chartier sur l’énon
 Voici un texte de Roger Chartier sur la matérialité du texte qui prouve que l'auteur a bel et bien écrit sur le sujet, comme c'est écrit dans le dernier paragraphe du chapitre 1:
 * Chartier, R. (2017). Matérialité du texte et attentes de lecture. Concordances ou discordances ? *Lumen*, 36, 1–20. <https://doi.org/10.7202/1037851ar>
 
-Texte qui prouve que Jeanneret et Souchier ont bien travaillé ensemble sur l’énonciation éditoriale en 2005 comme c'est écrit dans le chapitre 1:
-* Jeanneret, Y. et Souchier, E. (2005). L’énonciation éditoriale dans les écrits d’écran. *Communication & Langages*. (n°145) p. 3-15.  <https://www.persee.fr/doc/colan_0336-1500_2005_num_145_1_3351>
+Voici un texte qui prouve que Jeanneret et Souchier ont bien travaillé ensemble sur l’énonciation éditoriale en 2005 comme c'est écrit dans le chapitre 1:
+* Jeanneret, Y. et Souchier, E. (2005). L’énonciation éditoriale dans les écrits d’écran. *Communication & Langages*. (n°145) p. 3-15. <https://www.persee.fr/doc/colan_0336-1500_2005_num_145_1_3351>
 
-On retrouve avec cette ressource le chapitre 1 de *Understanding Media: The extensions of Man* de McLuhan où on voit qu’il propose l’idée que le média est le message votre texte le disait:
+On retrouve avec cette ressource le chapitre 1 de *Understanding Media: The Extensions of Man* de McLuhan où on voit qu’il propose l’idée que le média est le message tel que votre texte le disait:
 * McLuhan, M. (1964). *Understanding Media: The Extensions of Man*. <https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf>
 
-On retrouve avec la ressource ci-dessous le résumé du livre de Jean-Marc Larrue qui explique que les médias n’existent pas. Ça confirme donc qu’il a bien proposé cette théorie sur les médias comme vous l’affirmez dans le dernier paragraphe de son chapitre 1.
+On retrouve avec la ressource ci-dessous le résumé du livre de Jean-Marc Larrue qui explique que les médias n’existent pas. Ça confirme donc qu’il a bien proposé cette théorie sur les médias comme vous l’affirmez dans le dernier paragraphe du chapitre 1.
 * S.a. (2025). *Media do not exist: performativity and mediating conjunctures.* Université de Montréal | Papyrus. <https://umontreal.scholaris.ca/items/99528460-1527-4635-ab02-ca67958d73da>
 
 On voit dans l'article ci-dessous quelques théories de Karen Barad en lien avec le new materialism. Ça vient confirmer qu'elle a bel et bien travaillé sur ce sujet tel que mentionné dans le dernier paragraphe du chapitre 1.
