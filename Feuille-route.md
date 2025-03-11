@@ -26,3 +26,4 @@ Sources utilisées pour la correction des chapitres 1, 2 et 3 :
 * [Banque de dépannage linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique) ;
 * [Le Petit Robert](https://www.lerobert.com/)
 * [Usito](https://usito.usherbrooke.ca/)
+* Antidote, version 10.6.4_F_54
