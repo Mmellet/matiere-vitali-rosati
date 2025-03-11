@@ -14,14 +14,15 @@ Aussi, selon quelques sources, l'expérience de Stern aurait été accomplie en 
 * [Revue Culture Science Chimie](https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/chimie-quantique-modelisation/monde-quantique-experience-de-stern-et)
 
 ### Chapitre 3
-bloup
+Excellent raccord avec l'édition. J'ai procédé à plusieurs changements dans l'ordre des paragraphes afin de liées certaines idées entre elles et j'ai procédée à quelques inversions également (voir les commentaires dans le corps du texte à cet effet).
 
 ## Recherches complémentaires
 Faire attention à l'emploi de la conjonction de coordination _car_ : elle est, dans presque tout les cas, précédé d'une virgule. Pour d'avantage d'information, je vous invite à consulter ce [lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/23447/la-ponctuation/virgule/la-virgule-avec-car). 
 
-Portez attention à l'emploi de la formulation _questionner_; celle-ci est fortmement déconseillée par les grammarien·nes puisqu'il s'agit d'un claque anglais. Vous constaterez que j'ai modifié les diverses apparations par les formules suivantes : « remettre en question », « met en doute  » (chap. 1), « interroge » (chap. 2). Pour plus d'informations à ce sujet, n'hésitez pas à consulter cette [source](https://vitrinelinguistique.oqlf.gouv.qc.ca/22775/les-emprunts-a-langlais/emprunts-semantiques/emploi-deconseille-de-lemprunt-questionner).
+Portez attention à l'emploi de la formulation _questionner_; celle-ci est fortmement déconseillée par les grammarien·nes puisqu'il s'agit d'un claque anglais. Vous constaterez que j'ai modifié les diverses apparations par les formules suivantes : « remettre en question », « met en doute  » (chap. 1), « interroge » (chap. 2), « survoler » (chap. 3). Pour plus d'informations à ce sujet, n'hésitez pas à consulter cette [source](https://vitrinelinguistique.oqlf.gouv.qc.ca/22775/les-emprunts-a-langlais/emprunts-semantiques/emploi-deconseille-de-lemprunt-questionner).
 
 Sources utilisées pour la correction des chapitres 1, 2 et 3 : 
 * Ramat de la typographie, 11e édition — [voir l'ouvrage](https://www.ramat.ca/) ;
 * [Banque de dépannage linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique) ;
-* ...
+* [Le Petit Robert](https://www.lerobert.com/)
+* [Usito](https://usito.usherbrooke.ca/)
