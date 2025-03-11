@@ -6,7 +6,7 @@
 Intéressante proposition au sujet de l'utilisation des termes horrible et terrible dans les textes gracs. Le texte est enrichissant et pertinent dans son ensemble. Toutefois, il sera important de faire attention à l'enchaînement de vos idées pour qu'elles soient davantage fluide lors de la lecture du texte. J'ai vous ai proposé quelques changement d'ordre de paragraphes afin d'afinner les liens logiques entre certains éléments du texte. 
 
 ### Chapitre 2
-L'anecdote et le rapprochement qui est fait avec la matière vue au chapitre est très cohérente. Seuls quelques ajustements sont nécessaires dans l'ordre des paragraphes (voir les commentaire dans le corps du texte). 
+L'anecdote et le rapprochement qui est fait avec la matière vue au chapitre est très cohérente. Seuls quelques ajustements sont nécessaires dans l'ordre des paragraphes (voir les commentaire dans le corps du texte). J'ai également modifiée la structure des phrases du dernier paragraphes puisqu'il y avait quelques incohérences et confusion. Pour le reste du texte, votre écriture m'apparait très bien! 
 
 Aussi, selon quelques sources, l'expérience de Stern aurait été accomplie en février 1922. J'ai inclue cette information au texte pour qu'il n'y ai pas de confusion de date entre l'élaboration de l'expérience (1921) et sa réalisation (1922).
 * [Approche Documentaire - PDF](https://cpge-paradise.com/MP4Phys/AD/AD1%20Stern.pdf)
