@@ -3,7 +3,7 @@
 ### Commentaires généraux  
 Mettre en italique les mots en grec car ce sont des mots cités d'une autre langue.  
 \
-Chapitre 1  
+#### Chapitre 1  
 Suggestion de modification de l'ordre de la première phrase pour mieux saisir le contexte et le sujet de la phrase, Platon. Cela donnerait : "Platon, par le choix d'un adjectif, dans le dialogue connu pour sa critique de l'écriture et plus généralement de la matière, dans le texte qui fait l'éloge de l'immatérialité de l'âme opposée à la matérialité du corps, de l'immatérialité du *λόγος* opposée à la matérialité de la *γραφὴ*, nous révèle une conception bien plus complexe que le dualisme immatérialiste."  
 Ajouter les traductions des deux mots en grec dans la même phrase.  
 Suggestion d'ajouter une note de bas de page pour préciser le philosophe auquel il y a référence, Platon.  
@@ -20,7 +20,7 @@ Suggestion d'ajouter une note de bas de page pour expliquer ce que sont les "Lar
 Correction date de R. Chartier, 2021 pas 2017.  
 Correction date de McLuhan, 1964 pas 1966.  
 \
-Chapitre 2  
+#### Chapitre 2  
 Recommandation de couper la première phrase à "physique quantique" et de reprendre en ajoutant "Il s'agit de...". Cela rend la phrase plus facile à lire, moins longue.  
 Recommandation d'ajouter une phrase explicative ou une note de bas de page concernant "certaines valeurs discrètes" car ce n'est pas forcément explicite pour tous les lecteurs.  
 Correction de la date de l'expérience, 1922.  
@@ -31,7 +31,7 @@ Recommandation d'ajouter une note de bas de page ou une phrase pour expliquer ce
 Suggestion de déplacer le paragraphe commençant par "Le dispositif d'observation n'est pas idéal" afin de suivre les idées du texte et de garder une continuité dans les propos.  
 
 \
-Chapitre 3  
+#### Chapitre 3  
 Recommandation d'ajouter une note de bas de page pour préciser ce qu'est la "doxa".  
 Suggestion de reformuler "Le texte est, lui aussi, idéalisé" pour rendre plus fluide et compréhensible.  
 Recommandation de reformulation : "Il existerait un texte idéal" au lieu de "Il y aurait quelque chose comme un texte idéal" pour rendre le texte moins lourd.  
