@@ -4,7 +4,9 @@
 Excellent texte avec une argumentation claire. Faire attention à ...
 
 ### Recherches complémentaires
-Pour la ponctuation, voir les sources suivantes : 
+Faire attention à l'emploi de la conjonction de coordination _car_ : elle est, dans presque tout les cas, précédé d'une virgule. Pour d'avantage d'information, je vous invite à consulter ce [lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/23447/la-ponctuation/virgule/la-virgule-avec-car). 
+
+Sources utilisées pour la correction des chapitre 1, 2 et 3 : 
 * Ramat de la typographie, 11e édition
-* BDL : [Le tiret dans la mise en valeur d’un passage](https://vitrinelinguistique.oqlf.gouv.qc.ca/23378/la-ponctuation/tiret/le-tiret-dans-la-mise-en-valeur-dun-passage)
+* Banque de Dépannage Linguistique
 * autres
