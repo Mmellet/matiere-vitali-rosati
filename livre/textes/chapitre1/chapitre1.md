@@ -12,11 +12,11 @@ Pour le philosophe du monde des idées, l'écriture est δεινός : terrible.
 
 δεινός est un adjectif important dans le _Phèdre_, et pour Platon en général. Socrate l'avait déjà utilisé pour caractériser son propre discours contre l'amour.
 
-Toujours avec une anastrophe, il avait dit\ :
+Toujours avec une anastrophe, il avait dit :
 
 >δεινόν, ὦ Φαῖδρε, δεινὸν λόγον αὐτός τε ἐκόμισας ἐμέ τε ἠνάγκασας εἰπεῖν^[« Horrible, Phèdre, horrible discours est le discours dont tu t'es chargé et celui que tu m'as obligé à faire. » _Ma traduction_.]`(\Plato [Phèdre]{242}[d])`{=latex}
 
-C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Charybde\ :
+C’est aussi l’adjectif utilisé, par exemple, par Homère pour décrire Charybde :
 
 >αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν^[« Après avoir fui les rochers et l'horrible Charybde... »] (`\Homer[Odyssée]{12}[260]`{=latex})
 
