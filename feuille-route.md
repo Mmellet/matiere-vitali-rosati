@@ -1,6 +1,6 @@
-##Feuille de route
+## Feuille de route
 
-###Commentaires généraux  
+### Commentaires généraux  
 Mettre en italique les mots en grec car ce sont des mots cités d'une autre langue.  
 \
 Chapitre 1  
@@ -47,7 +47,7 @@ Recommandation de déplacer "en réalité" après "Et si" pour faciliter la lect
 
 
 
-###Sources consultées  
+### Sources consultées  
 Le Larousse, dictionnaire en ligne : [lien](https://www.larousse.fr/)   
 Site internet de l'auteur : [lien](https://vitalirosati.com/)  
 Wikipédia, la page dédiée à Phèdre de Platon : [lien](https://fr.wikipedia.org/wiki/Ph%C3%A8dre_(Platon)) et celle sur les Large Language Model : [lien](https://en.wikipedia.org/wiki/Large_language_model)  
