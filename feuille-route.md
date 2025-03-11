@@ -19,7 +19,7 @@ Suggestion de fusionner deux phrases : "L'hypothèse que je voudrais démontrer 
 Suggestion d'ajouter une note de bas de page pour expliquer ce que sont les "Large Language Models".  
 Correction date de R. Chartier, 2021 pas 2017.  
 Correction date de McLuhan, 1964 pas 1966.  
-\
+
 #### Chapitre 2  
 Recommandation de couper la première phrase à "physique quantique" et de reprendre en ajoutant "Il s'agit de...". Cela rend la phrase plus facile à lire, moins longue.  
 Recommandation d'ajouter une phrase explicative ou une note de bas de page concernant "certaines valeurs discrètes" car ce n'est pas forcément explicite pour tous les lecteurs.  
@@ -30,7 +30,7 @@ Recommandation d'ajouter une note de bas de page ou une phrase pour expliquer ce
 "Adjoint en 1920" Question à l'auteur : Est-ce une volonté de mettre la décennie ou est-ce une erreur de date et faut-il mettre 1922 ?  
 Suggestion de déplacer le paragraphe commençant par "Le dispositif d'observation n'est pas idéal" afin de suivre les idées du texte et de garder une continuité dans les propos.  
 
-\
+
 #### Chapitre 3  
 Recommandation d'ajouter une note de bas de page pour préciser ce qu'est la "doxa".  
 Suggestion de reformuler "Le texte est, lui aussi, idéalisé" pour rendre plus fluide et compréhensible.  
