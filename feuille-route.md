@@ -8,17 +8,20 @@
 - Ajout d'espaces dans le dernier paragraphe pour ahérer la lecture et garder une bonne cohhésion dans la division du texte.
 - Ajout de plusieurs virgules, erreur récurrente dans le texte.
 - Retrait des barres obliques dans le texte.
+- Correction des doubles tirets.
 
 # Chapitre 2
 
 - Modification de « conteste » à la place de « questionne » puisqu'il s'agit d'un angliciscme.
 - Ajout de plusieurs virgules, erreur récurrente dans le texte.
 - Retrait des barres obliques dans le texte.
+- Correction des doubles tirets.
 
 # Chapitre 3
 
 - Ajout de plusieurs virgules, erreur récurrente dans le texte.
 - Retrait des barres obliques dans le texte.
+- Correction des doubles tirets.
 
 
 ### Ressources 
