@@ -11,6 +11,8 @@ _(Révision terminée le 10 mars 2025 par Sophie Chauvel-Gobin)_
 * L'utilisation du tiret cadratin est préférable lorsque l'on souhaite isoler ou mettre en relief des informations dans le corps du texte. Pour de plus amples informations, vous pouvez consulter le site Le Robert en ligne\ : <https://dictionnaire.lerobert.com/guide/tiret>
 
 * Pour fluidifier la lecture de votre texte, il est préférable d'utiliser des virgules ou autres signes de ponctuation. Pour de plus amples informations, vous pouvez consulter le site de l'Office québécois de la langue française\ : <https://vitrinelinguistique.oqlf.gouv.qc.ca/23443/la-ponctuation/virgule/les-roles-de-la-virgule> ainsi que le site USITO Le dictionnaire de l'UDS \: https://usito.usherbrooke.ca/articles/aides_%C3%A0_la_r%C3%A9daction/LesPrincipalesR%C3%A8glesDEmploiDeLaPonctuation>
+  
+* Il est préférable de mettre la traduction de tous les termes grecs, dès qu'ils sont évoqués. Certains lecteurs n'y sont pas familier et risquent d'être perdus dans la compréhension du texte.
     
 ### Commentaires chapitre 1
  
