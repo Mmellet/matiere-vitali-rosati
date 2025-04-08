@@ -1,3 +1,5 @@
+# Le cercle de la modélisation
+
 ## Le cercle de la modélisation
 
 \lettrine{L}e rapport entre théorie du texte et incarnation matérielle du texte en un document peut être pensé comme un cas de modélisation. En suivant la suggestion de Jean-Guy Meunier [@meunier_humanites_2014; @meunier_humanites_2017], nous pouvons donc identifier trois étapes de la modélisation\ : un modèle théorique, un modèle formel et un modèle matériel. Selon cette approche, il y aurait d'abord une description théorique du texte, faite en langage naturel\ ; ensuite une formalisation de cette description en un langage non ambigu -- formel justement\ ; et pour finir une implémentation matérielle du modèle formel. 
