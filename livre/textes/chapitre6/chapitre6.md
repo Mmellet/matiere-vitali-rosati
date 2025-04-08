@@ -1,4 +1,6 @@
-## Mais alors qu'est ce qu'un être humain\ ?
+# Mais alors qu'est-ce qu'un être humain\ ?
+
+## Mais alors qu'est-ce qu'un être humain\ ?
 
 \lettrine{C}omme je l'annonçais, il y a une troisième implication de nos réflexions, une conséquence ontologique fondamentale, peut-être celle qui explique la réticence à embrasser une vision véritablement matérialiste du monde.
 
@@ -11,7 +13,6 @@ Mais que se passe-t-il si ce paradigme est renversé? Que se passe-t-il si c'est
 Prendre au sérieux le fait que la matière pense, prendre au sérieux le fait qu'il faut bien parler d'une théorie de l'édition et non seulement de pratiques éditoriales signifie mettre en question la possibilité d'une définition stable de l'humain.  En suivant la suggestion de Karen Barad, il faut arrêter d'essayer de saisir l'essence de l'humain et s'intéresser plutôt aux dynamiques qui font en sorte que certaines définitions émergent dans certaines conditions particulières. Au lieu de se demander\ : «\ qu'est-ce que l'humain\ », il faut se demander «\ pourquoi a-t-on défini l'humain ainsi dans ce contexte\ ?\ ».
 
 La définition de l'humain, plus qu'être un point de départ, quelque chose de donné, sera le résultat d'un contexte particulier. Les humains ne sont plus les producteurs de sens, mais les produits d'un contexte matériel. L'auteur n'est pas le producteur du sens d'un texte, mais son produit. L'auteur émerge des dynamiques matérielles qui font le texte.
-
 
 Cette idée est au centre des réflexions de ce qu'on appelle les _posthuman studies_, une série d'approches et théories qui essayent de mettre en question une notion forte et bien définie d'humain. Le sens du mot post-humanisme doit ici être précisé car il peut porter à confusion. On pourrait en effet interpréter cette notion comme une tentative d'aller au delà de l'humain en «\ augmentant\ » des caractéristiques qui lui seraient essentielles et propres. C'est ce que proposent notamment les transhumanistes. Dans leur idée il s'agit d'identifier les aspects spécifiques de l'humain et de les rendre encore plus forts en s'appuyant notamment sur les technologies. Le post-humanisme a l'objectif opposé. Pour le dire avec les mots de Carry Wolfe\ :
 
@@ -36,14 +37,13 @@ prestabilito. A quella Filosofia, che viene ignorata nell’età dell’umanesim
 per capire la vibrazione con cui Valla dinanzi alla parola, al verbum, richiama al fatto che ci troviamo innanzi
 a un puro mezzo di comunicazione, cosa certo grandissima, ma umana. @garin_umanesimo_1994
 
-
 La compréhension de l'humanisme comme d'un mouvement qui véhiculerait une conception forte de l'humain et qui mettrait une idée désincarnée d'humain au centre est en réalité un mythe romantique. Ce mythe est souvent lié, dans notre imaginaire à une icône précise\ : celle de l'homme vitruvien de Léonard de Vinci^[Foglio 228 du Gabinetto Disegni e Stampe delle Gallerie dell’Accademia di Venezia.] qui est d'ailleurs souvent évoquée dans les critiques post-humanistes, jusqu'à être proposée, en version détournée dans la couverture du livre de Braidotti.
 
 Il me semble donc important, pour clore ma démonstration, de revenir à cette icône pour déconstruire l'idée d'être humain au centre du monde à laquelle elle a pu être reliée. 
 
 Le dessin est souvent présenté comme une géniale tentative de Léonard de proposer une idée d'être humain parfait [Cf. pour ne citer que quelques  exemples @lugli_cerca_2019; @salvi_approfondimenti_2012; @salvi_luomo_2020; @gros_vitruvio_2013.]\ : le corps inscrit dans un cercle, une série de proportions mathématiques harmonieuses qui révèlent de quelle manière l'humain est la réalisation parfaite d'un projet rationnel de la nature. D'une certaine manière, l'homme vitruvien serait donc une reformulation humaniste des structures métaphysiques médiévales\ : une essence forte et stable qui n'est plus garantie par Dieu, mais par les mathématiques qui régissent, comme des idées platoniciennes, un nouveau édifice métaphysique.
 
-Or cette lecture est tout simplement fausse, elle est une réinterprétation romantique de Léonard et du dessin, basée sur une idéalisation et sur une rhétorique immatérielle qui ignore -- ou en tout cas sousestime -- le fait que le dessin est d'abord une représentation graphique -- et on pourrait presque dire un commentaire -- d'une série de passages précis d'un texte, le _De architectura_ de Vitruve. 
+Or, cette lecture est tout simplement fausse, elle est une réinterprétation romantique de Léonard et du dessin, basée sur une idéalisation et sur une rhétorique immatérielle qui ignore -- ou en tout cas sousestime -- le fait que le dessin est d'abord une représentation graphique -- et on pourrait presque dire un commentaire -- d'une série de passages précis d'un texte, le _De architectura_ de Vitruve. 
 
 Le dessin est le croquis d'un lecteur qui essaie de bien comprendre son _auteur_. La relecture romantique invente la figure du grand génie, Léonard, qui produit une idée nouvelle, inédite et révolutionnaire, Léonard en tant qu'individu qui produit la pensée, mais cette figure n'est pas une réalité historique, mais une retroprojection.
 
@@ -68,8 +68,3 @@ Je propose donc de revenir à ces idées, d'oublier les _doxai_ immatérielles d
 Cela implique aussi d'abandonner une idée d'être humain forte et stable et réfléchir plutôt à comment les frontières qui distinguent l'humain d'autre chose se stabilisent et se déstabilisent dans des contextes particulier. 
 
 C'est la matière qui pense, et cela nous oblige à repenser le rôle des textes, des formats, de l'édition et des êtres humains. C'est la matière qui pense, l'édition devient une véritable philosophie.
-
-## Bibliographie
-
-
-
