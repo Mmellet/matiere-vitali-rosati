@@ -64,6 +64,3 @@ Une deuxième conséquence de nos considérations peut être aussi comprise comm
 
 Même l'approche OHCO est donc fortement matérielle. Il ne s'agit pas d'une structure abstraite. Pour être plus précis\ : le sens du mot «\ abstraction\ » est toujours relatif. Faire abstraction signifie mettre entre parenthèses un aspect que l'on ne veut pas considérer, justement pour pouvoir se concentrer sur la manipulation des autres aspects matériels qui nous intéressent et qui risqueraient de rendre trop complexe notre manipulation du texte.
 L'abstraction, loin d'être une tentative de saisir l'immatérialité, est un effort qui permet d'accroître la matérialité des éléments sur lesquels on se concentre en rendant possible le fait que leur matérialité se révèle de manière encore plus forte^[Une idée semblable est formulée par Matteo Pasquinelli qui affirme [@pasquinelli_eye_2023, p.\ 38]\ : «\ _Abstraction always operates within given material constraints and through them._\ »].
-
-
-
