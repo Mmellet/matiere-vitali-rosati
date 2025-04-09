@@ -1,16 +1,19 @@
 # TP Final - Feuille de route
+## Commentaires récurrents
+* Attention aux liens vers les chapitres dans la table des matières. Ils sont cliquables mais ne renvoients plus directement aux chapitres. 
 
-## Chapitre 4
-### Commentaires généraux
+## Commentaires par chapitres
+### Chapitre 4
+#### Commentaires généraux
 
-### Sources consultées
+#### Sources consultées
 
-## Chapitre 5
-### Commentaires Généraux
+### Chapitre 5
+#### Commentaires Généraux
 
-### Sources consultées
+#### Sources consultées
 
-## Chapitre 6
-### Commentaires Généraux
+### Chapitre 6
+#### Commentaires Généraux
 
-### Sources consultées
+#### Sources consultées
