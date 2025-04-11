@@ -1,10 +1,13 @@
+<!--Tous les commentaires sont mis au-dessus de chaque nouveau paragraphe qui les concerne.-->
+
 # Mais alors qu'est-ce qu'un être humain\ ?
 
 ## Mais alors qu'est-ce qu'un être humain\ ?
 
 \lettrine{C}omme je l'annonçais, il y a une troisième implication de nos réflexions, une conséquence ontologique fondamentale, peut-être celle qui explique la réticence à embrasser une vision véritablement matérialiste du monde.
 
-<au-dessus tiret + virgules
+<!--Il faudrait ajouter des signes de ponctuation (virgules) pour fluidifier la lecture.-->
+<!--Il faut mettre un trait d'union pour le mot "au-dessus".-->
 La production de sens est, en effet, la caractéristique fondamentale sur laquelle on fonde la définition de l'humain. L'être humain serait le producteur de la pensée. C'est ce qui, traditionnellement, permet de distinguer les humains de toutes les autres choses, et, en même temps, de les mettre au-dessus d'elles. L'être humain de Platon dans le _Phèdre_ est  l'entité qui, parce qu'elle est liée de façon privilégiée à l'immatérialité, s'élève au-dessus des autres choses du monde en se rapprochant des dieux. L'être humain des chrétiens, fait à l'image de Dieu, est, lui aussi, l'être qui se détache de l'immanence matérielle pour accéder à la transcendance\ : de cette manière, il se trouve au-dessus de toutes les autres choses du monde. La rhétorique de l'immatérialité est un dispositif de production de hiérarchies ontologiques.
 
 Ces hiérarchies permettent à la fois de distinguer les humains des autres animaux et de toutes les autres «\ choses du monde\ », mais aussi de déterminer qui est plus humain parmi les humains en mettant donc en place la production d'une élite qui s'oppose au reste des individus. Si l'essence de l'humain est de partager l'immatérialité qui caractérise ce qu'il y a de plus élevé ontologiquement, alors il y aura des humains plus humains que d'autres\ : des élites qui se rapprochent plus de l'immatérialité, des subalternes qui sont du côté de la matière et des autres choses inhumaines -- des formats, des protocoles, des supports, des techniques, des conditions économiques, etc.
@@ -15,23 +18,24 @@ Prendre au sérieux le fait que la matière pense, prendre au sérieux le fait q
 
 La définition de l'humain, plus qu'être un point de départ, quelque chose de donné, sera le résultat d'un contexte particulier. Les humains ne sont plus les producteurs de sens, mais les produits d'un contexte matériel. L'auteur n'est pas le producteur du sens d'un texte, mais son produit. L'auteur émerge des dynamiques matérielles qui font le texte.
 
-<virgules + au-delà
+<!--Il faudrait ajouter des signes de ponctuation (virgules) pour fluidifier la lecture.-->
+<!--Il faut mettre un trait d'union pour le mot "au-delà".-->
 Cette idée est au centre des réflexions de ce qu'on appelle les _posthuman studies_, une série d'approches et théories qui essayent de mettre en question une notion forte et bien définie d'humain. Le sens du mot post-humanisme doit ici être précisé, car il peut porter à confusion. On pourrait en effet interpréter cette notion comme une tentative d'aller au-delà de l'humain en «\ augmentant\ » des caractéristiques qui lui seraient essentielles et propres. C'est ce que proposent notamment les transhumanistes. Dans leur idée, il s'agit d'identifier les aspects spécifiques de l'humain et de les rendre encore plus forts en s'appuyant notamment sur les technologies. Le post-humanisme a l'objectif opposé. Pour le dire avec les mots de Carry Wolfe\ :
 
 >posthumanism in my sense isn’t posthuman at all — in the sense of being “after” our embodiment has been transcended — but is only posthumanist, in the sense that it opposes the fantasies of disembodiment and autonomy, inherited from humanism itself. @wolfe_what_2010
 
-<au-delà + virgules
+<!--Il faudrait ajouter des signes de ponctuation (virgules) pour fluidifier la lecture.-->
+<!--Il faut mettre un trait d'union pour le mot "au-delà".-->
 Plus qu'aller «\ au-delà\ » de l'humain, il s'agit de remonter en deçà d'une définition stable d'humain. Plus précisément, dans le texte de Wolfe, mais aussi, dans un autre des livres fondateurs de ce mouvement, celui de Rose Braidotti [@braidotti_posthuman_2013], il est question de s'opposer à l'idée de l'être humain désincarné et au centre de l'univers qui serait proposée notamment par l'humanisme.
 
-< virgules
+<!--Il faudrait ajouter des signes de ponctuation (virgules) pour fluidifier la lecture.-->
 Or, il me semble que ces auteurs se trompent d'objectif polémique quand ils considèrent l'humanisme comme responsable d'une idée forte, désincarnée et bien définie de l'humain. En réalité, l'humanisme, comme le souligne bien Eugenio Garin a eu une fonction opposée dans la conception de l'humain. Car l'humanisme a été d'abord et avant tout une critique radicale de l'essence humaine telle que définie dans la tradition scolastique et plus en général chrétienne. Pour les humanistes on ne peut plus penser l'humain comme une brique centrale de la structure métaphysique dont la cohérence est garantie par Dieu. Pour les humanistes, on ne peut plus fonder la définition de l'humain sur la base de la ressemblance à Dieu, ce qui lui garantirait une place centrale dans l'Univers. Les humanistes au contraire approchent l'humain de manière immanente et donc incarnée, en se concentrant sur ce qui est à la portée de notre espèce. Au lieu de s'appuyer sur une prétendue essence qui serait fondée sur une structure métaphysique préexistante, il faut regarder ce qui fait partie de notre immanence.  L'objet de l'étude ne sont donc plus «\ les grandes cathédrales d'idées\ », mais les textes et les artefacts culturels en tant qu'ils sont -- à différence de la métaphysique -- à mesure d'homme, et donc aussi incarnés.
 
 Cette attitude me semble tout à fait cohérente avec mon propos\ : abandonner une pyramide de valeurs qui se fonde sur des présupposées métaphysiques et revenir à la matérialité de l'immanence.
 
-L'humanisme est loin de l'outrecuidance anthropocentrique dont l'accusent Wolfe et Braidotti, il est plutôt l'humble acceptation de la contingence humaine. L'homme n'est pas au centre de l'univers, il devient juste la seule mesure possible, car on n'a pas de système ontologique garanti par une transcendance divine.
-
-< pas de S à métaphysique
-Garin le souligne en analysant les critiques qui ont été portées à la philosophie humaniste, comme philosophie faible, qui a perdu de vue les grands enjeux de la métaphysique scolastique\ :
+<!--On pourrait rassembler ces deux paragraphes.-->
+<!--Il faudrait supprimer le "s" du mot "métaphysique".-->
+L'humanisme est loin de l'outrecuidance anthropocentrique dont l'accusent Wolfe et Braidotti, il est plutôt l'humble acceptation de la contingence humaine. L'homme n'est pas au centre de l'univers, il devient juste la seule mesure possible, car on n'a pas de système ontologique garanti par une transcendance divine. Garin le souligne en analysant les critiques qui ont été portées à la philosophie humaniste, comme philosophie faible, qui a perdu de vue les grands enjeux de la métaphysique scolastique\ :
 
 >Perché ciò di cui
 si lamenta da tante parti la perdita è proprio quello che
@@ -48,14 +52,13 @@ Il me semble donc important, pour clore ma démonstration, de revenir à cette i
 
 Le dessin est souvent présenté comme une géniale tentative de Léonard de proposer une idée d'être humain parfait [Cf. pour ne citer que quelques exemples @lugli_cerca_2019; @salvi_approfondimenti_2012; @salvi_luomo_2020; @gros_vitruvio_2013.]\ : le corps inscrit dans un cercle, une série de proportions mathématiques harmonieuses qui révèlent de quelle manière l'humain est la réalisation parfaite d'un projet rationnel de la nature. D'une certaine manière, l'homme vitruvien serait donc une reformulation humaniste des structures métaphysiques médiévales\ : une essence forte et stable qui n'est plus garantie par Dieu, mais par les mathématiques qui régissent, comme des idées platoniciennes, un nouvel édifice métaphysique.
 
-<sous-estime tiret
+<!--Il faut mettre un trait d'union pour le mot "sous-estime".-->
 Or, cette lecture est tout simplement fausse, elle est une réinterprétation romantique de Léonard et du dessin, basée sur une idéalisation et sur une rhétorique immatérielle qui ignore -- ou en tout cas sous-estime -- le fait que le dessin est d'abord une représentation graphique -- et on pourrait presque dire un commentaire -- d'une série de passages précis d'un texte, le _De architectura_ de Vitruve. 
 
-Le dessin est le croquis d'un lecteur qui essaie de bien comprendre son _auteur_. La relecture romantique invente la figure du grand génie, Léonard, qui produit une idée nouvelle, inédite et révolutionnaire, Léonard en tant qu'individu qui produit la pensée, mais cette figure n'est pas une réalité historique, mais une rétroprojection.
+<!--On pourrait rassembler ces deux paragraphes.-->
+Le dessin est le croquis d'un lecteur qui essaie de bien comprendre son _auteur_. La relecture romantique invente la figure du grand génie, Léonard, qui produit une idée nouvelle, inédite et révolutionnaire, Léonard en tant qu'individu qui produit la pensée, mais cette figure n'est pas une réalité historique, mais une rétroprojection. Les raisons souvent évoquées pour appuyer ces interprétations sont le fait que les proportions représentées par Léonard ne correspondent pas à celles de Vitruve et que donc Léonard donne une lecture originale et créative du texte. Léonard créerait sa propre idée d'homme parfait.
 
-Les raisons souvent évoquées pour appuyer ces interprétations sont le fait que les proportions représentées par Léonard ne correspondent pas à celles de Vitruve et que donc Léonard donne une lecture originale et créative du texte. Léonard créerait sa propre idée d'homme parfait.
-
-<aux
+<!--Il faudrait ajouter un "x" au mot "aux".-->
 Or, comme le démontre Francesco Paolo Di Teodoro^[Je suis ici débiteur de deux articles @di_teodoro_vetruvio_2019 et @di_teodoro_leonardo_2023 outre que plusieurs conversations privées.], cette interprétation se base sur une abstraction du texte de Vitruve réel dont pouvait disposer Léonard. Les interpolations de Léonard ont été identifiées en confrontant son texte avec l'édition critique de Vitruve, un texte idéal, reconstruit par les philologues bien plus tard et que Léonard ne pouvait donc pas lire. 
 Il est intéressant que cette fausse démarche d'interprétation se fonde sur une idéalisation du texte de Vitruve qui permet ensuite une idéalisation du travail de Léonard\ : un texte abstrait donc, qui ne se touche pas, un texte imperceptible et de l'autre côté un génie créateur qui produit du sens à partir de rien. Cette idéalisation est par ailleurs contraire aux valeurs mêmes qui émergent à l'époque de Léonard, où voient le jour les premières approches philologiques et où on commence justement à se poser la question de la matérialité des textes et de l'origine des documents -- que l'on pense à la fameuse donation de Constantin.
 
@@ -64,17 +67,12 @@ Certaines interpolations sont dues donc à l'édition dont disposait Léonard.  
 
 Tombent ici l'idée de Léonard comme grand génie et l'idée de l'humanisme comme période qui essaye de mettre l'homme au centre du monde.
 
-Léonard n'est pas l'auteur, il est juste le produit de certains textes\ : le _De architectura_, mais non pas dans une version idéale du texte, mais dans une édition précise qu'il avait sous les yeux. Et l'humain, loin d'être le centre du monde, est ce qui ressort des textes.
+<!--On pourrait rassembler ces paragraphes.-->
+Léonard n'est pas l'auteur, il est juste le produit de certains textes\ : le _De architectura_, mais non pas dans une version idéale du texte, mais dans une édition précise qu'il avait sous les yeux. Et l'humain, loin d'être le centre du monde, est ce qui ressort des textes. L'idée de l'humanisme est que ce sont les textes qui définissent l'humain et qu'il n'y a pas quelque chose comme l'humain qui serait définit par un dessin divin qui le placerait au centre de l'univers, mais plutôt une humanité qui ressort des textes. L'humanitas -- en restant dans la tradition cicéronienne dont la redécouverte par Petrarque constitue justement le début de l'humanisme -- est l'étude des lettres, et ces lettres sont des textes matériels.
 
-L'idée de l'humanisme est que ce sont les textes qui définissent l'humain et qu'il n'y a pas quelque chose comme l'humain qui serait définit par un dessin divin qui le placerait au centre de l'univers, mais plutôt une humanité qui ressort des textes. L'humanitas -- en restant dans la tradition cicéronienne dont la redécouverte par Petrarque constitue justement le début de l'humanisme -- est l'étude des lettres, et ces lettres sont des textes matériels.
+<!--On pourrait rassembler ces paragraphes.-->
+<!--Il faudrait ajouter un "s" au mot "particuliers".-->
+<!--Il faudrait supprimer le "e" du mot "fort".-->
+La convergence entre une vision de ce type et l'émergence de la presse à caractères mobiles n'est pas un hasard. L'humanisme peut être considéré comme un moment de retour à la matérialité. Je propose donc de revenir à ces idées, d'oublier les _doxai_ immatérielles des romantiques et des post-structuralistes, de produire une véritable théorie de l'édition, de laisser de côté les mythes des grands individus, d'abandonner les hiérarchies symboliques et ontologiques. Cela implique aussi d'abandonner une idée d'être humain fort et stable et réfléchir plutôt à la façon dont les frontières qui distinguent l'humain d'autre chose se stabilisent et se déstabilisent dans des contextes particuliers. C'est la matière qui pense, et cela nous oblige à repenser le rôle des textes, des formats, de l'édition et des êtres humains. C'est la matière qui pense, l'édition devient une véritable philosophie.
 
-La convergence entre une vision de ce type et l'émergence de la presse à caractères mobiles n'est pas un hasard. L'humanisme peut être considéré comme un moment de retour à la matérialité.
-
-Je propose donc de revenir à ces idées, d'oublier les _doxai_ immatérielles des romantiques et des post-structuralistes, de produire une véritable théorie de l'édition, de laisser de côté les mythes des grands individus, d'abandonner les hiérarchies symboliques et ontologiques.
-
-<particuliers avec S, fort sans E
-Cela implique aussi d'abandonner une idée d'être humain fort et stable et réfléchir plutôt à la façon dont les frontières qui distinguent l'humain d'autre chose se stabilisent et se déstabilisent dans des contextes particuliers. 
-
-C'est la matière qui pense, et cela nous oblige à repenser le rôle des textes, des formats, de l'édition et des êtres humains. C'est la matière qui pense, l'édition devient une véritable philosophie.
-
-< suppression bibligraphie
+<!--Il faudrait supprimer la bibliographie, car elle n'apparaît pas dans le document PDF à cette page.-->
