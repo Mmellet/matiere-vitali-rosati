@@ -16,7 +16,8 @@ Réviseure : Coraline Bouleau
 * Je vous encourage à uniformiser l'usage de la majuscule pour un renvoi vers une référence (usage de voir ou de Voir dans une phrase). Par ailleurs, je vous suggère d'utiliser la mention Cf. à la place.
 * Format (auteur, date) et questionnement de la virgule.
 
-
+### Commentaire sur le chapitre 6
+Il y a quelques inadéquations entre le chapitre 6 version PDF et la version git.
 
 ### Sources consultées 
 * Typographie, langue et mise en forme :
