@@ -2,7 +2,7 @@
 
 Mandat de révision : correction d'épreuve des chapitres 4 à63 du livre *C'est la matière qui pense* de Marcello Vitali-Rosati.
 
-Date de la révision : 15 avril 2024.
+Date de la révision : 13 avril 2024.
 
 Réviseure : Coraline Bouleau
 
@@ -20,8 +20,11 @@ Réviseure : Coraline Bouleau
 Il y a quelques inadéquations entre le chapitre 6 version PDF et la version git.
 
 ### Sources consultées 
-* Typographie, langue et mise en forme :
-   * [Dictionnaire Larousse](https://www.larousse.fr/)
-   * [La Vitrine linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique/la-typographie)
-   * [DeepL](https://www.deepl.com/fr/translator)
+* Typographie et mise en forme :
+  * [La Vitrine linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique/la-typographie), notamment pour [la ponctuation dans une citation](https://vitrinelinguistique.oqlf.gouv.qc.ca/23205/la-redaction-et-la-communication/bibliographie-et-citations/citations/ponctuation-dans-les-citations).
+  * Notes de cours : ELD729 - Révision éditoriale.
+* Langue et orthographe :
+  * [Dictionnaire Larousse](https://www.larousse.fr/)
+  * [DeepL](https://www.deepl.com/fr/translator)
+  * Noms propres : Wikipédia ([Rosi Braidotti](https://fr.wikipedia.org/wiki/Rosi_Braidotti) ; [Cary Wolfe](https://en.wikipedia.org/wiki/Cary_Wolfe)).
 
