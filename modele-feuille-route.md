@@ -31,7 +31,7 @@ Réviseure : Coraline Bouleau
 
 ### Sources consultées 
 * Typographie et mise en forme :
-  * [La Vitrine linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique/la-typographie), notamment pour [la ponctuation dans une citation](https://vitrinelinguistique.oqlf.gouv.qc.ca/23205/la-redaction-et-la-communication/bibliographie-et-citations/citations/ponctuation-dans-les-citations).
+  * [La Vitrine linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique/la-typographie), notamment pour [la ponctuation dans une citation](https://vitrinelinguistique.oqlf.gouv.qc.ca/23205/la-redaction-et-la-communication/bibliographie-et-citations/citations/ponctuation-dans-les-citations) et la [coupure des mots](https://vitrinelinguistique.oqlf.gouv.qc.ca/24874/la-typographie/coupures/coupures-de-mots/principes-de-base-de-coupure-des-mots) en fin de ligne.
   * Notes de cours : ELD729 - Révision éditoriale.
   * [Alloprof](https://www.alloprof.qc.ca/fr/eleves)
 * Langue et orthographe :
