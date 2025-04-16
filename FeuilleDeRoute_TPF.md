@@ -12,7 +12,11 @@
 * Certains termes sont mis en italiques pour les mettre en valeur (_une_ réponse, _ce_ texte). Cependant, cela peut être confusant avec d'autres termes en gras dans le reste du texte, notamment les termes issus de langues étrangères. Une alternative pourrait être de mettre ces mots en gras, les rendant ainsi encore plus visibles et accentuant donc leur impact.
 * Le terme "_Spin_" est mis en italique dans le texte. Ce n'est pas nécessaire puisque le terme a déjà été défini dans les chapitres précédents.
 * Le terme "_médiate_" utilisé au début du chapitre pour parler de la matière, pourrait être remplacé par le terme _intermédiaire_. Ces mots ont le même sens, mais le deuxième à l'avantage d'être plus accessible au grand public.
-* 
+* Attention à l'enchaînement du texte entre les pages, notamment autour des exemples de code insérés dans le corps du texte. En effet, Entre les pages 14, 15 et 16, les phrases situées en fin de page servent à introduire l'exemple qui se situe en page suivante. Cela engendre une perte de cohérence.
+* L'image servant d'exmple à la fin de la page 15 n'appraît pas dans le texte final au format PDF.
+* Veillez à l'harmonie du texte dans les pages, notamment en cas d'ajout de lignes de code dans la texte. Le format des lignes de code dépasse dans les marges intérieures. En cas d'impression du texte, cela pourrait engendrer des problématiques de reliure et un inconfort à la lecture (obligation de se contortionner, ou de tordre le livre, pour lire ce qui se trouve au milieu de la double-page). 
+
+
 #### Sources consultées
 
 ### Chapitre 5
