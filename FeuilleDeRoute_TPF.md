@@ -30,5 +30,6 @@
 
 ### Chapitre 6
 #### Commentaires Généraux
+* Attention aux textes intégrés en langue original, lorsqu'il ne s'agit pas du français, il faut intégrer une traduction. 
 
 #### Sources consultées
