@@ -8,6 +8,7 @@
 * Certains termes sont à mettre en valeur dans le texte, notamment pour concerver une certaine marque d'oralité. Afin d'harmoniser ce type de mise en valeur, je vous recommande de concerver uniquement la face grasse. Cela permettra de libérer  l'italique, pour les mentions en langue étrangère, et les guillements. Vous pourrez donc utiliser les guillements français pour les citations, et les guillements anglais pour les ajouts qui ne sont ni des mises en valeur, ni des citations (ex. "L98" à la page 19 du PDF.)
 * Deux pages vides sont présentes dans le fichier PDF (pages 12 et 20). S'il ne s'agit pas d'une volonté liée à la conception, il faut les supprimer.
 * Les titres de chapitre sont présents deux fois sur les pages de titre. Cette double mention n'est pas utile, et peut gêner la lecture en allourdissant la page. Je vous recommande de ne concerver que le grand titre.
+* Attention aux césures, très fréquentes, qui peuvent gêner la lecture, surtout lorsqu'il s'agit de mots complexes ("abstraction", p.19 ; "complémentarité", p.24 ; ...), de césures renvoyant à la page suivant ("interaction", p.21-22 ; "justement", p.32-33), de césures dans les citations (citation de Garin, p.31) et de césures dans un nom d'auteur ("Eugenio Garin", p. 30 ; "Léonard", p.32).
 
 ## Commentaires par chapitres
 ### Chapitre 4
@@ -19,6 +20,7 @@
 * Veillez à bien nommer les auteurs et les oeuvres sur lesquelles vous vous appuyez dans le corps du texte. 
 
 #### Sources consultées
+* Dictionnaire en ligne, (pas de date), Larousse.fr
 
 ### Chapitre 5
 #### Commentaires Généraux
@@ -27,9 +29,12 @@
 * Attention à certains commentaires qui semblent apparaître dans le corps du texte. Ils ne permettent pas une lecture fluide et une bonne compréhension du texte (cf. _"mains à la pâte ou mains dans le cambouis"_.)
 
 #### Sources consultées
+* Dictionnaire en ligne, (pas de date), Larousse.fr
 
 ### Chapitre 6
 #### Commentaires Généraux
-* Attention aux textes intégrés en langue original, lorsqu'il ne s'agit pas du français, il faut intégrer une traduction. 
+* Attention aux textes intégrés en langue original, lorsqu'il ne s'agit pas du français, il faut intégrer une traduction.
+* Certaines informations mises entre parenthèses pourraient faire l'objet de notes de bas de page (cf. références à "être humain parfait", p. 32).
 
 #### Sources consultées
+* Dictionnaire en ligne, (pas de date), Larousse.fr
