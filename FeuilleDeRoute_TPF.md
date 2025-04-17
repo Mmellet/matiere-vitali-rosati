@@ -20,7 +20,8 @@
 * Veillez à bien nommer les auteurs et les oeuvres sur lesquelles vous vous appuyez dans le corps du texte. 
 
 #### Sources consultées
-* Dictionnaire en ligne, (pas de date), Larousse.fr
+* Dictionnaire Larousse en ligne sur le site *Larousse*\
+  [lien](https://www.larousse.fr)
 
 ### Chapitre 5
 #### Commentaires Généraux
@@ -29,7 +30,8 @@
 * Attention à certains commentaires qui semblent apparaître dans le corps du texte. Ils ne permettent pas une lecture fluide et une bonne compréhension du texte (cf. _"mains à la pâte ou mains dans le cambouis"_.)
 
 #### Sources consultées
-* Dictionnaire en ligne, (pas de date), Larousse.fr
+* Dictionnaire Larousse en ligne sur le site *Larousse*\
+  [lien](https://www.larousse.fr)
 
 ### Chapitre 6
 #### Commentaires Généraux
@@ -37,4 +39,5 @@
 * Certaines informations mises entre parenthèses pourraient faire l'objet de notes de bas de page (cf. références à "être humain parfait", p. 32).
 
 #### Sources consultées
-* Dictionnaire en ligne, (pas de date), Larousse.fr
+* Dictionnaire Larousse en ligne sur le site *Larousse*\
+  [lien](https://www.larousse.fr)
