@@ -59,7 +59,7 @@ Tombent ici l'idée de Léonard, comme grand génie, et l'idée de l'humanisme, 
 
 Léonard n'est pas l'auteur, il est juste le produit de certains textes\ : le _De architectura_, non pas dans une version idéale du texte, mais dans une édition précise qu'il avait sous les yeux. Et l'humain, loin d'être le centre du monde, est ce qui ressort des textes.
 
-L'idée de l'humanisme est que ce sont les textes qui définissent l'humain, et qu'il n'y a pas quelque chose comme l'humain qui serait définit par un dessin divin qui le placerait au centre de l'univers, mais plutôt une humanité qui ressort des textes. L'humanitas <!-- Vous vouliez dire "l'humanité" ? S'il s'agit d'une citation en langue original de Cicéron, ajoutez des guillements.-->-- en restant dans la tradition cicéronienne dont la redécouverte par Petrarque constitue justement le début de l'humanisme -- est l'étude des lettres, et ces lettres sont des textes matériels.
+L'idée de l'humanisme est que ce sont les textes qui définissent l'humain, et qu'il n'y a pas quelque chose comme l'humain qui serait définit par un dessin divin qui le placerait au centre de l'univers, mais plutôt une humanité qui ressort des textes. L'humanitas <!-- Vous vouliez dire "l'humanité" ? S'il s'agit d'une citation en langue original de Cicéron, ajoutez des guillemets.-->-- en restant dans la tradition cicéronienne dont la redécouverte par Petrarque constitue justement le début de l'humanisme -- est l'étude des lettres, et ces lettres sont des textes matériels.
 
 La convergence entre une vision de ce type et l'émergence de la presse à caractères mobiles n'est pas un hasard. L'humanisme peut être considéré comme un moment de retour à la matérialité.
 
